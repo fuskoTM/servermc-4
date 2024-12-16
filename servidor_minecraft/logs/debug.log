@@ -11551,3 +11551,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Dec2024 23:38:23.807] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [16Dec2024 23:39:26.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Dec2024 23:39:26.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 23:44:26.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 23:44:26.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 23:46:49.617] [Worker-Main-67/DEBUG] [ModernFix/]: Structure watching:redstone_torch_trail/trail2 is being run through DFU (hash 70f145f792102dd3bdc69bd1a19c30374e481b0aa00615cc68a17b72a990442b), this will cause launch time delays
+[16Dec2024 23:47:01.140] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_0 is being run through DFU (hash 509ef07905d3e6f1a301170bbd81f8df42bd9e5436df2a211855d1fa711e53d7), this will cause launch time delays
+[16Dec2024 23:47:01.282] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[16Dec2024 23:47:13.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Who You Gonna Call?]
+[16Dec2024 23:47:23.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Suit Up]
+[16Dec2024 23:49:26.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 23:49:26.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 23:50:24.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ lost connection: Disconnected
+[16Dec2024 23:50:24.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ left the game
+[16Dec2024 23:50:24.459] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of 1N_
+[16Dec2024 23:50:24.459] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 1N_

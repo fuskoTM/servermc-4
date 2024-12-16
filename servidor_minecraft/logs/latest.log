@@ -1407,3 +1407,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
   "[-105, 127, -76, -17, -30, 18, -21, 27, 6, -89, 6]"
 ]
 [16Dec2024 23:38:23.807] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[16Dec2024 23:47:13.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Who You Gonna Call?]
+[16Dec2024 23:47:23.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Suit Up]
+[16Dec2024 23:50:24.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ lost connection: Disconnected
+[16Dec2024 23:50:24.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ left the game
+[16Dec2024 23:50:24.459] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 1N_
