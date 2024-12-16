@@ -11276,3 +11276,86 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Dec2024 23:11:27.772] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
 [16Dec2024 23:11:28.115] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@39ae775f for service interface com.blamejared.clumps.platform.IEventHelper
 [16Dec2024 23:11:28.116] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@7521616e for service interface com.blamejared.clumps.platform.IPlatformHelper
+[16Dec2024 23:14:18.363] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[16Dec2024 23:14:20.684] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[16Dec2024 23:14:22.752] [Worker-Main-67/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[16Dec2024 23:14:22.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 23:14:23.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 23:14:28.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[16Dec2024 23:14:29.859] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/entity/Stoneling$StonelingVariant
+[16Dec2024 23:16:36.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was killed trying to hurt Skeleton
+[16Dec2024 23:16:36.188] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[16Dec2024 23:16:36.193] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1N_ was created at position [x:106, y:66, z:125, dim:minecraft:overworld]
+[16Dec2024 23:16:36.194] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[16Dec2024 23:16:36.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Your First Grave]
+[16Dec2024 23:16:36.213] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[16Dec2024 23:16:37.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [The Most Useful Key]
+[16Dec2024 23:16:38.479] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[16Dec2024 23:16:42.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Knowledge of Death]
+[16Dec2024 23:16:42.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [A Fast Comeback]
+[16Dec2024 23:16:44.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [Here They Come]
+[16Dec2024 23:16:47.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Monster Hunter]
+[16Dec2024 23:17:09.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was killed trying to hurt Skeleton
+[16Dec2024 23:17:09.436] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1N_ was created at position [x:110, y:66, z:112, dim:minecraft:overworld]
+[16Dec2024 23:17:09.437] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[16Dec2024 23:18:06.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [Chain Death]
+[16Dec2024 23:18:06.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was killed trying to hurt Skeleton
+[16Dec2024 23:18:06.385] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1N_ was created at position [x:99, y:72, z:115, dim:minecraft:overworld]
+[16Dec2024 23:18:06.387] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[16Dec2024 23:18:26.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was shot by Skeleton
+[16Dec2024 23:18:26.209] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1N_ was created at position [x:101, y:72, z:114, dim:minecraft:overworld]
+[16Dec2024 23:18:26.210] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[16Dec2024 23:18:42.128] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[16Dec2024 23:18:44.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Diamonds!]
+[16Dec2024 23:18:44.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Ice Bucket Challenge]
+[16Dec2024 23:18:44.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Acquire Hardware]
+[16Dec2024 23:18:47.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Isn't It Iron Pick]
+[16Dec2024 23:19:08.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was shot by Skeleton
+[16Dec2024 23:19:08.260] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1N_ was created at position [x:96, y:83, z:110, dim:minecraft:overworld]
+[16Dec2024 23:19:08.262] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[16Dec2024 23:19:22.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 23:19:22.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 23:19:26.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was shot by Skeleton
+[16Dec2024 23:19:26.263] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1N_ was created at position [x:92, y:83, z:112, dim:minecraft:overworld]
+[16Dec2024 23:19:26.265] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[16Dec2024 23:20:00.982] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[16Dec2024 23:20:00.988] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_start is being run through DFU (hash 6cb69eaf6251421e2379aa911cc377c259cf37087d31d4389d51b357a3d61a80), this will cause launch time delays
+[16Dec2024 23:20:00.988] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[16Dec2024 23:20:02.524] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_4_main is being run through DFU (hash cccebbf6685f2053fd7da36eb06e91d689ad94ddf865efdd68b92559b7023182), this will cause launch time delays
+[16Dec2024 23:20:02.595] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_3 is being run through DFU (hash eb477c83a67458fa25c049fb25fe6e0088abaa3c98fdce3fb8a28b95553e5224), this will cause launch time delays
+[16Dec2024 23:20:02.995] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_start_0 is being run through DFU (hash 82efdd0b4cee90e5e68e22a1ff771036a5dd355f840f9a56c321423a5883e5fa), this will cause launch time delays
+[16Dec2024 23:20:03.155] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_6_main is being run through DFU (hash 95b2db72dc9e5f8b3ebefc1ca0e863a6b019689f1b27f3df017b2feb67f146bf), this will cause launch time delays
+[16Dec2024 23:20:03.169] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:ceryneian_hind/ceryneian_hind_part_1 is being run through DFU (hash 8d1e717f7f690c4ecf038323a31ea2af8a2b26e4aa1514c6368f1507f1d22106), this will cause launch time delays
+[16Dec2024 23:20:03.178] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_well_0 is being run through DFU (hash f2c98b62ae0d1f718a8b66cadd64325dd33b46ffa2174bc5c0fad867b6e32004), this will cause launch time delays
+[16Dec2024 23:20:03.204] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[16Dec2024 23:20:03.227] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[16Dec2024 23:20:03.307] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_1 is being run through DFU (hash d25f5d1016e08f81f761c13842826b723a784b3ed519661d2471a6323f12ca4f), this will cause launch time delays
+[16Dec2024 23:20:03.390] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_room_3_stairs is being run through DFU (hash a15c1f69f295643dde9a5c2aad7ac530768e13a0bde9d420d727ea352185dc90), this will cause launch time delays
+[16Dec2024 23:20:03.404] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_room_2 is being run through DFU (hash 37563f2941461ef7d8e6191592200a16c5eb3367a5b34335d4fddf3ec16be70f), this will cause launch time delays
+[16Dec2024 23:20:03.415] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_room_1 is being run through DFU (hash 54f416298137fd412d5f3d210ad1457890ac321f1642bdd991b85be09b5a3498), this will cause launch time delays
+[16Dec2024 23:20:03.427] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_room_0 is being run through DFU (hash 3e9ef2e54824a6ca43024b4781522c722280ee587a3fb5aa4caaa8a161993cae), this will cause launch time delays
+[16Dec2024 23:20:03.454] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridor_crossing is being run through DFU (hash 3813f1a2eba981b289e5f97c435bf8a640fed97183bfe1a7c6223b2ab2792d72), this will cause launch time delays
+[16Dec2024 23:20:03.474] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/villager_normal_0 is being run through DFU (hash d2ae134ac60a5825de0a9c353367311d71b9b78e4f31e3b2b427669b7e092302), this will cause launch time delays
+[16Dec2024 23:20:03.667] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/iron_golem_normal_0 is being run through DFU (hash ea3049e475c277ee87d513089ceea83b8a69ef0fe438ab806c411341b5d29a1a), this will cause launch time delays
+[16Dec2024 23:20:03.689] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_top_0 is being run through DFU (hash c5c2d7fdd86eaa0d1fb310e863dc22306e59b6905aa38ea9bfc36c5f148846a9), this will cause launch time delays
+[16Dec2024 23:20:03.771] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridor_0 is being run through DFU (hash c8f71d1dda53f8af74cc8538ef59dc6a6bd5feebc7bb2d8f408555542df7c2ca), this will cause launch time delays
+[16Dec2024 23:20:03.782] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridor_terminator is being run through DFU (hash a5275b92a2de110f71279156511061f82005b8cb9aa43b6d0b2ac0dd724d8267), this will cause launch time delays
+[16Dec2024 23:20:03.787] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridors_deco_3 is being run through DFU (hash 4b39f4bc6ba61651707131b305838e47531a52af5e9fb5c0c925372e5cd6d438), this will cause launch time delays
+[16Dec2024 23:20:03.789] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_bridge_0 is being run through DFU (hash f95e3e1fb7a94527c198c4626097b99c33f547ab8a0417edb9401f8492279bfa), this will cause launch time delays
+[16Dec2024 23:20:03.794] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridors_deco_1 is being run through DFU (hash 0a840ff64a7ac143b2d7f70a7de4ff7cf02906f3d8b09e6df28d7444a111c142), this will cause launch time delays
+[16Dec2024 23:20:03.796] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridors_deco_2 is being run through DFU (hash b90fda1412cfffc696e13718d25ef520395726cc5ee32ff99965bf74e7b797ce), this will cause launch time delays
+[16Dec2024 23:20:03.800] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_deco_empty is being run through DFU (hash 5eca31e6512c853db410fc6913f5137878379dc4feccda0a6896c9e88c57ca53), this will cause launch time delays
+[16Dec2024 23:20:03.802] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_bridge_terminator is being run through DFU (hash 26c9d00c32a65e0905dd806c9873a43809b98540922efb3df79ae820c61f950d), this will cause launch time delays
+[16Dec2024 23:20:03.808] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_bridge_crossing is being run through DFU (hash 11287f448080283ce95ab4f7cf4f32e59867a4311f92b6c40a37a2c1d106afd9), this will cause launch time delays
+[16Dec2024 23:20:03.816] [Worker-Main-68/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_bridges_deco_0 is being run through DFU (hash cc460655f3526116855635b16cf01fe1225fa6e8ecc7124c8823d2571325ead9), this will cause launch time delays
+[16Dec2024 23:20:03.827] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[16Dec2024 23:20:04.553] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[16Dec2024 23:20:04.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3562ms or 71 ticks behind
+[16Dec2024 23:20:08.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Ashes 'n Bones]
+[16Dec2024 23:20:19.507] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[16Dec2024 23:20:19.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Knowledge raises the soul]
+[16Dec2024 23:21:37.744] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree4
+[16Dec2024 23:21:37.747] [Worker-Main-68/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[16Dec2024 23:21:45.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Sweet Dreams]
+[16Dec2024 23:21:45.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[16Dec2024 23:22:17.499] [Worker-Main-66/DEBUG] [ModernFix/]: Structure watching:logless_tree/acacia/logless_tree3 is being run through DFU (hash 357646c9d7acb87f020746aaf0c324fe695b11f0e81b193cd1498db4c86ae61a), this will cause launch time delays

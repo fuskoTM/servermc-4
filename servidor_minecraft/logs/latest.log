@@ -1185,3 +1185,42 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Dec2024 23:10:56.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Stone Age]
 [16Dec2024 23:11:12.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Getting an Upgrade]
 [16Dec2024 23:11:27.772] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[16Dec2024 23:14:18.363] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[16Dec2024 23:14:22.752] [Worker-Main-67/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[16Dec2024 23:14:29.859] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/entity/Stoneling$StonelingVariant
+[16Dec2024 23:16:36.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was killed trying to hurt Skeleton
+[16Dec2024 23:16:36.188] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[16Dec2024 23:16:36.194] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[16Dec2024 23:16:36.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Your First Grave]
+[16Dec2024 23:16:36.213] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[16Dec2024 23:16:37.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [The Most Useful Key]
+[16Dec2024 23:16:38.479] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[16Dec2024 23:16:42.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Knowledge of Death]
+[16Dec2024 23:16:42.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [A Fast Comeback]
+[16Dec2024 23:16:44.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [Here They Come]
+[16Dec2024 23:16:47.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Monster Hunter]
+[16Dec2024 23:17:09.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was killed trying to hurt Skeleton
+[16Dec2024 23:17:09.437] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[16Dec2024 23:18:06.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [Chain Death]
+[16Dec2024 23:18:06.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was killed trying to hurt Skeleton
+[16Dec2024 23:18:06.387] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[16Dec2024 23:18:26.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was shot by Skeleton
+[16Dec2024 23:18:26.210] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[16Dec2024 23:18:42.128] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[16Dec2024 23:18:44.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Diamonds!]
+[16Dec2024 23:18:44.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Ice Bucket Challenge]
+[16Dec2024 23:18:44.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Acquire Hardware]
+[16Dec2024 23:18:47.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Isn't It Iron Pick]
+[16Dec2024 23:19:08.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was shot by Skeleton
+[16Dec2024 23:19:08.262] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[16Dec2024 23:19:26.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was shot by Skeleton
+[16Dec2024 23:19:26.265] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[16Dec2024 23:20:00.982] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[16Dec2024 23:20:00.988] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[16Dec2024 23:20:04.553] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[16Dec2024 23:20:04.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3562ms or 71 ticks behind
+[16Dec2024 23:20:08.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Ashes 'n Bones]
+[16Dec2024 23:20:19.507] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[16Dec2024 23:20:19.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Knowledge raises the soul]
+[16Dec2024 23:21:45.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Sweet Dreams]
+[16Dec2024 23:21:45.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
