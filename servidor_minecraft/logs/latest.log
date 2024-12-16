@@ -1406,3 +1406,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
   "<partial numeric data>",
   "[-105, 127, -76, -17, -30, 18, -21, 27, 6, -89, 6]"
 ]
+[16Dec2024 23:38:23.807] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
