@@ -1167,3 +1167,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Dec2024 23:00:35.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ lost connection: Disconnected
 [16Dec2024 23:00:35.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ left the game
 [16Dec2024 23:00:35.911] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 1N_
+[16Dec2024 23:06:49.253] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@72600b8e[id=<null>,name=1N_,properties={},legacy=false] (/127.157.141.99:40875) lost connection: Disconnected
+[16Dec2024 23:09:58.223] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1N_[/127.157.141.99:58429] logged in with entity id 1696 at (9.5, 77.0, -6.5)
+[16Dec2024 23:09:58.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ joined the game
+[16Dec2024 23:09:58.244] [Server thread/INFO] [Jade/]: Syncing config to 1N_ (8466501c-f8f3-35f2-92c7-a3def4cf8e34)
+[16Dec2024 23:09:59.087] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 1N_ (18)
+[16Dec2024 23:09:59.088] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 1N_
+[16Dec2024 23:10:00.134] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8466501c-f8f3-35f2-92c7-a3def4cf8e34
+[16Dec2024 23:10:01.135] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8466501c-f8f3-35f2-92c7-a3def4cf8e34
+[16Dec2024 23:10:01.136] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1N_ (8466501c-f8f3-35f2-92c7-a3def4cf8e34) successfully connected to voice chat
+[16Dec2024 23:10:03.777] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/corosus/watut/PlayerStatus$PlayerChatState
+[16Dec2024 23:10:04.109] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundSetPlayerTeamPacket$Action
+[16Dec2024 23:10:26.807] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[16Dec2024 23:10:30.806] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[16Dec2024 23:10:45.074] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/api/event/SimpleHarvestEvent$ActionType
+[16Dec2024 23:10:45.075] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/puzzleslib/api/event/v1/core/EventResult
+[16Dec2024 23:10:56.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Stone Age]
+[16Dec2024 23:11:12.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Getting an Upgrade]
+[16Dec2024 23:11:27.772] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
