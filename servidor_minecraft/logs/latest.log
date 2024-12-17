@@ -2906,3 +2906,29 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [17Dec2024 20:32:16.380] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityDreadThrall['Dread Queen'/134687, l='ServerLevel[world]', x=1461.11, y=105.00, z=775.27] died: Dread Queen was slain by LastFist
 [17Dec2024 20:35:26.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Another Brick in the Wall]
 [17Dec2024 20:41:28.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Into Fire]
+[17Dec2024 20:45:40.535] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 20:45:52.129] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 20:46:52.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was slain by Ice Dragon
+[17Dec2024 20:46:52.993] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[17Dec2024 20:46:53.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ moved wrongly!
+[17Dec2024 20:46:54.130] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[17Dec2024 20:46:54.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was blown up by Cave Creeper
+[17Dec2024 20:46:54.170] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 20:47:00.726] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 20:47:02.734] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 20:47:31.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was frozen by Ice Dragon
+[17Dec2024 20:47:31.938] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 20:47:32.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was frozen by Ice Dragon
+[17Dec2024 20:47:32.383] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[17Dec2024 20:47:38.250] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 20:47:39.730] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 20:47:42.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Ice Dragon
+[17Dec2024 20:47:42.089] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 20:47:52.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> TP
+[17Dec2024 20:47:53.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> TP
+[17Dec2024 20:48:01.831] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 20:48:33.042] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 20:48:41.795] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 20:49:36.744] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 20:49:42.497] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 20:50:36.436] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]

@@ -4986,6 +4986,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2024-12-17 20:49:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2024-12-17 19:26:47 +0000"
@@ -5028,6 +5034,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2024-12-17 20:49:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2024-12-17 20:26:56 +0000"
@@ -5052,9 +5064,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-17 20:47:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-12-17 20:26:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2024-12-17 20:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2024-12-17 20:45:04 +0000"
     },
     "done": true
   },
@@ -5070,15 +5100,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2024-12-17 20:49:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-17 20:00:57 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-17 20:49:31 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/building_blocks/iceandfire/sign_post_dreadwood": {
     "criteria": {
       "has_planks": "2024-12-17 20:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2024-12-17 20:49:47 +0000"
     },
     "done": true
   },
@@ -5118,6 +5166,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2024-12-17 20:49:47 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-17 19:40:30 +0000"
@@ -5148,9 +5202,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-17 20:47:23 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/book_of_lore": {
     "criteria": {
       "has_book": "2024-12-17 19:38:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2024-12-17 20:49:47 +0000"
     },
     "done": true
   },
@@ -5196,6 +5262,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2024-12-17 20:49:31 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-17 19:40:30 +0000"
@@ -5223,6 +5295,12 @@
   "aether:recipes/combat/chainmail_boots_repairing": {
     "criteria": {
       "has_chainmail_boots": "2024-12-17 20:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-17 20:49:47 +0000"
     },
     "done": true
   },
@@ -5265,6 +5343,12 @@
   "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2024-12-17 20:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-17 20:47:23 +0000"
     },
     "done": true
   },
