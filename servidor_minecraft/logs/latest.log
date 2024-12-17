@@ -2596,3 +2596,260 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [17Dec2024 19:44:37.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [Bone Crusher]
 [17Dec2024 19:45:00.987] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35205, l='ServerLevel[world]', x=1345.70, y=68.00, z=1140.39] died, message: 'Unemployed was slain by Sprinter'
 [17Dec2024 19:45:03.337] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[17Dec2024 19:54:41.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 6.075679379461462,5.8947526363393905,-6.149848349232457
+[17Dec2024 19:54:41.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 7.212582407039008,6.3886497388177474,-7.338054292289257
+[17Dec2024 19:54:41.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 8.384657896122462,6.824266983203657,-8.586820801420913
+[17Dec2024 19:54:41.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 9.580290679743484,7.208481392752034,-9.895067106538932
+[17Dec2024 19:54:41.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 10.793970402753075,7.547358501973704,-11.257882698003982
+[17Dec2024 19:54:41.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 12.021375370658916,7.846248112307208,-12.670479925283075
+[17Dec2024 19:54:41.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 8.26953950445295,2.775090151373078,-9.107470462280503
+[17Dec2024 19:54:41.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 9.51228372890705,3.0076035526021627,-10.608132927116685
+[17Dec2024 19:54:44.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 9.200724746326387,0.0,-6.1963758632351755
+[17Dec2024 19:54:44.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 11.094062119226919,0.0,-7.347718101629539
+[17Dec2024 19:54:45.842] [Worker-Main-123/INFO] [ModernFix/]: Instantiating Mojang DFU
+[17Dec2024 19:55:18.897] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/GlobeManager$Model
+[17Dec2024 19:55:20.554] [Worker-Main-123/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=1691, y=50, z=482}
+[17Dec2024 19:55:20.555] [Worker-Main-123/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=1690, y=50, z=482}
+[17Dec2024 19:55:23.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -7.7673657705865935,0.0,-6.842676886702975
+[17Dec2024 19:55:23.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -8.29699231319728,0.0,-7.3092524811509065
+[17Dec2024 19:55:23.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -8.76412292377995,0.0,-7.7207721554540285
+[17Dec2024 19:55:23.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -9.176132122313902,0.0,-8.083732508189314
+[17Dec2024 19:55:23.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -9.43568950439635,0.0,-8.323468935760388
+[17Dec2024 19:55:23.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -9.664619115392952,0.0,-8.534916464878165
+[17Dec2024 19:55:23.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -9.86653503229195,0.0,-8.721413185559982
+[17Dec2024 19:55:23.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -10.04462487099704,0.0,-8.885903293201409
+[17Dec2024 19:55:23.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -10.20170010873494,0.0,-9.030983568141096
+[17Dec2024 19:55:23.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -10.340240468419779,0.0,-9.158944370637869
+[17Dec2024 19:55:23.191] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 19:55:26.638] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 19:55:46.236] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[17Dec2024 19:56:15.787] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 19:56:33.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [Strong or Careful]
+[17Dec2024 19:56:33.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Cyclops
+[17Dec2024 19:56:33.110] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[17Dec2024 19:56:33.128] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 19:56:35.431] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[17Dec2024 19:56:39.438] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 19:58:10.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Cyclops
+[17Dec2024 19:58:10.797] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 19:58:14.662] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[17Dec2024 19:58:14.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> XD
+[17Dec2024 19:58:16.480] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 19:58:23.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [My Name is Nobody]
+[17Dec2024 19:58:25.986] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 19:59:56.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has completed the challenge [Dread Citadel]
+[17Dec2024 19:59:57.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has completed the challenge [Dread Citadel]
+[17Dec2024 20:01:35.954] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 20:01:35.957] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=896, z=1073200}"
+}
+[17Dec2024 20:01:35.957] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 79 extra bytes: 
+[17Dec2024 20:01:35.957] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "vM'_cVrc}YP+.s |CF,jsf>&+/,0"
+]
+[17Dec2024 20:01:38.062] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 20:01:38.063] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=776, z=1073200}"
+}
+[17Dec2024 20:01:38.063] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 79 extra bytes: 
+[17Dec2024 20:01:38.064] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "u^K5W8{p;o<# kf-]2GkQK2q&+/,0"
+]
+[17Dec2024 20:01:38.122] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 20:01:38.123] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1011, z=1073200}"
+}
+[17Dec2024 20:01:38.124] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 135 extra bytes: 
+[17Dec2024 20:01:38.124] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "J.r:s?Q~r-U5/a& CVQdk;.[ZC&+/,0/524.ip.gl.ply.gg"
+]
+[17Dec2024 20:01:38.125] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChangeDifficultyPacket  id 2 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 20:01:38.126] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133814_": "NORMAL"
+}
+[17Dec2024 20:01:38.126] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 2 data of 158 extra bytes: 
+[17Dec2024 20:01:38.126] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "r-U5/a& CVQdk;.[ZC&+/,0/524.ip.gl.ply.gg"
+]
+[17Dec2024 20:01:38.127] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPickItemPacket  id 26 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 20:01:38.127] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134222_": 85
+}
+[17Dec2024 20:01:38.128] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 26 data of 155 extra bytes: 
+[17Dec2024 20:01:38.128] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "5/a& CVQdk;.[ZC&+/,0/524.ip.gl.ply.gg"
+]
+[17Dec2024 20:01:38.129] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSelectTradePacket  id 38 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 20:01:38.129] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134459_": 4204
+}
+[17Dec2024 20:01:38.130] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 38 data of 150 extra bytes: 
+[17Dec2024 20:01:38.130] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "CVQdk;.[ZC&+/,0/524.ip.gl.ply.gg"
+]
+[17Dec2024 20:01:38.131] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:StatusOnly  id 23 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 20:01:38.133] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134118_": 0.0,
+  "f_134119_": 0.0,
+  "f_134120_": 0.0,
+  "f_134121_": 0.0,
+  "f_134122_": 0.0,
+  "f_134123_": true,
+  "f_134124_": false,
+  "f_134125_": false
+}
+[17Dec2024 20:01:38.133] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 23 data of 204 extra bytes: 
+[17Dec2024 20:01:38.134] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "VQdk;.[ZC&+/,0/524.ip.gl.ply.gg+3& qGzm,Q-m{qwxu;L"
+]
+[17Dec2024 20:01:38.135] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 20:01:38.136] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=783, z=1073200}"
+}
+[17Dec2024 20:01:38.137] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 19 extra bytes: 
+[17Dec2024 20:01:38.135] [Netty Epoll Server IO #7/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x00007988127d1218.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md0a9dfe$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md0a9dfe$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[17Dec2024 20:01:38.138] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/P#nx/T.-\\"
+]
+[17Dec2024 20:01:39.517] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 20:01:39.518] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=972, z=1073200}"
+}
+[17Dec2024 20:01:39.518] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 24 extra bytes: 
+[17Dec2024 20:01:39.518] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-123, 105, -96, 115, 43, -80, 104, -15, -47, -23, -84, -58, -68, 26, 1, -95, -49, -57, 2, 86, -122, -65, -88, -35]"
+]
+[17Dec2024 20:01:39.519] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 20:01:39.519] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 5367713,
+  "f_133799_": "BlockPos{x=22682366, y=-1760, z=-24258107}"
+}
+[17Dec2024 20:01:39.519] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 147 extra bytes: 
+[17Dec2024 20:01:39.519] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "%g+;C|lxn[.MNY3p{&+/,0/52.ip.gl.ply.gg"
+]
+[17Dec2024 20:01:39.520] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSelectTradePacket  id 38 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 20:01:39.520] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134459_": 5568
+}
+[17Dec2024 20:01:39.521] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 38 data of 179 extra bytes: 
+[17Dec2024 20:01:39.521] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/,0/52.ip.gl.ply.gg+3& jq1+(C0 CkK~o+G"
+]
+[17Dec2024 20:02:10.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 0.35482226468388944
+[17Dec2024 20:02:10.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 1.0574023157230386
+[17Dec2024 20:02:10.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 0.5398050990903585
+[17Dec2024 20:02:10.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 1.3654025075211393
+[17Dec2024 20:02:10.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 0.49891380648045924
+[17Dec2024 20:02:14.646] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 20:02:14.646] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=994, z=905264}"
+}
+[17Dec2024 20:02:14.647] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 18 extra bytes: 
+[17Dec2024 20:02:14.647] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-117, -76, 109, 31, 104, -120, -101, -106, -81, -2, -58, -125, 111, -69, 122, -41, 35, 52]"
+]
+[17Dec2024 20:02:19.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 0.32461029043386364
+[17Dec2024 20:02:19.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 0.7995717900445863
+[17Dec2024 20:03:27.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was slain by Dread Scuttler
+[17Dec2024 20:03:27.112] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[17Dec2024 20:04:01.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [Bone Crusher]
+[17Dec2024 20:05:10.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Suit Up]
+[17Dec2024 20:05:22.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastFist moved too quickly! 9.615902761299594,-1.8751356021945895,2.2063465304460124
+[17Dec2024 20:05:54.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [The Song of the Dragons]
+[17Dec2024 20:06:10.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by 1N_
+[17Dec2024 20:06:10.103] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 20:06:16.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> AY GONORR
+[17Dec2024 20:08:32.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [You Need a Mint]
+[17Dec2024 20:10:07.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Dread Scuttler
+[17Dec2024 20:10:07.133] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 20:10:26.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was slain by Dread Ghoul
+[17Dec2024 20:10:26.323] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[17Dec2024 20:10:28.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Dread Ghoul
+[17Dec2024 20:10:28.062] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 20:10:34.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ lost connection: Disconnected
+[17Dec2024 20:10:34.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ left the game
+[17Dec2024 20:10:34.674] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 1N_
+[17Dec2024 20:10:37.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Dread Scuttler
+[17Dec2024 20:10:37.574] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 20:10:47.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Dread Beast
+[17Dec2024 20:10:47.647] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 20:10:56.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Dread Beast
+[17Dec2024 20:10:56.255] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 20:11:15.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Dread Beast
+[17Dec2024 20:11:15.267] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 20:11:15.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1N_[/127.157.141.99:41529] logged in with entity id 117873 at (1515.4235983094964, 86.0625, 750.6969919842145)
+[17Dec2024 20:11:15.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ joined the game
+[17Dec2024 20:11:15.594] [Server thread/INFO] [Jade/]: Syncing config to 1N_ (8466501c-f8f3-35f2-92c7-a3def4cf8e34)
+[17Dec2024 20:11:16.298] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 1N_ (18)
+[17Dec2024 20:11:16.298] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 1N_
+[17Dec2024 20:11:17.322] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8466501c-f8f3-35f2-92c7-a3def4cf8e34
+[17Dec2024 20:11:18.331] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8466501c-f8f3-35f2-92c7-a3def4cf8e34
+[17Dec2024 20:11:18.331] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1N_ (8466501c-f8f3-35f2-92c7-a3def4cf8e34) successfully connected to voice chat
+[17Dec2024 20:11:20.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> me jodi
+[17Dec2024 20:11:21.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was slain by Dread Ghoul
+[17Dec2024 20:11:21.092] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[17Dec2024 20:11:22.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> matalos
+[17Dec2024 20:11:36.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was slain by Dread Ghoul
+[17Dec2024 20:11:36.834] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[17Dec2024 20:11:56.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was slain by Dread Ghoul
+[17Dec2024 20:11:56.343] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
