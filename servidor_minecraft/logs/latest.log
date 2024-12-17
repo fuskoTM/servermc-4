@@ -2022,3 +2022,18 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
   "UrJe~'_D]P*a#8,0+/$(k#'g93=<5/p24.ip.gl.ply.gg"
 ]
 [17Dec2024 19:06:38.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Isn't It Iron Pick]
+[17Dec2024 19:14:34.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LastFist[/127.175.198.153:54483] logged in with entity id 19358 at (276.6041241761288, 71.0, 573.595505355042)
+[17Dec2024 19:14:34.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist joined the game
+[17Dec2024 19:14:34.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Mysterious Gift]
+[17Dec2024 19:14:34.313] [Server thread/INFO] [Jade/]: Syncing config to LastFist (6b21e182-7631-3fbc-8f23-4ba195d9581f)
+[17Dec2024 19:14:34.388] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[17Dec2024 19:14:34.397] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[17Dec2024 19:14:36.333] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[17Dec2024 19:14:36.446] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LastFist (18)
+[17Dec2024 19:14:36.447] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LastFist
+[17Dec2024 19:14:38.818] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6b21e182-7631-3fbc-8f23-4ba195d9581f
+[17Dec2024 19:14:39.818] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6b21e182-7631-3fbc-8f23-4ba195d9581f
+[17Dec2024 19:14:39.819] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player LastFist (6b21e182-7631-3fbc-8f23-4ba195d9581f) successfully connected to voice chat
+[17Dec2024 19:15:51.630] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[17Dec2024 19:15:51.631] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[17Dec2024 19:15:51.636] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
