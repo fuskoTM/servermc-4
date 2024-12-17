@@ -2932,3 +2932,14 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [17Dec2024 20:49:36.744] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
 [17Dec2024 20:49:42.497] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
 [17Dec2024 20:50:36.436] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 20:56:30.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Blade of the Dreaded Queen] to LastFist]
+[17Dec2024 20:56:38.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Unbreaking III to LastFist's item]
+[17Dec2024 20:56:41.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Mending to LastFist's item]
+[17Dec2024 20:57:38.218] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 20:58:36.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 20 [Stone Bricks] to LastFist]
+[17Dec2024 20:59:18.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Somehow, Pickarang Returned]
+[17Dec2024 21:02:04.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ice dragon flesh
+[17Dec2024 21:02:06.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> eso sirve?
+[17Dec2024 21:02:12.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> dragon meal
+[17Dec2024 21:02:15.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> el flesh es pa comer uno
+[17Dec2024 21:02:23.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> AH OK
