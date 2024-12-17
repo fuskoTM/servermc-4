@@ -5376,5 +5376,11 @@
     },
     "done": true
   },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_dispenser": "2024-12-17 18:30:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
