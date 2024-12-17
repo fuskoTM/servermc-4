@@ -2904,3 +2904,5 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [17Dec2024 20:29:13.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Mother of Dragons]
 [17Dec2024 20:30:45.389] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/potion/PotionFluid$BottleType
 [17Dec2024 20:32:16.380] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityDreadThrall['Dread Queen'/134687, l='ServerLevel[world]', x=1461.11, y=105.00, z=775.27] died: Dread Queen was slain by LastFist
+[17Dec2024 20:35:26.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Another Brick in the Wall]
+[17Dec2024 20:41:28.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Into Fire]

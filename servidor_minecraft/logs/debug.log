@@ -13517,3 +13517,9 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [17Dec2024 20:31:53.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Dec2024 20:31:53.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Dec2024 20:32:16.380] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityDreadThrall['Dread Queen'/134687, l='ServerLevel[world]', x=1461.11, y=105.00, z=775.27] died: Dread Queen was slain by LastFist
+[17Dec2024 20:35:26.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Another Brick in the Wall]
+[17Dec2024 20:36:53.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 20:36:53.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 20:41:28.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Into Fire]
+[17Dec2024 20:41:53.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 20:41:53.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
