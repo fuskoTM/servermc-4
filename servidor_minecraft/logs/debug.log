@@ -13490,3 +13490,30 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [17Dec2024 20:20:16.051] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
 [17Dec2024 20:21:53.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Dec2024 20:21:53.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 20:24:18.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Dread Scuttler
+[17Dec2024 20:24:18.682] [Server thread/DEBUG] [tombstone/]: A new grave of the player LastFist was created at position [x:1520, y:86, z:773, dim:minecraft:overworld]
+[17Dec2024 20:24:18.727] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 20:24:22.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was slain by Dread Scuttler
+[17Dec2024 20:24:22.086] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1N_ was created at position [x:1520, y:86, z:778, dim:minecraft:overworld]
+[17Dec2024 20:24:22.099] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[17Dec2024 20:24:27.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Dread Scuttler
+[17Dec2024 20:24:27.734] [Server thread/DEBUG] [tombstone/]: A new grave of the player LastFist was created at position [x:1520, y:86, z:774, dim:minecraft:overworld]
+[17Dec2024 20:24:27.745] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 20:24:56.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was slain by Dread Scuttler
+[17Dec2024 20:24:56.877] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1N_ was created at position [x:1527, y:86, z:767, dim:minecraft:overworld]
+[17Dec2024 20:24:56.882] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[17Dec2024 20:25:15.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Dread Scuttler
+[17Dec2024 20:25:15.328] [Server thread/DEBUG] [tombstone/]: A new grave of the player LastFist was created at position [x:1524, y:87, z:776, dim:minecraft:overworld]
+[17Dec2024 20:25:15.332] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 20:25:21.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was slain by Dread Scuttler
+[17Dec2024 20:25:21.878] [Server thread/DEBUG] [tombstone/]: A new grave of the player 1N_ was created at position [x:1531, y:86, z:772, dim:minecraft:overworld]
+[17Dec2024 20:25:21.881] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[17Dec2024 20:25:45.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 128 [Torch] to LastFist]
+[17Dec2024 20:26:53.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 20:26:53.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 20:27:21.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has completed the challenge [Eye of the Tiger]
+[17Dec2024 20:29:13.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Mother of Dragons]
+[17Dec2024 20:30:45.389] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/potion/PotionFluid$BottleType
+[17Dec2024 20:31:53.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 20:31:53.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 20:32:16.380] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityDreadThrall['Dread Queen'/134687, l='ServerLevel[world]', x=1461.11, y=105.00, z=775.27] died: Dread Queen was slain by LastFist

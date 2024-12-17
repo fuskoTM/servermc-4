@@ -2887,3 +2887,20 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [17Dec2024 20:19:55.058] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
 [17Dec2024 20:20:16.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was slain by Dread Ghoul
 [17Dec2024 20:20:16.051] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[17Dec2024 20:24:18.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Dread Scuttler
+[17Dec2024 20:24:18.727] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 20:24:22.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was slain by Dread Scuttler
+[17Dec2024 20:24:22.099] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[17Dec2024 20:24:27.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Dread Scuttler
+[17Dec2024 20:24:27.745] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 20:24:56.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was slain by Dread Scuttler
+[17Dec2024 20:24:56.882] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[17Dec2024 20:25:15.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Dread Scuttler
+[17Dec2024 20:25:15.332] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 20:25:21.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was slain by Dread Scuttler
+[17Dec2024 20:25:21.881] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[17Dec2024 20:25:45.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 128 [Torch] to LastFist]
+[17Dec2024 20:27:21.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has completed the challenge [Eye of the Tiger]
+[17Dec2024 20:29:13.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Mother of Dragons]
+[17Dec2024 20:30:45.389] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/potion/PotionFluid$BottleType
+[17Dec2024 20:32:16.380] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityDreadThrall['Dread Queen'/134687, l='ServerLevel[world]', x=1461.11, y=105.00, z=775.27] died: Dread Queen was slain by LastFist
