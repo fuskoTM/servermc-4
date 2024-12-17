@@ -5160,6 +5160,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-12-17 20:19:54 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2024-12-17 19:38:33 +0000"
@@ -5211,6 +5217,12 @@
   "iceandfire:recipes/building_blocks/dread_torch": {
     "criteria": {
       "has_item": "2024-12-17 20:06:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2024-12-17 20:19:54 +0000"
     },
     "done": true
   },
