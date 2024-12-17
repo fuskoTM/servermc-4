@@ -13838,3 +13838,108 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [17Dec2024 21:21:53.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Dec2024 21:21:53.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Dec2024 21:23:11.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Sharpness V to LastFist's item]
+[17Dec2024 21:23:25.041] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[17Dec2024 21:23:30.316] [Worker-Main-176/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Dec2024 21:23:38.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastFist moved wrongly!
+[17Dec2024 21:24:02.827] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:witches_treestump/witches_treestump
+[17Dec2024 21:24:07.374] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:frostmaw_spawn
+[17Dec2024 21:24:10.367] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:animal_den/polar_bear_den
+[17Dec2024 21:24:39.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Ice Dragon
+[17Dec2024 21:24:39.431] [Server thread/DEBUG] [tombstone/]: A new grave of the player LastFist was created at position [x:1271, y:73, z:309, dim:minecraft:overworld]
+[17Dec2024 21:24:39.436] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 21:26:05.930] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[17Dec2024 21:26:15.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has completed the challenge [Rude Awakening]
+[17Dec2024 21:26:30.446] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/client/render/entity/player/GeckoPlayer$Perspective
+[17Dec2024 21:26:30.447] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/PlayerAbility$HandDisplay
+[17Dec2024 21:26:53.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 21:26:53.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 21:27:02.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Ice Dragon
+[17Dec2024 21:27:02.232] [Server thread/DEBUG] [tombstone/]: A new grave of the player LastFist was created at position [x:1287, y:70, z:235, dim:minecraft:overworld]
+[17Dec2024 21:27:02.236] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 21:29:24.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[17Dec2024 21:29:24.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[17Dec2024 21:29:24.774] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[17Dec2024 21:29:24.778] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[17Dec2024 21:29:24.797] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[17Dec2024 21:29:24.802] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[17Dec2024 21:29:30.222] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:redstone_torch_trail/trail1
+[17Dec2024 21:29:33.647] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[17Dec2024 21:29:34.157] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[17Dec2024 21:29:39.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[17Dec2024 21:29:44.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 10.0445425759699,0.0,4.968612959270377
+[17Dec2024 21:29:45.249] [Worker-Main-176/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[17Dec2024 21:29:47.591] [Worker-Main-176/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[17Dec2024 21:29:48.542] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:bazaar], ResourceKey[minecraft:worldgen/structure / idas:farmhouse], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=1557, y=67, z=107}
+[17Dec2024 21:29:48.559] [Worker-Main-176/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[17Dec2024 21:29:49.696] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1557, y=67, z=108} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[17Dec2024 21:29:49.696] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=1557, y=67, z=108}
+[17Dec2024 21:29:49.696] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1557, y=67, z=107} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[17Dec2024 21:29:49.696] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=1557, y=67, z=107}
+[17Dec2024 21:29:49.697] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1557, y=66, z=108} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[17Dec2024 21:29:49.697] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=1557, y=66, z=108}
+[17Dec2024 21:29:51.547] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[17Dec2024 21:29:51.558] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[17Dec2024 21:29:51.571] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[17Dec2024 21:29:51.584] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[17Dec2024 21:29:51.593] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[17Dec2024 21:29:51.599] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_0 is being run through DFU (hash f1300531218d9ff732065c9f8ca642b4b44a6e3f501632ab0e1c61e6acdb4bfa), this will cause launch time delays
+[17Dec2024 21:29:51.842] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[17Dec2024 21:29:51.854] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[17Dec2024 21:29:51.872] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[17Dec2024 21:29:51.887] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[17Dec2024 21:29:55.646] [Worker-Main-338/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[17Dec2024 21:30:01.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Ice Dragon
+[17Dec2024 21:30:01.983] [Server thread/DEBUG] [tombstone/]: A new grave of the player LastFist was created at position [x:1446, y:68, z:39, dim:minecraft:overworld]
+[17Dec2024 21:30:01.987] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 21:30:16.052] [Worker-Main-176/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[17Dec2024 21:30:16.055] [Worker-Main-176/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[17Dec2024 21:30:20.991] [Worker-Main-176/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=1698, y=67, z=120}
+[17Dec2024 21:30:29.772] [Worker-Main-176/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[17Dec2024 21:30:29.784] [Worker-Main-176/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[17Dec2024 21:30:29.797] [Worker-Main-176/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[17Dec2024 21:30:29.809] [Worker-Main-176/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[17Dec2024 21:30:29.816] [Worker-Main-176/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[17Dec2024 21:30:31.320] [Worker-Main-176/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[17Dec2024 21:30:46.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Ice Dragon
+[17Dec2024 21:30:46.337] [Server thread/DEBUG] [tombstone/]: A new grave of the player LastFist was created at position [x:1534, y:65, z:-16, dim:minecraft:overworld]
+[17Dec2024 21:30:46.344] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[17Dec2024 21:31:43.124] [Worker-Main-338/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[17Dec2024 21:31:45.507] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree4
+[17Dec2024 21:31:53.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 21:31:53.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 21:31:55.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_2_wither
+[17Dec2024 21:32:00.115] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:nexus/nexus_white
+[17Dec2024 21:32:09.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 4.891529837287294,1.8184984251625735,-9.4334732738198
+[17Dec2024 21:32:09.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 5.896044821657938,2.0641529592782035,-11.359913293104682
+[17Dec2024 21:32:09.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 6.906995707267811,2.280820258368209,-13.296113206918108
+[17Dec2024 21:32:31.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 7.27469578040791,0.0,-8.701070810795386
+[17Dec2024 21:32:31.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 8.732164320910897,0.0,-10.440385015647252
+[17Dec2024 21:32:31.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 10.190253978504415,0.0,-12.17947822646613
+[17Dec2024 21:32:34.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.0398043765962939,-10.936906300251636,-0.5254240282462064
+[17Dec2024 21:32:34.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.1489491978879869,-12.184868133772085,-0.5805760481415234
+[17Dec2024 21:32:37.854] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[17Dec2024 21:32:37.902] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[17Dec2024 21:32:37.916] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_2 is being run through DFU (hash 6d894f474be7edd88ed8bab9ce59099e96d3a95e4988125d46800acbd96a176f), this will cause launch time delays
+[17Dec2024 21:32:37.971] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[17Dec2024 21:32:37.988] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_2 is being run through DFU (hash 3b98e8aeaf403e69a3fad7de7f17c48bf822826c5e01fcfd693001b357c0af8a), this will cause launch time delays
+[17Dec2024 21:32:38.077] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[17Dec2024 21:32:38.084] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_2 is being run through DFU (hash 674404d5ca3ef8cef61cda2ad120a98b31f3e67d6db899b5f9064d011d9ae5d8), this will cause launch time delays
+[17Dec2024 21:32:38.101] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_2 is being run through DFU (hash f3d5e864513064cb00980606061c16d685b14e604b542bbd094be281a9ad5b13), this will cause launch time delays
+[17Dec2024 21:32:38.144] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[17Dec2024 21:32:38.153] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[17Dec2024 21:32:38.233] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:shiraz_palace/shiraz_palace_part_13 is being run through DFU (hash 33537b62427ed79a11fdfbd7bd7e834741242df13ed02a10fc9fa58b6e060bbf), this will cause launch time delays
+[17Dec2024 21:32:38.482] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[17Dec2024 21:32:38.569] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[17Dec2024 21:32:38.604] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_triple_0
+[17Dec2024 21:32:38.608] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[17Dec2024 21:32:38.619] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_part_0 is being run through DFU (hash ed8131990a308c38696bda81118b71a38fca0d13f70cc445daf62e0c4b16c211), this will cause launch time delays
+[17Dec2024 21:32:38.705] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_pillager_0 is being run through DFU (hash 4f6418d8793538812f40b3cad48d103447de9054e0e7920d296a2a60cba50fe8), this will cause launch time delays
+[17Dec2024 21:32:38.821] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_vindicator_1 is being run through DFU (hash 1129a2cdccc6062b097dca606c97e7dba621e451413d3846830d33de61225eab), this will cause launch time delays
+[17Dec2024 21:32:38.833] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_witch_2 is being run through DFU (hash 0b6e8fb951eb52bd628ece6dac3281894833c4fc6d12d1f3c35bb4171a3c8bfd), this will cause launch time delays
+[17Dec2024 21:32:38.842] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_3 is being run through DFU (hash 8bc9932226adcc9f828b30bf861fd128616101a3cf3a24f4549a7583f0b88dfb), this will cause launch time delays
+[17Dec2024 21:32:38.850] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_2 is being run through DFU (hash 49d608108637cabd9be898562076920feec7ea873c9a8556f11c2f6c51104cf1), this will cause launch time delays
+[17Dec2024 21:32:38.860] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_0 is being run through DFU (hash 56399e8a7ad4cb5f3492fcdba2c3ed9f13aa33d4f675142c5ec2160b7ba36988), this will cause launch time delays
+[17Dec2024 21:32:38.880] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_1 is being run through DFU (hash 838e46056670e5e4d0733967cc594841e9e552d6ffd62c9a752a5326e0169017), this will cause launch time delays
+[17Dec2024 21:32:38.892] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_4 is being run through DFU (hash 7f2025ab1d354267130f1a96c309e6ab7d6afe06ea925aaa7836305d25745969), this will cause launch time delays
+[17Dec2024 21:32:39.042] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_part_1 is being run through DFU (hash aab7a31f17e08b142bdbd3cd6cd6527bfe6694a16e52232355ec3bd07f61e701), this will cause launch time delays
+[17Dec2024 21:33:13.779] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/184389, l='ServerLevel[world]', x=1449.63, y=64.00, z=331.28] died, message: 'Unemployed suffocated in a wall'
