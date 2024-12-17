@@ -13943,3 +13943,18 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [17Dec2024 21:32:38.892] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_4 is being run through DFU (hash 7f2025ab1d354267130f1a96c309e6ab7d6afe06ea925aaa7836305d25745969), this will cause launch time delays
 [17Dec2024 21:32:39.042] [Worker-Main-105/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_part_1 is being run through DFU (hash aab7a31f17e08b142bdbd3cd6cd6527bfe6694a16e52232355ec3bd07f61e701), this will cause launch time delays
 [17Dec2024 21:33:13.779] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/184389, l='ServerLevel[world]', x=1449.63, y=64.00, z=331.28] died, message: 'Unemployed suffocated in a wall'
+[17Dec2024 21:33:33.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 10 [Ice Dragon Blood] to LastFist]
+[17Dec2024 21:33:53.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Frosted Prison]
+[17Dec2024 21:34:07.633] [integratedapi-1-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of idas:castle/castle2
+[17Dec2024 21:34:07.679] [Worker-Main-105/DEBUG] [ModernFix/]: Using cached upgraded version of idas:abandonedhouse/abandonedhouse2
+[17Dec2024 21:34:07.837] [Worker-Main-176/DEBUG] [ModernFix/]: Using cached upgraded version of idas:bearclaw_inn/bearclaw_inn_path
+[17Dec2024 21:34:07.840] [Worker-Main-176/DEBUG] [ModernFix/]: Using cached upgraded version of idas:bearclaw_inn/bearclaw_inn_stables
+[17Dec2024 21:34:08.139] [Worker-Main-176/DEBUG] [ModernFix/]: Structure idas:wizard_tower/redwizardtower1 is being run through DFU (hash bf45b1cbfc639be62d11c22d5806b33b9cc9a66d9b890495e74e31c323761c37), this will cause launch time delays
+[17Dec2024 21:34:08.266] [Worker-Main-176/DEBUG] [ModernFix/]: Structure idas:wizard_tower/redwizardtower2 is being run through DFU (hash de4c11047a15152bae9fc496b1b5fb0cab615b3ae8471c044b8388c9e0078c3a), this will cause launch time delays
+[17Dec2024 21:34:08.490] [integratedapi-1-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of idas:castle/castle1
+[17Dec2024 21:34:08.767] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[17Dec2024 21:34:09.171] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[17Dec2024 21:36:53.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 21:36:53.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 21:41:53.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 21:41:53.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

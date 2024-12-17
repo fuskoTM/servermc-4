@@ -3213,3 +3213,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [17Dec2024 21:32:34.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.0398043765962939,-10.936906300251636,-0.5254240282462064
 [17Dec2024 21:32:34.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.1489491978879869,-12.184868133772085,-0.5805760481415234
 [17Dec2024 21:33:13.779] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/184389, l='ServerLevel[world]', x=1449.63, y=64.00, z=331.28] died, message: 'Unemployed suffocated in a wall'
+[17Dec2024 21:33:33.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 10 [Ice Dragon Blood] to LastFist]
+[17Dec2024 21:33:53.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Frosted Prison]
+[17Dec2024 21:34:09.171] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
