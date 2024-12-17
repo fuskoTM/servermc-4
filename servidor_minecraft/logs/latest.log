@@ -1643,3 +1643,381 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [17Dec2024 18:31:51.081] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/corosus/watut/PlayerStatus$PlayerChatState
 [17Dec2024 18:32:07.436] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
 [17Dec2024 18:32:20.881] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[17Dec2024 18:44:33.852] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:33.853] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1007, z=1073200}"
+}
+[17Dec2024 18:44:33.854] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 113 extra bytes: 
+[17Dec2024 18:44:33.854] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "{s{$TqW~a}  z+XM'?NTzC O&+/,0/5"
+]
+[17Dec2024 18:44:33.855] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:33.856] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 123,
+  "f_133799_": "BlockPos{x=-12598759, y=1487, z=-13127519}"
+}
+[17Dec2024 18:44:33.856] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 103 extra bytes: 
+[17Dec2024 18:44:33.857] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "$TqW~a}  z+XM'?NTzC O&+/,0/5"
+]
+[17Dec2024 18:44:33.858] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPongPacket  id 32 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:33.858] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_179721_": 534975946
+}
+[17Dec2024 18:44:33.859] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 32 data of 132 extra bytes: 
+[17Dec2024 18:44:33.859] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "z+XM'?NTzC O&+/,0/524.ip.gl.ply.gg"
+]
+[17Dec2024 18:44:33.860] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundJigsawGeneratePacket  id 17 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:33.860] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134073_": "BlockPos{x=32025955, y=-1715, z=27937503}",
+  "f_134074_": 650438,
+  "f_134075_": true
+}
+[17Dec2024 18:44:33.861] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 17 data of 120 extra bytes: 
+[17Dec2024 18:44:33.861] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "?NTzC O&+/,0/524.ip.gl.ply.gg"
+]
+[17Dec2024 18:44:33.863] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundMoveVehiclePacket  id 24 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:33.864] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134185_": 1.5297425300043354E-308,
+  "f_134186_": 3.6157960144155776E-308,
+  "f_134187_": 5.449452297630516E-270,
+  "f_134188_": 6.3015724E-36,
+  "f_134189_": 3.8207006E-37
+}
+[17Dec2024 18:44:33.864] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 24 data of 26 extra bytes: 
+[17Dec2024 18:44:33.865] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[1, 0, 0, 0, 0, 0, 18, 0, 0, 0, 43, 0, 9, 8, 3, 4, 3, 3, 3, 2, 3, 1, 0, 51, 0, 38]"
+]
+[17Dec2024 18:44:33.865] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:33.866] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=0, y=0, z=73728}"
+}
+[17Dec2024 18:44:33.866] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 52 extra bytes: 
+[17Dec2024 18:44:33.866] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+3& TM\\S33(8D 93D"
+]
+[17Dec2024 18:44:33.867] [Netty Epoll Server IO #4/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x00007988127d1218.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md0a9dfe$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md0a9dfe$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[17Dec2024 18:44:35.282] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:35.283] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=990, z=1073200}"
+}
+[17Dec2024 18:44:35.284] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 71 extra bytes: 
+[17Dec2024 18:44:35.284] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "%z2^^ mf>P _kdtdR#P8xp&+/,"
+]
+[17Dec2024 18:44:37.633] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:37.634] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=937, z=1073200}"
+}
+[17Dec2024 18:44:37.634] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 104 extra bytes: 
+[17Dec2024 18:44:37.634] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "R<<sk?X]]*`uI1 cJ<^{eVY=4q%'j6?S=&+/,0/5"
+]
+[17Dec2024 18:44:37.635] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSetCommandMinecartPacket  id 42 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:37.636] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134529_": 96,
+  "f_134530_": "�I�1\u0011� \u0017cJ<�^{���e�VY=4q��%�\u0015'j6?S��=�\u0000&�+�/�,�0̨̩�\t�\u0013�\n�\u0014\u0000�\u0000�\u0000/\u00005�\u0012\u0000\n\u0013\u0001\u0013\u0002\u0013\u0003\u0001\u0000\u0000\u0014\u0000\u0012\u0000\u0000\u000f24.ip.gl.ply.gg\u0000\u0005\u0001\u0000\u0000\u0000\n\u0000\b\u0000\u001d\u0000\u0017\u0000",
+  "f_134531_": true
+}
+[17Dec2024 18:44:37.636] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 42 data of 26 extra bytes: 
+[17Dec2024 18:44:37.636] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 11, 0, 2, 1, 0, 0, 13, 0, 26, 0, 24, 8, 4, 4, 3, 8, 7, 8, 5, 8, 6, 4, 1, 5, 6]"
+]
+[17Dec2024 18:44:37.637] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:37.638] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 11
+}
+[17Dec2024 18:44:37.638] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 25 extra bytes: 
+[17Dec2024 18:44:37.638] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 2, 1, 0, 0, 13, 0, 26, 0, 24, 8, 4, 4, 3, 8, 7, 8, 5, 8, 6, 4, 1, 5, 6, 5]"
+]
+[17Dec2024 18:44:37.639] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:37.639] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 2
+}
+[17Dec2024 18:44:37.640] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 26 extra bytes: 
+[17Dec2024 18:44:37.640] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[1, 0, 0, 13, 0, 26, 0, 24, 8, 4, 4, 3, 8, 7, 8, 5, 8, 6, 4, 1, 5, 6, 5, 6, 3, 2]"
+]
+[17Dec2024 18:44:37.641] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:37.642] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=13312, y=-2044, z=27263360}"
+}
+[17Dec2024 18:44:37.642] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 17 extra bytes: 
+[17Dec2024 18:44:37.643] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[4, 3, 8, 7, 8, 5, 8, 6, 4, 1, 5, 6, 5, 6, 3, 2, 2]"
+]
+[17Dec2024 18:44:37.644] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChatAckPacket  id 3 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:37.645] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ServerboundChatAckPacket[offset=2]"
+[17Dec2024 18:44:37.645] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 3 data of 5 extra bytes: 
+[17Dec2024 18:44:37.646] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[2, -1, 1, 0, 0]"
+]
+[17Dec2024 18:44:37.646] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChangeDifficultyPacket  id 2 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:37.647] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133814_": "HARD"
+}
+[17Dec2024 18:44:37.647] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 2 data of 26 extra bytes: 
+[17Dec2024 18:44:37.648] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[1, 0, 0, 0, 0, 0, 18, 0, 0, 0, 43, 0, 9, 8, 3, 4, 3, 3, 3, 2, 3, 1, 0, 51, 0, 38]"
+]
+[17Dec2024 18:44:37.648] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:37.649] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=0, y=0, z=73728}"
+}
+[17Dec2024 18:44:37.649] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 16 extra bytes: 
+[17Dec2024 18:44:37.649] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[43, 0, 9, 8, 3, 4, 3, 3, 3, 2, 3, 1, 0, 51, 0, 38]"
+]
+[17Dec2024 18:44:37.650] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChangeDifficultyPacket  id 2 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:37.650] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133814_": "HARD"
+}
+[17Dec2024 18:44:37.651] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 2 data of 41 extra bytes: 
+[17Dec2024 18:44:37.651] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "3& MJ0-DrrPl7Xuj_"
+]
+[17Dec2024 18:44:37.652] [Netty Epoll Server IO #6/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x00007988127d1218.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md0a9dfe$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md0a9dfe$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[17Dec2024 18:44:37.806] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:37.807] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=867, z=1073200}"
+}
+[17Dec2024 18:44:37.807] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[17Dec2024 18:44:37.808] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-82, 81, 3, -51, -49, 65, 4, 63, -9, -65, 59]"
+]
+[17Dec2024 18:44:59.738] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:59.738] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=922, z=1122352}"
+}
+[17Dec2024 18:44:59.738] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 118 extra bytes: 
+[17Dec2024 18:44:59.739] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  " iLEXaLa*ZQt V$x^~v@QL[L[?oX2+/,0/5#'<"
+]
+[17Dec2024 18:44:59.739] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundMoveVehiclePacket  id 24 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:59.740] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134185_": 1.7070670384705088E199,
+  "f_134186_": -9.174083833919428E-92,
+  "f_134187_": -9.010469779412129E128,
+  "f_134188_": -4.876722E-8,
+  "f_134189_": 4.527805E13
+}
+[17Dec2024 18:44:59.740] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 24 data of 106 extra bytes: 
+[17Dec2024 18:44:59.740] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "^~v@QL[L[?oX2+/,0/5#'<24.ip.gl.ply.gg"
+]
+[17Dec2024 18:44:59.740] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPickItemPacket  id 26 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:59.741] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134222_": 91
+}
+[17Dec2024 18:44:59.741] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 26 data of 136 extra bytes: 
+[17Dec2024 18:44:59.741] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "L[?oX2+/,0/5#'<24.ip.gl.ply.gg"
+]
+[17Dec2024 18:44:59.742] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundMoveVehiclePacket  id 24 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:59.742] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134185_": 1.71642948955536E-162,
+  "f_134186_": -13.875364308798538,
+  "f_134187_": -2.0729058801050997E61,
+  "f_134188_": -2.1679735,
+  "f_134189_": 1.4326557E-38
+}
+[17Dec2024 18:44:59.742] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 24 data of 102 extra bytes: 
+[17Dec2024 18:44:59.742] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/5#'<24.ip.gl.ply.gg"
+]
+[17Dec2024 18:44:59.743] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:59.743] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 47
+}
+[17Dec2024 18:44:59.743] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 123 extra bytes: 
+[17Dec2024 18:44:59.744] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "5#'<24.ip.gl.ply.gg+3&"
+]
+[17Dec2024 18:44:59.744] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:59.745] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 53
+}
+[17Dec2024 18:44:59.745] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 121 extra bytes: 
+[17Dec2024 18:44:59.745] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "#'<24.ip.gl.ply.gg+3&"
+]
+[17Dec2024 18:44:59.745] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:59.746] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 10
+}
+[17Dec2024 18:44:59.746] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 153 extra bytes: 
+[17Dec2024 18:44:59.746] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "#'<24.ip.gl.ply.gg+3& e:(5oC#]\\Wh/"
+]
+[17Dec2024 18:44:59.747] [Netty Epoll Server IO #0/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x00007988127d1218.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md0a9dfe$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md0a9dfe$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[17Dec2024 18:44:59.996] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:44:59.997] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=936, z=905264}"
+}
+[17Dec2024 18:44:59.997] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 108 extra bytes: 
+[17Dec2024 18:44:59.998] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "CW}?,jhgj2'f+3<(#8/0/5"
+]
+[17Dec2024 18:45:00.683] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Dec2024 18:45:00.684] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=952, z=856112}"
+}
+[17Dec2024 18:45:00.684] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 126 extra bytes: 
+[17Dec2024 18:45:00.684] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "UrJe~'_D]P*a#8,0+/$(k#'g93=<5/p24.ip.gl.ply.gg"
+]
