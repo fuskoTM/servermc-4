@@ -12878,3 +12878,46 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [17Dec2024 19:41:38.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
 [17Dec2024 19:41:38.567] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
 [17Dec2024 19:41:39.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[17Dec2024 19:41:40.380] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:hunters_cabin/hunters_cabin
+[17Dec2024 19:41:41.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:lumber_camp/lumber_camp_oak
+[17Dec2024 19:41:41.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[17Dec2024 19:41:42.243] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[17Dec2024 19:41:42.265] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[17Dec2024 19:41:42.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[17Dec2024 19:41:42.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[17Dec2024 19:41:42.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[17Dec2024 19:41:42.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 19:41:42.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 19:41:45.997] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[17Dec2024 19:41:46.601] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$MovementMode
+[17Dec2024 19:41:48.080] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[17Dec2024 19:41:48.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[17Dec2024 19:41:48.217] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[17Dec2024 19:41:48.307] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[17Dec2024 19:41:48.313] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[17Dec2024 19:41:48.816] [Worker-Main-123/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[17Dec2024 19:41:49.059] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[17Dec2024 19:41:50.569] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:nexus/nexus_white
+[17Dec2024 19:41:53.095] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/StatueBlockTile$StatuePose
+[17Dec2024 19:41:53.174] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[17Dec2024 19:43:25.124] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[17Dec2024 19:43:25.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_2_wither
+[17Dec2024 19:43:28.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/center_hut
+[17Dec2024 19:43:28.685] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/gate/wall_church
+[17Dec2024 19:43:28.708] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/gate/wall_tents
+[17Dec2024 19:43:28.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/gate/closed_jail
+[17Dec2024 19:43:28.760] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/corner/outside_inner_corner_grave
+[17Dec2024 19:43:28.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/corner/outside_corner_stables
+[17Dec2024 19:43:28.820] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/corner/outside_corner_barracks
+[17Dec2024 19:43:28.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/corner/outside_corner_farm
+[17Dec2024 19:43:37.776] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:cottage/cottage2
+[17Dec2024 19:43:38.965] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:animal_den/polar_bear_den
+[17Dec2024 19:43:39.600] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:winter_wagon/winter_wagon
+[17Dec2024 19:44:37.692] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[17Dec2024 19:44:37.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [Bone Crusher]
+[17Dec2024 19:45:00.987] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35205, l='ServerLevel[world]', x=1345.70, y=68.00, z=1140.39] died, message: 'Unemployed was slain by Sprinter'
+[17Dec2024 19:45:03.337] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[17Dec2024 19:46:42.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 19:46:42.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 19:51:42.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 19:51:42.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
