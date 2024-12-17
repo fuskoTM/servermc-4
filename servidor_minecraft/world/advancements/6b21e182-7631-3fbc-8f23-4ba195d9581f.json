@@ -5046,6 +5046,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2024-12-17 21:13:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-17 20:00:57 +0000"
@@ -5061,6 +5067,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-17 20:00:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_blue_to_dragonscales_blue": {
+    "criteria": {
+      "has_dragonscale_blue": "2024-12-17 21:13:40 +0000"
     },
     "done": true
   },
@@ -5232,6 +5244,12 @@
     },
     "done": true
   },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_pickaxe": "2024-12-17 21:17:06 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2024-12-17 19:56:33 +0000"
@@ -5271,6 +5289,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-17 21:07:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_silver_to_dragonscales_silver": {
+    "criteria": {
+      "has_dragonscale_silver": "2024-12-17 21:12:43 +0000"
     },
     "done": true
   },
@@ -5361,6 +5385,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2024-12-17 21:07:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_white_to_dragonscales_white": {
+    "criteria": {
+      "has_dragonscale_white": "2024-12-17 21:14:06 +0000"
     },
     "done": true
   },

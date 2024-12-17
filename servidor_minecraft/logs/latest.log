@@ -3172,3 +3172,10 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [17Dec2024 21:11:58.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ lost connection: Disconnected
 [17Dec2024 21:11:58.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ left the game
 [17Dec2024 21:11:58.586] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 1N_
+[17Dec2024 21:13:17.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [The Heart and the Flame]
+[17Dec2024 21:17:06.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [Earning your Wings]
+[17Dec2024 21:17:06.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Valkyrie Pickaxe] to LastFist]
+[17Dec2024 21:17:13.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Efficiency V to LastFist's item]
+[17Dec2024 21:20:32.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 128 [Glass Bottle] to LastFist]
+[17Dec2024 21:21:37.949] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97878, l='ServerLevel[world]', x=1320.50, y=66.00, z=648.50, removed=DISCARDED]
+[17Dec2024 21:23:11.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Sharpness V to LastFist's item]
