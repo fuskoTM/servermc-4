@@ -5962,6 +5962,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2024-12-18 04:32:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-18 03:33:46 +0000"
@@ -5983,6 +5989,12 @@
   "supplementaries:recipes/decorations/sign_post_birch": {
     "criteria": {
       "has_planks": "2024-12-18 01:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-18 04:34:05 +0000"
     },
     "done": true
   },
@@ -6025,6 +6037,12 @@
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2024-12-18 01:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-18 04:32:29 +0000"
     },
     "done": true
   },

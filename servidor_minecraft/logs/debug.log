@@ -13684,3 +13684,12 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [18Dec2024 04:32:29.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Lava Bucket] to LastFist]
 [18Dec2024 04:33:04.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 32 [Redstone Dust] to LastFist]
 [18Dec2024 04:33:43.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 2 [Redstone Repeater] to LastFist]
+[18Dec2024 04:34:47.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Redstone Repeater] to LastFist]
+[18Dec2024 04:36:23.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:36:23.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:41:23.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:41:23.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:42:26.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InvisicreeperEntity['Crawler'/187160, l='ServerLevel[world]', x=1460.60, y=2.00, z=-8.40] died: Crawler was blown up by Crawler
+[18Dec2024 04:43:05.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [Hunted]
+[18Dec2024 04:43:19.321] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1470, y=5, z=-4} BlockPos{x=1470, y=4, z=-5}
+[18Dec2024 04:43:19.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1470, y=5, z=-6} BlockPos{x=1470, y=4, z=-5}
