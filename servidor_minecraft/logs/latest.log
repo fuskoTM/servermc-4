@@ -2854,3 +2854,9 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18Dec2024 03:05:17.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Tide Pod Challenge]
+[18Dec2024 03:05:24.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Tide Pod Challenge]
+[18Dec2024 03:10:57.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 10 [Dragon Meal] to LastFist]
+[18Dec2024 03:11:58.683] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[18Dec2024 03:12:06.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Dragonslayer]
+[18Dec2024 03:12:37.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 22 [Glass Bottle] to LastFist]

@@ -5776,9 +5776,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_soap": "2024-12-18 03:03:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-18 01:04:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap_block": {
+    "criteria": {
+      "has_soap": "2024-12-18 03:03:47 +0000"
     },
     "done": true
   },
@@ -5815,6 +5827,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2024-12-18 01:04:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/spike": {
+    "criteria": {
+      "has_soap": "2024-12-18 03:03:47 +0000"
     },
     "done": true
   },
@@ -5896,6 +5914,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_soap": "2024-12-18 03:03:47 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2024-12-18 01:18:43 +0000"
@@ -5962,6 +5986,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/blackboard": {
+    "criteria": {
+      "has_soap": "2024-12-18 03:03:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-18 00:36:54 +0000"
@@ -5971,6 +6001,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-18 01:04:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/soap": {
+    "criteria": {
+      "stew": "2024-12-18 03:05:17 +0000"
     },
     "done": true
   },
@@ -6019,6 +6055,12 @@
   "idas:winter_wagon": {
     "criteria": {
       "in_winter_wagon": "2024-12-18 02:13:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/globe": {
+    "criteria": {
+      "has_soap": "2024-12-18 03:03:47 +0000"
     },
     "done": true
   },
