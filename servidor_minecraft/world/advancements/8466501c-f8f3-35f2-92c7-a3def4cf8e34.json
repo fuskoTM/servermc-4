@@ -6685,6 +6685,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2024-12-18 04:42:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonsteel_ice_shovel": {
     "criteria": {
       "has_item": "2024-12-18 00:31:13 +0000"
