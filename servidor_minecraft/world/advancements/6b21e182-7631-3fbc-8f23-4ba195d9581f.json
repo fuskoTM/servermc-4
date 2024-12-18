@@ -849,6 +849,7 @@
       "minecraft:witch": "2024-12-17 03:51:28 +0000",
       "minecraft:cave_spider": "2024-12-17 03:10:09 +0000",
       "minecraft:stray": "2024-12-17 05:03:57 +0000",
+      "minecraft:enderman": "2024-12-18 02:52:57 +0000",
       "minecraft:zombie": "2024-12-17 00:26:49 +0000",
       "minecraft:drowned": "2024-12-17 02:54:55 +0000",
       "minecraft:zombie_villager": "2024-12-17 00:57:27 +0000"
@@ -5934,6 +5935,12 @@
   "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
       "has_item": "2024-12-18 01:00:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2024-12-18 02:54:38 +0000"
     },
     "done": true
   },
