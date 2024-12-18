@@ -148,7 +148,7 @@
 			# You can override this with FTB Ranks using ftbessentials.back.cooldown
 			# Default: 30
 			# Range: 0 ~ 604800
-			cooldown: 30
+			cooldown: 1
 			
 			# Default: true
 			enabled: true
@@ -176,7 +176,7 @@
 			# You can override this with FTB Ranks using ftbessentials.home.cooldown
 			# Default: 10
 			# Range: 0 ~ 604800
-			cooldown: 10
+			cooldown: 1
 			
 			# Default: true
 			enabled: true
@@ -185,7 +185,7 @@
 			# You can override this with FTB Ranks using ftbessentials.home.max
 			# Default: 1
 			# Range: 0 ~ 2147483647
-			max: 1
+			max: 10
 			
 			# Warm-up time before /home command executes (in seconds)
 			# You can override this with FTB Ranks using ftbessentials.home.warmup
@@ -267,7 +267,7 @@
 			# You can override this with FTB Ranks using ftbessentials.tpa.cooldown
 			# Default: 10
 			# Range: 0 ~ 604800
-			cooldown: 10
+			cooldown: 1
 			
 			# Default: true
 			enabled: true
@@ -297,7 +297,7 @@
 			# You can override this with FTB Ranks using ftbessentials.warp.cooldown
 			# Default: 10
 			# Range: 0 ~ 604800
-			cooldown: 10
+			cooldown: 1
 			
 			# Default: true
 			enabled: true
