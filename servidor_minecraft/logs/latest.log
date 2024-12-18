@@ -2584,3 +2584,5 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [18Dec2024 02:14:03.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> buscando dragones
 [18Dec2024 02:14:21.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ok
 [18Dec2024 02:19:39.937] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/entity/ImprovedProjectileEntity$ColliderType
+[18Dec2024 02:27:09.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ola
+[18Dec2024 02:31:47.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [The Bearclaw Inn]

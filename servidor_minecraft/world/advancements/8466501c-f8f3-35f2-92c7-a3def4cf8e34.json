@@ -1729,6 +1729,7 @@
       "minecraft:creeper": "2024-12-17 02:23:26 +0000",
       "minecraft:evoker": "2024-12-18 01:19:01 +0000",
       "quark:forgotten": "2024-12-17 02:38:29 +0000",
+      "minecraft:phantom": "2024-12-18 02:29:11 +0000",
       "minecraft:witch": "2024-12-17 03:55:37 +0000",
       "minecraft:husk": "2024-12-17 03:15:16 +0000",
       "minecraft:cave_spider": "2024-12-17 03:57:16 +0000",
@@ -6705,6 +6706,12 @@
       "has_mossy_cobblestone": "2024-12-18 00:35:23 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-12-18 02:29:11 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/tools/dragonsteel_ice_pickaxe": {
     "criteria": {
