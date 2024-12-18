@@ -827,6 +827,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-17 02:04:03 +0000",
       "minecraft:skeleton": "2024-12-17 00:59:38 +0000",
+      "minecraft:ravager": "2024-12-18 01:18:41 +0000",
       "minecraft:vindicator": "2024-12-17 06:05:01 +0000",
       "minecraft:spider": "2024-12-17 00:57:23 +0000",
       "minecraft:creeper": "2024-12-17 19:44:00 +0000",
@@ -5861,6 +5862,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 01:18:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-18 00:36:54 +0000"
@@ -5894,6 +5901,12 @@
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2024-12-18 00:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-18 01:19:07 +0000"
     },
     "done": true
   },
