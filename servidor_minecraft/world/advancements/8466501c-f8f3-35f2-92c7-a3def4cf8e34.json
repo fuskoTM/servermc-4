@@ -104,6 +104,7 @@
       "minecraft:deep_cold_ocean": "2024-12-17 01:09:42 +0000",
       "minecraft:ice_spikes": "2024-12-17 19:59:45 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-17 03:11:19 +0000",
+      "minecraft:snowy_beach": "2024-12-18 03:32:18 +0000",
       "minecraft:meadow": "2024-12-17 03:36:17 +0000",
       "minecraft:plains": "2024-12-17 01:35:08 +0000"
     },
@@ -1733,6 +1734,7 @@
       "minecraft:witch": "2024-12-17 03:55:37 +0000",
       "minecraft:husk": "2024-12-17 03:15:16 +0000",
       "minecraft:cave_spider": "2024-12-17 03:57:16 +0000",
+      "minecraft:stray": "2024-12-18 03:33:33 +0000",
       "minecraft:zombie": "2024-12-17 00:55:09 +0000"
     },
     "done": false
@@ -6737,6 +6739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-12-18 03:41:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonsteel_ice_chestplate": {
     "criteria": {
       "has_item": "2024-12-18 00:31:13 +0000"
@@ -6788,6 +6796,12 @@
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2024-12-18 03:17:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_deepslate_slab": "2024-12-18 03:40:55 +0000"
     },
     "done": true
   },

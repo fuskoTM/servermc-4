@@ -2873,3 +2873,12 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [18Dec2024 03:32:33.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> si
 [18Dec2024 03:32:37.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ice dragon
 [18Dec2024 03:33:36.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [They Have a Cave Troll!]
+[18Dec2024 03:35:18.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1427, y=54, z=21} BlockPos{x=1427, y=55, z=22}
+[18Dec2024 03:36:41.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1422, y=55, z=38} BlockPos{x=1422, y=54, z=39}
+[18Dec2024 03:36:41.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1422, y=54, z=38} BlockPos{x=1422, y=54, z=39}
+[18Dec2024 03:36:42.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1422, y=55, z=38} BlockPos{x=1422, y=54, z=39}
+[18Dec2024 03:36:42.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1422, y=54, z=38} BlockPos{x=1422, y=54, z=39}
+[18Dec2024 03:36:42.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1422, y=55, z=38} BlockPos{x=1422, y=54, z=39}
+[18Dec2024 03:36:45.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1421, y=54, z=40} BlockPos{x=1419, y=53, z=40}
+[18Dec2024 03:37:24.811] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1428, y=54, z=35} BlockPos{x=1430, y=53, z=36}
+[18Dec2024 03:42:40.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ moved wrongly!
