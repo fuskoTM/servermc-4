@@ -11937,3 +11937,11 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [18Dec2024 05:32:59.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 05:32:59.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Dec2024 05:33:22.998] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/entity/ImprovedProjectileEntity$ColliderType
+[18Dec2024 05:37:59.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 05:37:59.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 05:42:59.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 05:42:59.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 05:43:30.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [Strong Undead]
+[18Dec2024 05:43:30.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has completed the challenge [Death finds a Way]
+[18Dec2024 05:43:39.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Your First Receptacle]
+[18Dec2024 05:44:16.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Your First Receptacle]
