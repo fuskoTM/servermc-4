@@ -1533,3 +1533,11 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [18Dec2024 05:02:23.254] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
 [18Dec2024 05:02:54.017] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/entity/Stoneling$StonelingVariant
 [18Dec2024 05:03:58.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Mutual Aid]
+[18Dec2024 05:07:21.857] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[18Dec2024 05:08:09.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Mending to LastFist's item]
+[18Dec2024 05:08:13.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Unbreaking III to LastFist's item]
+[18Dec2024 05:16:10.153] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/chaosthedude/explorerscompass/util/CompassState
+[18Dec2024 05:16:10.157] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e7fad2c4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[18Dec2024 05:16:10.203] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[18Dec2024 05:16:13.103] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e7fad2c4: RandomSpreadSearchWorker failed with 10016 radius, 16062 samples
+[18Dec2024 05:16:13.103] [Server thread/ERROR] [explorerscompass/]: SearchWorkerManager e7fad2c4: RandomSpreadSearchWorker found invalid compass after failed search
