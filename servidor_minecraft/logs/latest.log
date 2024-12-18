@@ -2346,3 +2346,5 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [18Dec2024 01:29:27.389] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/PlayerAbility$HandDisplay
 [18Dec2024 01:30:33.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 10 [Emerald] to LastFist]
 [18Dec2024 01:31:06.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 20 [Book] to LastFist]
+[18Dec2024 01:31:32.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Diamond Axe] to LastFist]
+[18Dec2024 01:41:11.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 512 [Stick] to LastFist]

@@ -5946,5 +5946,11 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2024-12-18 01:31:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
