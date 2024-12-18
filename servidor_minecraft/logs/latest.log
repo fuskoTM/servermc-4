@@ -1616,3 +1616,33 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [18Dec2024 05:43:30.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has completed the challenge [Death finds a Way]
 [18Dec2024 05:43:39.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Your First Receptacle]
 [18Dec2024 05:44:16.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Your First Receptacle]
+[18Dec2024 05:48:05.305] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e7fad2c4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[18Dec2024 05:48:05.661] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e7fad2c4: RandomSpreadSearchWorker succeeded with 1551 radius, 2 samples
+[18Dec2024 05:48:11.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3635ms or 72 ticks behind
+[18Dec2024 05:48:24.580] [Worker-Main-8/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/redstone/link/LinkBehaviour$Mode
+[18Dec2024 05:48:24.583] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:holy_magic_resist'
+[18Dec2024 05:48:24.583] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_magic_resist'
+[18Dec2024 05:48:24.584] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:holy_magic_resist'
+[18Dec2024 05:48:24.584] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_magic_resist'
+[18Dec2024 05:48:24.637] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:holy_magic_resist'
+[18Dec2024 05:48:24.637] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_magic_resist'
+[18Dec2024 05:48:24.638] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:holy_magic_resist'
+[18Dec2024 05:48:24.638] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_magic_resist'
+[18Dec2024 05:48:24.640] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:holy_magic_resist'
+[18Dec2024 05:48:24.640] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_magic_resist'
+[18Dec2024 05:48:26.989] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/belt/behaviour/BeltProcessingBehaviour$ProcessingResult
+[18Dec2024 05:48:26.990] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/press/PressingBehaviour$Mode
+[18Dec2024 05:48:28.936] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/base/IRotate$StressImpact
+[18Dec2024 05:48:29.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[18Dec2024 05:48:35.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ moved too quickly! -9.720888889762591,-1.1275870325868453,2.4927299983555713
+[18Dec2024 05:48:37.293] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/zeta/api/ICollateralMover$MoveResult
+[18Dec2024 05:48:37.343] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[18Dec2024 05:49:28.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Ancient Civilization]
+[18Dec2024 05:49:30.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Ancient Civilization]
+[18Dec2024 05:49:50.703] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/ContraptionCollider$PlayerType
+[18Dec2024 05:54:30.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Hidden in the Depths]
+[18Dec2024 05:56:33.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Ice Bucket Challenge]
+[18Dec2024 05:56:52.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Who is Cutting Onions?]
+[18Dec2024 05:57:40.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Who is Cutting Onions?]
+[18Dec2024 05:57:56.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Incendium]
+[18Dec2024 05:57:56.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [We Need to Go Deeper]
