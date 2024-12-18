@@ -2578,3 +2578,9 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [18Dec2024 02:11:16.719] [Worker-Main-182/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [18Dec2024 02:11:17.526] [Worker-Main-182/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-661, y=73, z=8930}
 [18Dec2024 02:11:17.526] [Worker-Main-182/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-662, y=73, z=8930}
+[18Dec2024 02:12:14.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 24 [Ice Dragon Blood] to LastFist]
+[18Dec2024 02:13:35.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Winter Wagon]
+[18Dec2024 02:13:56.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> q ases
+[18Dec2024 02:14:03.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> buscando dragones
+[18Dec2024 02:14:21.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ok
+[18Dec2024 02:19:39.937] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/entity/ImprovedProjectileEntity$ColliderType

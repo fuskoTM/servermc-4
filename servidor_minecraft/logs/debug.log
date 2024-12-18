@@ -13087,3 +13087,13 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [18Dec2024 02:11:28.310] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_top_0
 [18Dec2024 02:11:28.319] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_corridor_0
 [18Dec2024 02:11:28.323] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_corridor_crossing
+[18Dec2024 02:12:14.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 24 [Ice Dragon Blood] to LastFist]
+[18Dec2024 02:13:35.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Winter Wagon]
+[18Dec2024 02:13:56.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> q ases
+[18Dec2024 02:14:03.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> buscando dragones
+[18Dec2024 02:14:21.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ok
+[18Dec2024 02:16:23.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:16:23.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:19:39.937] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/entity/ImprovedProjectileEntity$ColliderType
+[18Dec2024 02:21:23.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:21:23.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
