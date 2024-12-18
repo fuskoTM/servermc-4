@@ -1646,3 +1646,46 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [18Dec2024 05:57:40.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Who is Cutting Onions?]
 [18Dec2024 05:57:56.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Incendium]
 [18Dec2024 05:57:56.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [We Need to Go Deeper]
+[18Dec2024 05:58:07.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15706ms or 314 ticks behind
+[18Dec2024 05:58:07.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> LAG
+[18Dec2024 05:58:17.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Incendium]
+[18Dec2024 05:58:17.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [We Need to Go Deeper]
+[18Dec2024 05:58:50.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Powder Snow Bucket] to LastFist]
+[18Dec2024 05:59:11.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Strange Biomes]
+[18Dec2024 05:59:31.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Strange Biomes]
+[18Dec2024 06:00:18.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> LOL
+[18Dec2024 06:00:19.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> BASTION
+[18Dec2024 06:00:25.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> voy
+[18Dec2024 06:00:26.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> TPA
+[18Dec2024 06:00:30.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Those Were the Days]
+[18Dec2024 06:00:38.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [War Pigs]
+[18Dec2024 06:01:06.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/64476, l='ServerLevel[world]', x=-454.50, y=-20.00, z=-566.50] died: Restless Spirit was killed
+[18Dec2024 06:01:08.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> broder
+[18Dec2024 06:01:12.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> Q
+[18Dec2024 06:01:14.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> teniamos una mega estructura al frente
+[18Dec2024 06:01:17.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> y no la habiamos visto
+[18Dec2024 06:01:51.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/64551, l='ServerLevel[world]', x=-561.50, y=-20.00, z=-515.50] died: Restless Spirit was killed
+[18Dec2024 06:01:51.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/64553, l='ServerLevel[world]', x=-558.50, y=-20.00, z=-518.50] died: Restless Spirit was killed
+[18Dec2024 06:01:54.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> Y AHORA
+[18Dec2024 06:01:57.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> AQUI HAY DRAGONES?
+[18Dec2024 06:02:04.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> se supone que no
+[18Dec2024 06:02:10.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/64655, l='ServerLevel[world]', x=-544.23, y=-20.00, z=-470.04] died: Restless Spirit was killed
+[18Dec2024 06:02:39.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/64795, l='ServerLevel[world]', x=-655.65, y=-20.00, z=-474.98] died: Restless Spirit was killed
+[18Dec2024 06:02:41.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/64830, l='ServerLevel[world]', x=-622.50, y=-20.00, z=-425.88] died: Restless Spirit was killed
+[18Dec2024 06:02:41.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/64832, l='ServerLevel[world]', x=-612.34, y=-20.00, z=-422.45] died: Restless Spirit was killed
+[18Dec2024 06:02:45.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/64858, l='ServerLevel[world]', x=-566.50, y=-20.00, z=-510.50] died: Restless Spirit was killed
+[18Dec2024 06:02:45.093] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/64860, l='ServerLevel[world]', x=-562.50, y=-20.00, z=-509.50] died: Restless Spirit was killed
+[18Dec2024 06:05:22.093] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/65460, l='ServerLevel[world]', x=-652.50, y=-20.00, z=-459.50] died: Restless Spirit was killed
+[18Dec2024 06:05:22.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/65462, l='ServerLevel[world]', x=-653.50, y=-20.00, z=-460.50] died: Restless Spirit was killed
+[18Dec2024 06:05:51.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/68640, l='ServerLevel[world]', x=-197.50, y=-20.00, z=-514.50] died: Restless Spirit was killed
+[18Dec2024 06:06:36.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/68773, l='ServerLevel[world]', x=-599.50, y=-20.00, z=-404.50] died: Restless Spirit was killed
+[18Dec2024 06:06:51.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/68855, l='ServerLevel[world]', x=-251.50, y=-20.00, z=-480.50] died: Restless Spirit was killed
+[18Dec2024 06:06:52.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/68875, l='ServerLevel[world]', x=-285.50, y=-20.00, z=-442.50] died: Restless Spirit was killed
+[18Dec2024 06:06:53.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/68909, l='ServerLevel[world]', x=-233.50, y=-20.00, z=-414.50] died: Restless Spirit was killed
+[18Dec2024 06:06:53.093] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/68911, l='ServerLevel[world]', x=-234.50, y=-20.00, z=-411.50] died: Restless Spirit was killed
+[18Dec2024 06:06:54.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> veni
+[18Dec2024 06:07:01.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/69085, l='ServerLevel[world]', x=-235.50, y=-20.00, z=-470.50] died: Restless Spirit was killed
+[18Dec2024 06:07:02.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/69096, l='ServerLevel[world]', x=-223.50, y=-20.00, z=-430.50] died: Restless Spirit was killed
+[18Dec2024 06:07:02.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Into Fire]
+[18Dec2024 06:07:43.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/69541, l='ServerLevel[world]', x=-222.50, y=-20.00, z=-412.50] died: Restless Spirit was killed
+[18Dec2024 06:07:43.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/69543, l='ServerLevel[world]', x=-220.50, y=-20.00, z=-416.50] died: Restless Spirit was killed

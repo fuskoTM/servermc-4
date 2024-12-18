@@ -728,7 +728,8 @@
       "bread": "2024-12-17 00:56:59 +0000",
       "golden_apple": "2024-12-17 03:47:55 +0000",
       "rotten_flesh": "2024-12-17 01:10:11 +0000",
-      "melon_slice": "2024-12-17 01:32:28 +0000"
+      "melon_slice": "2024-12-17 01:32:28 +0000",
+      "golden_carrot": "2024-12-18 06:01:03 +0000"
     },
     "done": false
   },
@@ -1729,6 +1730,7 @@
       "minecraft:ravager": "2024-12-18 01:17:10 +0000",
       "minecraft:vindicator": "2024-12-17 01:23:06 +0000",
       "minecraft:spider": "2024-12-17 01:18:09 +0000",
+      "minecraft:piglin_brute": "2024-12-18 06:00:34 +0000",
       "minecraft:creeper": "2024-12-17 02:23:26 +0000",
       "minecraft:evoker": "2024-12-18 01:19:01 +0000",
       "quark:forgotten": "2024-12-17 02:38:29 +0000",
@@ -1736,6 +1738,7 @@
       "minecraft:witch": "2024-12-17 03:55:37 +0000",
       "minecraft:husk": "2024-12-17 03:15:16 +0000",
       "minecraft:cave_spider": "2024-12-17 03:57:16 +0000",
+      "minecraft:piglin": "2024-12-18 06:00:28 +0000",
       "minecraft:stray": "2024-12-18 03:33:33 +0000",
       "minecraft:zombie": "2024-12-17 00:55:09 +0000"
     },
@@ -7089,6 +7092,25 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-18 06:02:06 +0000",
+      "minecraft:soul_sand_valley": "2024-12-18 05:58:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-12-18 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-18 05:54:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2024-12-18 05:24:51 +0000"
@@ -7110,6 +7132,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2024-12-18 05:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-18 05:54:30 +0000"
     },
     "done": true
   },
@@ -7137,6 +7165,12 @@
     },
     "done": true
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:weeping_valley": "2024-12-18 05:59:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-18 05:24:56 +0000"
@@ -7161,9 +7195,27 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-18 06:00:38 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:weeping_valley": "2024-12-18 05:59:11 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2024-12-18 05:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-18 05:57:40 +0000"
     },
     "done": true
   },
@@ -7179,6 +7231,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-18 05:57:56 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
     "criteria": {
       "has_magnet_upgrade": "2024-12-18 05:25:16 +0000"
@@ -7188,6 +7246,12 @@
   "cataclysm:find_ancient_factory": {
     "criteria": {
       "factory": "2024-12-18 05:49:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-18 05:54:30 +0000"
     },
     "done": true
   },
@@ -7221,6 +7285,18 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-18 05:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-18 05:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2024-12-18 05:24:51 +0000"
@@ -7230,6 +7306,12 @@
   "endrem:main/root": {
     "criteria": {
       "old_eye": "2024-12-18 05:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-18 06:00:30 +0000"
     },
     "done": true
   },
