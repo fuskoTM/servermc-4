@@ -2882,3 +2882,211 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [18Dec2024 03:36:45.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1421, y=54, z=40} BlockPos{x=1419, y=53, z=40}
 [18Dec2024 03:37:24.811] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1428, y=54, z=35} BlockPos{x=1430, y=53, z=36}
 [18Dec2024 03:42:40.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ moved wrongly!
+[18Dec2024 04:04:28.043] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 04:04:28.045] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=970, z=1073200}"
+}
+[18Dec2024 04:04:28.046] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[18Dec2024 04:04:28.046] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-8, 125, -15, -120, -54, -60, 84, -34, 20, 46, -104]"
+]
+[18Dec2024 04:04:29.520] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 04:04:29.520] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=866, z=1073200}"
+}
+[18Dec2024 04:04:29.520] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 78 extra bytes: 
+[18Dec2024 04:04:29.521] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Fay4Tg2Ws@ 4|.wQA Qg(Qs5N&+/,0"
+]
+[18Dec2024 04:04:30.551] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 04:04:30.552] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=797, z=1073200}"
+}
+[18Dec2024 04:04:30.552] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[18Dec2024 04:04:30.552] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[121, 85, 81, -22, -76, -17, -19, 104, -46, -3, 91]"
+]
+[18Dec2024 04:04:30.601] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 04:04:30.601] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=848, z=1073200}"
+}
+[18Dec2024 04:04:30.601] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[18Dec2024 04:04:30.601] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-25, -91, -40, -1, 84, -73, 52, 45, -119, -66, -6]"
+]
+[18Dec2024 04:04:30.852] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 04:04:30.852] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=965, z=1073200}"
+}
+[18Dec2024 04:04:30.853] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 16 extra bytes: 
+[18Dec2024 04:04:30.853] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-70, 9, 105, -114, 119, -94, 83, -104, -12, 38, 52, 112, -6, 20, 112, -12]"
+]
+[18Dec2024 04:04:31.740] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 04:04:31.741] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=954, z=1073200}"
+}
+[18Dec2024 04:04:31.741] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 65 extra bytes: 
+[18Dec2024 04:04:31.741] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ")M^]T48{2%1pb0YT YW\"mL8hQ10CkH<sEk&"
+]
+[18Dec2024 04:04:32.074] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 04:04:32.074] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=965, z=1073200}"
+}
+[18Dec2024 04:04:32.075] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 16 extra bytes: 
+[18Dec2024 04:04:32.075] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[35, 34, -106, -21, -44, -40, -101, -71, -108, -60, 62, 40, -84, 43, 20, -113]"
+]
+[18Dec2024 04:04:32.325] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 04:04:32.326] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=809, z=1073200}"
+}
+[18Dec2024 04:04:32.326] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 138 extra bytes: 
+[18Dec2024 04:04:32.326] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "O9pf`%y} ?MzBR42?tvwXi&+/,0/524.ip.gl.ply.gg"
+]
+[18Dec2024 04:04:32.327] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PosRot  id 21 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 04:04:32.328] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134118_": 7.359492855727345E-128,
+  "f_134119_": -2.6755953382715665E-20,
+  "f_134120_": -9.18574452635262E130,
+  "f_134121_": -1.5111727E-37,
+  "f_134122_": -4.76523E-21,
+  "f_134123_": true,
+  "f_134124_": true,
+  "f_134125_": true
+}
+[18Dec2024 04:04:32.328] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 21 data of 129 extra bytes: 
+[18Dec2024 04:04:32.329] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "R42?tvwXi&+/,0/524.ip.gl.ply.gg"
+]
+[18Dec2024 04:04:35.385] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 04:04:35.386] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=923, z=1073200}"
+}
+[18Dec2024 04:04:35.386] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[18Dec2024 04:04:35.386] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[82, 117, 121, 39, -104, 41, -107, 9, -85, -107, -8]"
+]
+[18Dec2024 04:04:59.003] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 04:04:59.004] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=882, z=1122352}"
+}
+[18Dec2024 04:04:59.004] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[18Dec2024 04:04:59.005] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[111, -20, 41, 47, -29, 122, -116, 42, 45, 5, 19]"
+]
+[18Dec2024 04:04:59.296] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 04:04:59.297] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=814, z=905264}"
+}
+[18Dec2024 04:04:59.297] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 134 extra bytes: 
+[18Dec2024 04:04:59.298] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "d`b;_M Lh8//f=9(32j<k$50,'+#"
+]
+[18Dec2024 04:04:59.881] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 04:04:59.882] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=830, z=856112}"
+}
+[18Dec2024 04:04:59.882] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 121 extra bytes: 
+[18Dec2024 04:04:59.882] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/]Dycw|<hwaOCX_8,0+/$(k#'g93=<5/p24.ip.gl.ply.gg"
+]
+[18Dec2024 04:04:59.883] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundJigsawGeneratePacket  id 17 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 04:04:59.883] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134073_": "BlockPos{x=4138072, y=1889, z=-4135289}",
+  "f_134074_": 10141,
+  "f_134075_": true
+}
+[18Dec2024 04:04:59.883] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 17 data of 154 extra bytes: 
+[18Dec2024 04:04:59.883] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "CX_8,0+/$(k#'g93=<5/p24.ip.gl.ply.gg#0."
+]
+[18Dec2024 04:04:59.884] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 04:04:59.884] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 0
+}
+[18Dec2024 04:04:59.884] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 154 extra bytes: 
+[18Dec2024 04:04:59.884] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "8,0+/$(k#'g93=<5/p24.ip.gl.ply.gg#0."
+]
+[18Dec2024 04:06:15.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1431, y=52, z=20} BlockPos{x=1431, y=51, z=21}
+[18Dec2024 04:06:16.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1431, y=52, z=20} BlockPos{x=1431, y=51, z=21}
+[18Dec2024 04:06:17.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1427, y=52, z=23} BlockPos{x=1426, y=52, z=22}
+[18Dec2024 04:06:17.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1428, y=52, z=22} BlockPos{x=1426, y=52, z=22}
+[18Dec2024 04:06:17.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1428, y=52, z=22} BlockPos{x=1426, y=52, z=22}
+[18Dec2024 04:06:17.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1428, y=52, z=24} BlockPos{x=1426, y=52, z=22}
+[18Dec2024 04:06:17.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1429, y=52, z=22} BlockPos{x=1426, y=52, z=22}
+[18Dec2024 04:06:17.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1429, y=52, z=22} BlockPos{x=1426, y=52, z=22}
+[18Dec2024 04:06:17.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1429, y=52, z=22} BlockPos{x=1426, y=52, z=22}
+[18Dec2024 04:06:17.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1429, y=52, z=22} BlockPos{x=1426, y=52, z=22}
+[18Dec2024 04:06:17.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1431, y=52, z=23} BlockPos{x=1426, y=52, z=22}
+[18Dec2024 04:06:17.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1431, y=52, z=23} BlockPos{x=1432, y=52, z=23}
+[18Dec2024 04:06:19.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1429, y=52, z=24} BlockPos{x=1430, y=52, z=25}
+[18Dec2024 04:06:19.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1429, y=52, z=25} BlockPos{x=1430, y=52, z=25}
+[18Dec2024 04:06:19.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1429, y=52, z=25} BlockPos{x=1430, y=52, z=25}
+[18Dec2024 04:06:19.987] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1428, y=52, z=24} BlockPos{x=1430, y=52, z=25}
+[18Dec2024 04:06:20.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1428, y=52, z=24} BlockPos{x=1430, y=52, z=25}
+[18Dec2024 04:06:20.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1428, y=52, z=24} BlockPos{x=1430, y=52, z=25}
+[18Dec2024 04:06:20.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1428, y=52, z=24} BlockPos{x=1430, y=52, z=25}
+[18Dec2024 04:06:20.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1428, y=52, z=24} BlockPos{x=1428, y=52, z=26}
+[18Dec2024 04:06:20.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1427, y=52, z=25} BlockPos{x=1428, y=52, z=26}
+[18Dec2024 04:06:20.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1427, y=52, z=25} BlockPos{x=1428, y=52, z=26}
+[18Dec2024 04:06:20.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1427, y=52, z=24} BlockPos{x=1428, y=52, z=26}
+[18Dec2024 04:06:21.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1427, y=52, z=26} BlockPos{x=1425, y=52, z=25}
+[18Dec2024 04:06:21.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1427, y=52, z=26} BlockPos{x=1425, y=52, z=25}
+[18Dec2024 04:06:22.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1427, y=52, z=23} BlockPos{x=1426, y=52, z=22}
+[18Dec2024 04:06:22.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1427, y=52, z=23} BlockPos{x=1426, y=52, z=22}
+[18Dec2024 04:06:22.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1429, y=52, z=22} BlockPos{x=1427, y=51, z=21}
+[18Dec2024 04:06:22.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1429, y=52, z=22} BlockPos{x=1427, y=51, z=21}
+[18Dec2024 04:06:22.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1429, y=51, z=21} BlockPos{x=1428, y=51, z=20}
