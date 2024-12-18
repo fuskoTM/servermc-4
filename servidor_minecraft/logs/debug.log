@@ -11772,3 +11772,160 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [18Dec2024 05:16:10.203] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
 [18Dec2024 05:16:13.103] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e7fad2c4: RandomSpreadSearchWorker failed with 10016 radius, 16062 samples
 [18Dec2024 05:16:13.103] [Server thread/ERROR] [explorerscompass/]: SearchWorkerManager e7fad2c4: RandomSpreadSearchWorker found invalid compass after failed search
+[18Dec2024 05:17:23.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Explorer's Compass] to LastFist]
+[18Dec2024 05:17:53.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 05:17:53.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 05:18:44.249] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e7fad2c4: RandomSpreadSearchWorker stopped with 10016 radius, 16062 samples
+[18Dec2024 05:18:44.249] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e7fad2c4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[18Dec2024 05:18:45.310] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e7fad2c4: RandomSpreadSearchWorker succeeded with 7067 radius, 55 samples
+[18Dec2024 05:19:10.762] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[18Dec2024 05:19:11.889] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[18Dec2024 05:19:11.890] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[18Dec2024 05:19:11.896] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[18Dec2024 05:19:13.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:winter_wagon/winter_wagon
+[18Dec2024 05:19:13.476] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/StatueBlockTile$StatuePose
+[18Dec2024 05:19:13.478] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/GlobeManager$Model
+[18Dec2024 05:19:17.858] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[18Dec2024 05:19:17.859] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[18Dec2024 05:19:17.865] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[18Dec2024 05:19:34.452] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/client/particle/RingParticle$EnumRingBehavior
+[18Dec2024 05:20:09.675] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions
+[18Dec2024 05:20:09.677] [Server thread/DEBUG] [mixin/]: Mixing AdvancementBehaviourAccessor from create_dragon_lib.mixins.json into com.simibubi.create.foundation.advancement.AdvancementBehaviour
+[18Dec2024 05:20:09.678] [Server thread/DEBUG] [mixin/]: create_dragon_lib.mixins.json:AdvancementBehaviourAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[18Dec2024 05:20:09.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[18Dec2024 05:20:09.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[18Dec2024 05:20:09.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[18Dec2024 05:20:09.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[18Dec2024 05:20:09.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[18Dec2024 05:20:09.931] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[18Dec2024 05:20:09.931] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[18Dec2024 05:20:09.932] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[18Dec2024 05:20:09.933] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[18Dec2024 05:20:11.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:brickhouse/brickhouse
+[18Dec2024 05:20:11.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:brickhouse/brickhouse_path
+[18Dec2024 05:20:11.282] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$RotationMode
+[18Dec2024 05:20:11.285] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/WindmillBearingBlockEntity$RotationDirection
+[18Dec2024 05:20:11.290] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/ClockworkContraption$HandType
+[18Dec2024 05:20:11.291] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/mounted/CartAssemblerBlockEntity$CartMovementMode
+[18Dec2024 05:20:11.956] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:cottage/cottage
+[18Dec2024 05:20:16.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pablito (vehicle of LastFist) moved too quickly! -5.815228306325707,0.0,-9.488365131720514
+[18Dec2024 05:20:17.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:animal_den/polar_bear_den
+[18Dec2024 05:20:23.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:redstone_torch_trail/trail1
+[18Dec2024 05:20:23.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:bearclaw_inn/bearclaw_inn_path
+[18Dec2024 05:20:23.093] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:bearclaw_inn/bearclaw_inn_stables
+[18Dec2024 05:20:23.618] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[18Dec2024 05:20:23.625] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[18Dec2024 05:20:23.625] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[18Dec2024 05:20:23.656] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[18Dec2024 05:20:23.664] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[18Dec2024 05:20:24.374] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/FluidTransportBehaviour$UpdatePhase
+[18Dec2024 05:20:24.378] [Server thread/DEBUG] [mixin/]: Mixing OpenEndFluidHandlerMixin from create_enchantment_industry.mixins.json into com.simibubi.create.content.fluids.OpenEndedPipe$OpenEndFluidHandler
+[18Dec2024 05:20:24.379] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:OpenEndFluidHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[18Dec2024 05:20:24.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:lumber_camp/lumber_camp_spruce
+[18Dec2024 05:20:26.965] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[18Dec2024 05:20:26.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[18Dec2024 05:20:26.999] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[18Dec2024 05:20:27.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[18Dec2024 05:20:27.018] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[18Dec2024 05:20:27.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[18Dec2024 05:20:33.124] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[18Dec2024 05:20:54.904] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[18Dec2024 05:20:54.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ya
+[18Dec2024 05:21:02.939] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e7fad2c4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[18Dec2024 05:21:02.976] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager e7fad2c4: RandomSpreadSearchWorker succeeded with 6448 radius, 33 samples
+[18Dec2024 05:21:08.391] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[18Dec2024 05:21:08.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> que
+[18Dec2024 05:21:12.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> lo podes montar ya
+[18Dec2024 05:21:12.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> lo deje sentao
+[18Dec2024 05:21:12.474] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / idas:farmhouse], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=731, y=67, z=-549}
+[18Dec2024 05:21:13.398] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=732, y=66, z=-549} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[18Dec2024 05:21:13.399] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=732, y=66, z=-549}
+[18Dec2024 05:21:13.399] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=730, y=66, z=-549} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[18Dec2024 05:21:13.400] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=730, y=66, z=-549}
+[18Dec2024 05:21:13.401] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=732, y=67, z=-549} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[18Dec2024 05:21:13.401] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=732, y=67, z=-549}
+[18Dec2024 05:21:13.402] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=731, y=67, z=-549} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] at location
+[18Dec2024 05:21:13.402] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=731, y=67, z=-549}
+[18Dec2024 05:21:13.403] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=730, y=67, z=-549} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[18Dec2024 05:21:13.404] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=730, y=67, z=-549}
+[18Dec2024 05:21:15.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> a melo
+[18Dec2024 05:21:16.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> na
+[18Dec2024 05:21:18.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> ya te digo
+[18Dec2024 05:21:21.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> cuando este alla
+[18Dec2024 05:21:26.508] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[18Dec2024 05:21:33.753] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[18Dec2024 05:21:54.244] [Worker-Main-8/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$MovementMode
+[18Dec2024 05:21:54.777] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:animal_den/wolf_den
+[18Dec2024 05:21:59.691] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[18Dec2024 05:22:00.166] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[18Dec2024 05:22:02.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3599ms or 71 ticks behind
+[18Dec2024 05:22:02.782] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of idas:washing_camp/washing_camp
+[18Dec2024 05:22:03.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> a estos bichos les da hambre
+[18Dec2024 05:22:04.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ?
+[18Dec2024 05:22:11.700] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[18Dec2024 05:22:11.898] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[18Dec2024 05:22:13.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> si
+[18Dec2024 05:22:31.045] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[18Dec2024 05:22:47.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Set own game mode to Creative Mode]
+[18Dec2024 05:22:57.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 05:22:57.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 05:23:40.073] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[18Dec2024 05:23:53.362] [Worker-Main-8/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[18Dec2024 05:24:05.582] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:cottage/cottage2
+[18Dec2024 05:24:27.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Set own game mode to Survival Mode]
+[18Dec2024 05:24:35.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> manda tpa
+[18Dec2024 05:24:42.998] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / idas:farmhouse], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red]] from pos BlockPos{x=-2395, y=74, z=-6059}
+[18Dec2024 05:24:43.222] [pool-6-thread-2/DEBUG] [ModernFix/]: Structure idas:desert_market/desert_market_red is being run through DFU (hash f783c73c69433bb4b788619f9f9b5eb5b601469bc416f8a03c3d6f1f0a38370d), this will cause launch time delays
+[18Dec2024 05:24:43.226] [pool-6-thread-2/INFO] [ModernFix/]: Instantiating Mojang DFU
+[18Dec2024 05:24:47.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2287ms or 45 ticks behind
+[18Dec2024 05:24:52.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Cursed Pyramid]
+[18Dec2024 05:24:55.864] [Worker-Main-8/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[18Dec2024 05:24:58.137] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[18Dec2024 05:24:58.145] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[18Dec2024 05:24:58.154] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[18Dec2024 05:24:58.160] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_2
+[18Dec2024 05:24:58.161] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_extend
+[18Dec2024 05:24:58.172] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_2
+[18Dec2024 05:24:58.182] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_3
+[18Dec2024 05:24:58.199] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_1
+[18Dec2024 05:24:58.206] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_1
+[18Dec2024 05:24:58.211] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[18Dec2024 05:24:58.235] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[18Dec2024 05:24:58.253] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[18Dec2024 05:24:58.259] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[18Dec2024 05:24:58.277] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[18Dec2024 05:24:59.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Cursed Pyramid]
+[18Dec2024 05:25:03.096] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[18Dec2024 05:25:09.794] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[18Dec2024 05:25:09.807] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[18Dec2024 05:25:09.814] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_crossing_0 is being run through DFU (hash 682a9ab05e08fa7de0d130f2ce2efe446e2349880c4af076fd6477f2c4c874e7), this will cause launch time delays
+[18Dec2024 05:25:09.919] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_skeleton_juggernaut_1 is being run through DFU (hash 9cfa21c3cd7c7b3d07d9a516d01a7d985566c949fc1d9066b1763ebbcbaa9a41), this will cause launch time delays
+[18Dec2024 05:25:10.022] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_ranged_illager_0 is being run through DFU (hash 74b4c100da036c3738ff144228117b3fa14e497279d8d29c0a1444e52dd7a7e7), this will cause launch time delays
+[18Dec2024 05:25:10.042] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_part_0 is being run through DFU (hash 42a2b42bd30c830c531b717cf592f8b4812e8d0247b0c0b5a1cd115b15df5c72), this will cause launch time delays
+[18Dec2024 05:25:10.093] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_skeleton_assassin_1 is being run through DFU (hash 99fe8e96efd02d1714c56a13ecf0fde939389cc1f10e1fb201cf3b2fe86bda0d), this will cause launch time delays
+[18Dec2024 05:25:10.103] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_skeleton_assassin_0 is being run through DFU (hash 097ccd80fdef38949c8600b07469e290b208b13b40dcd597a5bebbed4f6400ba), this will cause launch time delays
+[18Dec2024 05:25:10.113] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_skeleton_juggernaut_0 is being run through DFU (hash 8d1b6f5200db57cafdc92d23d5aabc76ebdf1a239c22ee012bd8f10bfdb988bf), this will cause launch time delays
+[18Dec2024 05:25:10.122] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_ranged_skeleton_1 is being run through DFU (hash db77348c0650a656a993f8ba225090f2f396996a10359d9fd615d369ad9b37bf), this will cause launch time delays
+[18Dec2024 05:25:10.137] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_crossing_3_bridge is being run through DFU (hash c517212dc9325db3f00604f07385bc74fdd4ae8062f586378061a1d694f54925), this will cause launch time delays
+[18Dec2024 05:25:10.177] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_crossing_4_bridge_mini is being run through DFU (hash bbac8c236d7743fb250f66696e1596f6436c316f7464a34d18b18ed20a030e19), this will cause launch time delays
+[18Dec2024 05:25:10.179] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_skeleton_juggernaut_2 is being run through DFU (hash 2b3265ee44c83abba41448d99ff77eb59759562b5af3aa2b5e605cbcc53494ad), this will cause launch time delays
+[18Dec2024 05:25:10.197] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_part_3 is being run through DFU (hash e3e7f925b54ea5ae5113d306cb2503344f486f5d1b4c5fd94d9d48a43e1f327c), this will cause launch time delays
+[18Dec2024 05:25:10.236] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_part_2 is being run through DFU (hash e75148cff339dd7a527403779ad53e3d406e79345b12612c4d4f9c3336816bd4), this will cause launch time delays
+[18Dec2024 05:25:10.277] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_part_1 is being run through DFU (hash 3bc8f5db74b66e1aa3ccdfd6a12727120360e83284a600eeec877a75c831ca14), this will cause launch time delays
+[18Dec2024 05:25:10.375] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_part_4 is being run through DFU (hash f585d51b2d48f93504c460892d80ce0bdd61787a706a279132d8fccba641ec0f), this will cause launch time delays
+[18Dec2024 05:25:10.398] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_small_room_terminator_0 is being run through DFU (hash c3290141976bfcc00b397f6eb47b3dd6c064bf962f71a85dbace045976acf88a), this will cause launch time delays
+[18Dec2024 05:25:10.402] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_roof_terminator_0 is being run through DFU (hash ab79a65d2e1afde7549a04e8b54999558579fff80cea2e419c5425074492f086), this will cause launch time delays
+[18Dec2024 05:25:10.418] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_base_terminator_0 is being run through DFU (hash 5e324b3fff86312735afde682e3c06713e1e20db7321890b8867f4846e812d2f), this will cause launch time delays
+[18Dec2024 05:25:10.427] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_crossing_terminator_0 is being run through DFU (hash af1d76b6e26105c8b889973d3b8a05eee46951ca2e50098f9e7f59181c73f91e), this will cause launch time delays
+[18Dec2024 05:25:10.446] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_2
+[18Dec2024 05:25:10.458] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_crossing_5 is being run through DFU (hash 5a35fe1adba9cfe5cdb541cd8a568d51758063617754afd14330aacf0afad2e3), this will cause launch time delays
+[18Dec2024 05:25:10.532] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_crossing_1 is being run through DFU (hash 00ba2bc4598efe8df039eefaabc30fba7918052f5e2bf78c55e96508a85974c2), this will cause launch time delays
+[18Dec2024 05:25:10.602] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_small_room_2 is being run through DFU (hash 84d7c2abfcbe96241e44391ac2d02a947b1d787b2f6f0bd1241f70cdb89dfbb6), this will cause launch time delays
+[18Dec2024 05:25:10.608] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_small_room_3 is being run through DFU (hash 5e2e034980e24cadc88d318b3b14d46f7848e8bdb968b9476e50f836872fbdc3), this will cause launch time delays
+[18Dec2024 05:25:10.612] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_small_room_1 is being run through DFU (hash c0c61a82cf8d0407becbd6555b2b642ebf1102809720f6ea8a4bb1516a719e4d), this will cause launch time delays
+[18Dec2024 05:25:10.620] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_small_room_0 is being run through DFU (hash 0070e208b6c5928a7afbe50a2c97e47ad4d983f17c31d08b63e1194ca49bf0aa), this will cause launch time delays
+[18Dec2024 05:25:28.146] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[18Dec2024 05:25:28.150] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[18Dec2024 05:25:35.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [The Beginning of An Adventure]
+[18Dec2024 05:25:35.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Fortune Seeker]
+[18Dec2024 05:26:26.951] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
