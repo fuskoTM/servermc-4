@@ -3090,3 +3090,4 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [18Dec2024 04:06:22.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1429, y=52, z=22} BlockPos{x=1427, y=51, z=21}
 [18Dec2024 04:06:22.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1429, y=52, z=22} BlockPos{x=1427, y=51, z=21}
 [18Dec2024 04:06:22.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1429, y=51, z=21} BlockPos{x=1428, y=51, z=20}
+[18Dec2024 04:21:49.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 64 [Torch] to LastFist]

@@ -13667,3 +13667,8 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [18Dec2024 04:06:23.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Dec2024 04:11:23.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 04:11:23.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:16:23.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:16:23.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:21:23.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:21:23.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:21:49.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 64 [Torch] to LastFist]
