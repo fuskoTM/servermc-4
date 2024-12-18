@@ -13414,3 +13414,23 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [18Dec2024 03:21:23.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Dec2024 03:23:49.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [Strong Undead]
 [18Dec2024 03:23:49.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has completed the challenge [Crusade Against Curse]
+[18Dec2024 03:24:42.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [A Lighthouse in Your Eyes]
+[18Dec2024 03:26:23.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 03:26:23.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 03:31:23.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 03:31:23.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 03:31:30.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> voi a explorar si consigo algo t digo
+[18Dec2024 03:31:33.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> dale
+[18Dec2024 03:31:36.183] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[18Dec2024 03:31:36.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[18Dec2024 03:31:36.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[18Dec2024 03:31:36.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[18Dec2024 03:31:36.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:brickhouse/brickhouse_path
+[18Dec2024 03:31:36.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:cottage/cottage
+[18Dec2024 03:31:37.305] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:cottage/cottage2
+[18Dec2024 03:32:23.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> CREo
+[18Dec2024 03:32:26.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> q hay un dragon aca
+[18Dec2024 03:32:32.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Explorer's Compass] to LastFist]
+[18Dec2024 03:32:33.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> si
+[18Dec2024 03:32:37.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ice dragon
+[18Dec2024 03:33:36.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [They Have a Cave Troll!]

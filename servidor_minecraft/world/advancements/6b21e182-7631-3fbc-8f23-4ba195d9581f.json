@@ -5860,6 +5860,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 03:23:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-18 01:04:18 +0000"
@@ -5938,9 +5944,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/deepsight": {
+    "criteria": {
+      "all_effects": "2024-12-18 03:24:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/experience_block": {
     "criteria": {
       "has_item": "2024-12-18 02:15:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-18 03:22:12 +0000"
     },
     "done": true
   },
@@ -6031,6 +6049,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-12-18 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2024-12-18 03:23:49 +0000"
     },
     "done": true
   },
