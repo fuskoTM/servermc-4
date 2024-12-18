@@ -13109,3 +13109,16 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [18Dec2024 02:31:23.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 02:31:23.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Dec2024 02:31:47.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [The Bearclaw Inn]
+[18Dec2024 02:33:11.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> oe
+[18Dec2024 02:33:15.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> q
+[18Dec2024 02:33:30.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> aca hay
+[18Dec2024 02:33:31.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> q
+[18Dec2024 02:33:34.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> dragonsteel
+[18Dec2024 02:33:42.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ok voy
+[18Dec2024 02:36:23.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:36:23.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:37:56.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 30 [Iron Ingot] to LastFist]
+[18Dec2024 02:41:11.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Dragon Growth Hormone]
+[18Dec2024 02:41:23.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:41:23.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:42:50.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Best Friends Forever]

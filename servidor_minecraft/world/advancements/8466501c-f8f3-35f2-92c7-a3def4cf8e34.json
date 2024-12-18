@@ -6575,9 +6575,21 @@
     },
     "done": true
   },
+  "idas:bearclaw_inn": {
+    "criteria": {
+      "in_bearclaw_inn": "2024-12-18 02:31:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonsteel": {
     "criteria": {
       "steel": "2024-12-18 00:31:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2024-12-18 02:32:47 +0000"
     },
     "done": true
   },
@@ -6614,6 +6626,12 @@
   "iceandfire:recipes/tools/dragonsteel_ice_shovel": {
     "criteria": {
       "has_item": "2024-12-18 00:31:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2024-12-18 02:41:11 +0000"
     },
     "done": true
   },
@@ -6665,6 +6683,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-18 02:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-18 02:32:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2024-12-18 01:19:07 +0000"
@@ -6692,6 +6722,12 @@
   "iceandfire:recipes/tools/dragonsteel_ice_axe": {
     "criteria": {
       "has_item": "2024-12-18 00:31:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-18 02:32:34 +0000"
     },
     "done": true
   },
