@@ -5956,6 +5956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-18 03:11:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
       "has_item": "2024-12-18 01:00:39 +0000"
@@ -6019,6 +6025,12 @@
   "create_enchantment_industry:recipes/experience_rotor": {
     "criteria": {
       "has_item": "2024-12-18 02:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-18 03:11:29 +0000"
     },
     "done": true
   },

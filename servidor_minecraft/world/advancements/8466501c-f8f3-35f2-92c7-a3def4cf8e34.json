@@ -6635,6 +6635,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2024-12-18 03:12:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-18 00:35:23 +0000"
@@ -6701,6 +6707,12 @@
     },
     "done": true
   },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2024-12-18 03:15:07 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
       "bestiary": "2024-12-18 02:46:30 +0000"
@@ -6743,6 +6755,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-18 03:15:46 +0000"
+    },
+    "done": false
+  },
   "supplementaries:husbandry/soap": {
     "criteria": {
       "stew": "2024-12-18 03:05:24 +0000"
@@ -6764,6 +6782,12 @@
   "iceandfire:recipes/tools/dragonsteel_ice_hoe": {
     "criteria": {
       "has_item": "2024-12-18 00:31:13 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-18 03:17:05 +0000"
     },
     "done": true
   },

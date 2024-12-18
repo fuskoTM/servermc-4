@@ -2860,3 +2860,7 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [18Dec2024 03:11:58.683] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
 [18Dec2024 03:12:06.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Dragonslayer]
 [18Dec2024 03:12:37.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 22 [Glass Bottle] to LastFist]
+[18Dec2024 03:15:07.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Frosted Prison]
+[18Dec2024 03:17:05.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Amateur Archaeologist]
+[18Dec2024 03:23:49.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [Strong Undead]
+[18Dec2024 03:23:49.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has completed the challenge [Crusade Against Curse]
