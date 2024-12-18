@@ -61,10 +61,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2024-12-18 00:36:23 +0000",
       "log_spam_fixer": "2024-12-17 00:42:56 +0000"
     },
-    "done": true
+    "done": false
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -6572,12 +6571,6 @@
       "has_black_flag": "2024-12-17 21:09:58 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-18 00:36:23 +0000"
-    },
-    "done": false
   },
   "iceandfire:iceandfire/dragonsteel": {
     "criteria": {
