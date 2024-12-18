@@ -12510,3 +12510,144 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [18Dec2024 00:51:57.789] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
 [18Dec2024 00:56:23.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Dec2024 00:56:23.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 01:01:23.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 01:01:23.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 01:03:21.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:winter_wagon/winter_wagon
+[18Dec2024 01:03:21.459] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/StatueBlockTile$StatuePose
+[18Dec2024 01:03:21.460] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/GlobeManager$Model
+[18Dec2024 01:03:27.474] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:frostmaw_spawn
+[18Dec2024 01:03:28.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:pillager_outpost/feature_cage1
+[18Dec2024 01:03:32.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -8.350892693267497,0.0,6.242868264333708
+[18Dec2024 01:03:33.010] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:animal_den/polar_bear_den
+[18Dec2024 01:03:36.261] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[18Dec2024 01:03:40.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.0551304233288192,0.0,10.611039499944013
+[18Dec2024 01:03:40.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.1903228084479451,0.0,12.76682068447667
+[18Dec2024 01:03:40.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.3068934267723762,0.0,14.9308461440354
+[18Dec2024 01:03:40.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -0.5938746235535746,0.0,-10.815247817696672
+[18Dec2024 01:03:40.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -0.5938746235535746,0.0,-10.815247817696672
+[18Dec2024 01:03:40.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -0.5938746235535746,0.0,-10.815247817696672
+[18Dec2024 01:03:40.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 0.5726658847695489,0.0,10.824637403412112
+[18Dec2024 01:03:40.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 0.6155734887638573,0.0,13.021275136343547
+[18Dec2024 01:03:40.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 0.6534683560796566,0.0,15.221349612788345
+[18Dec2024 01:03:40.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 0.695879239420492,0.0,17.424300629913773
+[18Dec2024 01:03:40.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 0.7730678712584904,0.0,19.626909223998155
+[18Dec2024 01:03:40.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 0.9295104500699836,0.0,21.816931069246493
+[18Dec2024 01:03:40.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.1699516480962302,0.0,23.99035095158581
+[18Dec2024 01:03:40.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.487001171608199,0.0,26.14804376142274
+[18Dec2024 01:03:40.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.876009913067719,0.0,28.289902226566483
+[18Dec2024 01:03:40.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 2.343877117714328,0.0,30.410124861420286
+[18Dec2024 01:03:40.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 2.368684591705687,0.0,23.874659842028564
+[18Dec2024 01:03:41.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -3.606464876258997,0.0,-12.428562858745863
+[18Dec2024 01:03:41.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -2.8076595195179834,0.0,-10.415267866360296
+[18Dec2024 01:03:49.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -10.257485840667186,0.0,-3.9693293706030772
+[18Dec2024 01:03:49.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -12.31830200205627,0.0,-4.76248431265833
+[18Dec2024 01:03:49.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -14.381406540778926,0.0,-5.555464677827445
+[18Dec2024 01:03:54.091] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[18Dec2024 01:03:54.092] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[18Dec2024 01:03:54.096] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[18Dec2024 01:03:56.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastFist moved wrongly!
+[18Dec2024 01:04:38.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Cover Me In Emeralds]
+[18Dec2024 01:04:45.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[18Dec2024 01:06:23.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 01:06:23.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 01:06:42.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 0.7336874425891438
+[18Dec2024 01:06:42.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 0.6695638152152696
+[18Dec2024 01:06:42.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 0.6188689237768585
+[18Dec2024 01:06:42.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 0.7397963491843029
+[18Dec2024 01:06:42.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 0.7071208507192068
+[18Dec2024 01:06:42.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 1.6715382040977147
+[18Dec2024 01:06:44.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 0.3297767909477898
+[18Dec2024 01:06:44.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 1.193983026144906
+[18Dec2024 01:06:44.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 0.7996861049606423
+[18Dec2024 01:06:44.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 1.7490635011796485
+[18Dec2024 01:06:44.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 0.7055927382843947
+[18Dec2024 01:06:44.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 1.665948782854798
+[18Dec2024 01:06:44.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 0.826119165761952
+[18Dec2024 01:06:44.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 0.8272366728505176
+[18Dec2024 01:06:44.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 1.445893443989121
+[18Dec2024 01:06:45.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 1.8799982838120286
+[18Dec2024 01:06:54.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 0.28345532416915376
+[18Dec2024 01:06:54.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 1.0411521950968563
+[18Dec2024 01:06:54.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 1.7984438123104383
+[18Dec2024 01:06:54.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved wrongly! 2.5555185863414636
+[18Dec2024 01:07:07.096] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[18Dec2024 01:07:07.100] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[18Dec2024 01:07:07.101] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[18Dec2024 01:07:07.116] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[18Dec2024 01:07:07.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[18Dec2024 01:07:11.275] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:redstone_torch_trail/trail1
+[18Dec2024 01:07:11.734] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[18Dec2024 01:07:15.634] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:bearclaw_inn/bearclaw_inn_path
+[18Dec2024 01:07:15.638] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:bearclaw_inn/bearclaw_inn_stables
+[18Dec2024 01:07:15.823] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/FluidTransportBehaviour$UpdatePhase
+[18Dec2024 01:07:15.829] [Server thread/DEBUG] [mixin/]: Mixing OpenEndFluidHandlerMixin from create_enchantment_industry.mixins.json into com.simibubi.create.content.fluids.OpenEndedPipe$OpenEndFluidHandler
+[18Dec2024 01:07:15.830] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:OpenEndFluidHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[18Dec2024 01:07:18.411] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[18Dec2024 01:07:18.952] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:lumber_camp/lumber_camp_spruce
+[18Dec2024 01:07:19.023] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[18Dec2024 01:07:19.047] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[18Dec2024 01:07:19.056] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[18Dec2024 01:07:19.069] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[18Dec2024 01:07:19.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[18Dec2024 01:07:19.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[18Dec2024 01:07:34.796] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=933, y=67, z=-555}
+[18Dec2024 01:07:35.474] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=932, y=64, z=-555} but found not block entity block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] at location
+[18Dec2024 01:07:35.474] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] but failed at location BlockPos{x=932, y=64, z=-555}
+[18Dec2024 01:07:35.474] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=933, y=67, z=-555} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[18Dec2024 01:07:35.474] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=933, y=67, z=-555}
+[18Dec2024 01:07:35.475] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=934, y=67, z=-555} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[18Dec2024 01:07:35.475] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=934, y=67, z=-555}
+[18Dec2024 01:07:35.475] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=932, y=64, z=-554} but found not block entity block Block{minecraft:stone} at location
+[18Dec2024 01:07:35.475] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=932, y=64, z=-554}
+[18Dec2024 01:07:35.475] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=934, y=66, z=-555} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[18Dec2024 01:07:35.476] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=934, y=66, z=-555}
+[18Dec2024 01:07:35.514] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[18Dec2024 01:07:35.521] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[18Dec2024 01:08:07.336] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_1
+[18Dec2024 01:08:07.364] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_2
+[18Dec2024 01:08:07.369] [Worker-Main-67/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_mounted_skeleton_0 is being run through DFU (hash 70a90e8c18ab6c070683eb4b74586eeb5a9fff618e1bf05559f2e79d06e382be), this will cause launch time delays
+[18Dec2024 01:08:07.369] [Worker-Main-67/INFO] [ModernFix/]: Instantiating Mojang DFU
+[18Dec2024 01:08:08.311] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[18Dec2024 01:08:08.323] [Worker-Main-67/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_husk_0 is being run through DFU (hash 5f68ab39c1cb14a4114477af61576bd5f6e525508cd2a227b181530e6c94d0b7), this will cause launch time delays
+[18Dec2024 01:08:08.356] [Worker-Main-67/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_mounted_melee_0 is being run through DFU (hash a0e72b4097fde5418b6f9cf8fd344d7daa2847aa565502b1357c0f45785d099b), this will cause launch time delays
+[18Dec2024 01:08:08.405] [Worker-Main-67/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_6 is being run through DFU (hash f4356fb8f275788a589554bf241b86713195775fa70fe48c170a215033f5115d), this will cause launch time delays
+[18Dec2024 01:08:08.486] [Worker-Main-67/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_5 is being run through DFU (hash 932538a089ddc38719b508440e7ebda0a8ffe97ab0459509cd799e7e77fe5758), this will cause launch time delays
+[18Dec2024 01:08:08.554] [Worker-Main-67/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_7 is being run through DFU (hash 9cd1d4b11c269bf11f5f5ef9a9ad48ec4834d6639326442efbd57cdaf37e847e), this will cause launch time delays
+[18Dec2024 01:08:08.608] [Worker-Main-67/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_4 is being run through DFU (hash e4e2ac3dbc54f6aa23720b182d0821748a01b073d7c346cab7be1507253a123d), this will cause launch time delays
+[18Dec2024 01:08:11.928] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove1
+[18Dec2024 01:08:16.735] [Worker-Main-12/DEBUG] [ModernFix/]: Structure idas:animal_den/wolf_den is being run through DFU (hash e63a8a0230c998dbc01ce837fdb73bea97cbe44ca576b2f77a026b7847b4a356), this will cause launch time delays
+[18Dec2024 01:08:20.209] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[18Dec2024 01:08:36.792] [Worker-Main-12/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[18Dec2024 01:08:37.018] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_entrance
+[18Dec2024 01:08:39.642] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[18Dec2024 01:08:45.311] [Worker-Main-12/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[18Dec2024 01:08:50.039] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:redstone_torch_trail/trail2
+[18Dec2024 01:08:52.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> y entonces
+[18Dec2024 01:08:56.106] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[18Dec2024 01:08:58.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> no habia del de la bandera
+[18Dec2024 01:09:00.967] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[18Dec2024 01:09:03.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> coño
+[18Dec2024 01:09:03.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> toy buscando otro
+[18Dec2024 01:09:13.580] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[18Dec2024 01:09:15.407] [Worker-Main-12/DEBUG] [ModernFix/]: Structure watching:torch_tunnel/1x2/tunnel is being run through DFU (hash d799b3c55c470b1bdd12ff9efa88d16d8ead82f84d720a48a9e61b46fe93bbf4), this will cause launch time delays
+[18Dec2024 01:09:18.169] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/2x2/tunnel
+[18Dec2024 01:09:22.913] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of idas:nexus/nexus_white
+[18Dec2024 01:09:25.298] [Worker-Main-12/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[18Dec2024 01:09:26.095] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_1 is being run through DFU (hash f4f52708cd3974ec744c0b865a0ce90a99c8a64fc7ee182cb67d059f84a05629), this will cause launch time delays
+[18Dec2024 01:09:26.112] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_1 is being run through DFU (hash 7b21fdffa7a9a5e0e199ee3fec061057c30bcb8da0c3e7736def8138a8cfea17), this will cause launch time delays
+[18Dec2024 01:09:26.131] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_2
+[18Dec2024 01:09:26.133] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_roots_0 is being run through DFU (hash 962578fc7708746b628dca27fc3a85a519af2f79f85afd8bffffb1138e260900), this will cause launch time delays
+[18Dec2024 01:09:26.139] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_2 is being run through DFU (hash 21e83b1170d130d92bcfe5439c1418162bc7bead365ee48366543caa05df50db), this will cause launch time delays
+[18Dec2024 01:09:26.145] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_3 is being run through DFU (hash 3ac376c9a279c6182c0df40bd79f9aefa7a7a2e45a1fbd70c7fc5c52d8fdfcd0), this will cause launch time delays
+[18Dec2024 01:09:26.152] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_0 is being run through DFU (hash e8b079de93e43a9fffc70c7061ec60a545625d1d837c700e9d23afe0b04f9d93), this will cause launch time delays
+[18Dec2024 01:09:26.166] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_4 is being run through DFU (hash 5b88508f035a2a021b620463f9bc58546e95f50471753329928c1513c0189bf3), this will cause launch time delays
+[18Dec2024 01:09:26.173] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_3 is being run through DFU (hash dc7ad5f772feeefdec83c877a8e9805d0ff6ad7ae6b852e7fdca4e06051538ab), this will cause launch time delays
+[18Dec2024 01:09:26.179] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_piglin_1 is being run through DFU (hash 4b0d122034d49d15b17168a012434b4f0184fe803ad83ad9822a65ee2b333ced), this will cause launch time delays
+[18Dec2024 01:09:26.187] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_piglin_0 is being run through DFU (hash 9cc06412e75087b92ed78b7dc654702e658cb5ce732ffc856406f4b7ae888920), this will cause launch time delays
+[18Dec2024 01:09:26.192] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_piglin_2 is being run through DFU (hash 0b6bd83133060f95020b74da9d341154182afccc938e0168c6d6d1536023c600), this will cause launch time delays
+[18Dec2024 01:09:26.395] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/torchless_tunnel
+[18Dec2024 01:09:37.026] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[18Dec2024 01:09:42.137] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[18Dec2024 01:09:47.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Draconic Evolution]
+[18Dec2024 01:09:51.541] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[18Dec2024 01:10:06.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Enchanting Tower]
