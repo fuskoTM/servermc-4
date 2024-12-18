@@ -6496,17 +6496,17 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 05:22:57 +0000"
+      "has_smooth_sandstone": "2024-12-18 05:27:41 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 05:22:57 +0000"
+      "has_smooth_sandstone": "2024-12-18 05:27:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/mutual_aid": {
     "criteria": {
@@ -6514,65 +6514,35 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 05:22:57 +0000"
+      "has_chiseled_sandstone": "2024-12-18 05:29:04 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 05:22:57 +0000"
+      "has_chiseled_sandstone": "2024-12-18 05:29:04 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 05:22:57 +0000"
+      "has_smooth_sandstone": "2024-12-18 05:27:41 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 05:22:57 +0000"
+      "has_smooth_sandstone": "2024-12-18 05:27:41 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "cataclysm:find_cursed_pyramid": {
     "criteria": {
-      "log_spam_fixer": "2024-12-18 05:22:57 +0000"
+      "pyramid": "2024-12-18 05:24:59 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 05:22:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 05:22:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 05:22:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 05:22:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-18 05:22:57 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
