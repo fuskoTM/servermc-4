@@ -12933,3 +12933,157 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [18Dec2024 02:01:41.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 0.009467759346080129,-17.747298207413323,26.034091868190444
 [18Dec2024 02:01:41.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 0.007100819509560097,-19.405117112398642,16.330111285525163
 [18Dec2024 02:01:41.979] [Worker-Main-182/DEBUG] [ModernFix/]: Using cached upgraded version of idas:washing_camp/washing_camp
+[18Dec2024 02:01:47.729] [Worker-Main-1/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=570, y=65, z=6159}
+[18Dec2024 02:01:53.451] [Worker-Main-182/DEBUG] [ModernFix/]: Using cached upgraded version of idas:animal_den/wolf_den
+[18Dec2024 02:02:59.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 0.9525029381873082,0.022615554957084782,11.071852570874398
+[18Dec2024 02:02:59.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.1430850822055163,0.025670610457751764,13.287256852249811
+[18Dec2024 02:02:59.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.3336872532553343,0.025670610457751764,15.502914986092946
+[18Dec2024 02:02:59.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.5243070881471112,0.025670610457751764,17.718797017811994
+[18Dec2024 02:02:59.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.7149425025473874,0.025670610457751764,19.934876527458073
+[18Dec2024 02:02:59.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.905591658074286,0.025670610457751764,22.151130212635508
+[18Dec2024 02:02:59.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 2.0962529332748545,0.025670610457751764,24.36753752063123
+[18Dec2024 02:02:59.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 2.2869248980275643,0.025670610457751764,26.584080323953458
+[18Dec2024 02:02:59.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 2.477606290965241,0.025670610457751764,28.80074263415281
+[18Dec2024 02:02:59.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 2.6682959995620195,0.025670610457751764,31.017510349418444
+[18Dec2024 02:02:59.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 2.858993042570205,0.025670610457751764,33.23437103195192
+[18Dec2024 02:02:59.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 3.0496965545291914,0.025670610457751764,35.45131371161642
+[18Dec2024 02:02:59.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 3.240405772102804,0.025670610457751764,37.668328712749826
+[18Dec2024 02:02:59.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 3.431120022028608,0.025670610457751764,39.88540750141874
+[18Dec2024 02:02:59.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 2.8598952099347343,0.006518837247455167,33.245806446607276
+[18Dec2024 02:03:03.236] [Worker-Main-182/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[18Dec2024 02:03:48.570] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of idas:witches_treestump/witches_treestump
+[18Dec2024 02:03:49.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.4704474595361035,0.0,9.931199585269496
+[18Dec2024 02:03:49.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.5946139507536827,0.0,10.78822485751698
+[18Dec2024 02:03:49.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.7041287960075806,0.0,11.544121147639089
+[18Dec2024 02:03:49.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.8007208895215854,0.0,12.210821675526859
+[18Dec2024 02:03:49.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.8859151160008878,0.0,12.79885154112344
+[18Dec2024 02:03:49.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.9610564237556218,0.0,13.317493882579583
+[18Dec2024 02:03:59.663] [Worker-Main-67/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 02:03:59.664] [Worker-Main-67/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 02:04:01.071] [Worker-Main-182/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 02:04:01.091] [Worker-Main-67/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 02:04:04.539] [Worker-Main-67/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[18Dec2024 02:04:06.669] [Worker-Main-1/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=584, y=66, z=7250}
+[18Dec2024 02:04:11.249] [Worker-Main-182/DEBUG] [ModernFix/]: Using cached upgraded version of idas:brickhouse/brickhouse
+[18Dec2024 02:04:11.254] [Worker-Main-182/DEBUG] [ModernFix/]: Using cached upgraded version of idas:brickhouse/brickhouse_path
+[18Dec2024 02:04:15.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 3.8976581323587425,0.0,9.549602666082137
+[18Dec2024 02:04:15.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 4.7100463525415535,0.0,11.51909042758507
+[18Dec2024 02:04:15.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 5.530502856738167,0.0,13.503205551861356
+[18Dec2024 02:04:15.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 6.254145493439637,0.0,15.253195091473572
+[18Dec2024 02:04:15.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 6.892398299010324,0.0,16.796685865411746
+[18Dec2024 02:04:15.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 7.4553372735235826,0.0,18.158044728024834
+[18Dec2024 02:04:15.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 7.951849449044289,0.0,19.358763244849797
+[18Dec2024 02:04:15.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 8.38977318785362,0.0,20.417796976688805
+[18Dec2024 02:04:15.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 8.776021925483406,0.0,21.351864728170767
+[18Dec2024 02:04:15.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 9.116693312072925,0.0,22.17571248497825
+[18Dec2024 02:04:15.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 9.41716547504484,0.0,22.902346206482434
+[18Dec2024 02:04:15.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 9.682181922786071,0.0,23.543237148848675
+[18Dec2024 02:04:15.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 9.915926429693855,0.0,24.108502960016267
+[18Dec2024 02:04:15.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 10.122089084786467,0.0,24.607067405466296
+[18Dec2024 02:04:15.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 10.303924546578173,0.0,25.046801246352516
+[18Dec2024 02:04:15.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 10.464303423878505,0.2680000066757202,25.434646494014487
+[18Dec2024 02:04:15.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 10.605757593657358,0.7723760192394309,25.536777760233235
+[18Dec2024 02:04:15.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 10.730520171402304,1.13837602591515,25.536777760233235
+[18Dec2024 02:04:15.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 10.79654453016849,1.7291880384788527,25.536777760233235
+[18Dec2024 02:04:15.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 10.854778014600242,2.518284240235758,25.536777760233235
+[18Dec2024 02:04:15.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 10.906139947869065,3.482267096861065,25.536777760233235
+[18Dec2024 02:04:15.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 10.9514411730122,4.6004999830803115,25.536777760233235
+[18Dec2024 02:04:15.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 10.991396853588412,5.854781395401403,25.536777760233235
+[18Dec2024 02:04:15.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 11.026637763856684,7.229057607744323,25.536777760233235
+[18Dec2024 02:04:15.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 7.96330262023605,8.441169227030784,17.940078544118478
+[18Dec2024 02:04:20.393] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/snowy_scriber_1
+[18Dec2024 02:04:28.416] [Worker-Main-182/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_0
+[18Dec2024 02:04:28.428] [Worker-Main-182/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[18Dec2024 02:04:28.461] [Worker-Main-182/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[18Dec2024 02:04:28.471] [Worker-Main-182/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[18Dec2024 02:04:28.475] [Worker-Main-182/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_evoker_0
+[18Dec2024 02:04:28.475] [Worker-Main-182/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_pillager_0
+[18Dec2024 02:04:28.475] [Worker-Main-182/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_vindicator_spawner_0
+[18Dec2024 02:04:28.476] [Worker-Main-182/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[18Dec2024 02:04:42.320] [Worker-Main-182/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:frostmaw_spawn
+[18Dec2024 02:05:02.485] [Worker-Main-1/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[18Dec2024 02:05:04.317] [Worker-Main-1/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[18Dec2024 02:05:20.055] [Worker-Main-182/DEBUG] [ModernFix/]: Using cached upgraded version of idas:sunken_ship/sunken_ship_ruins2
+[18Dec2024 02:05:33.262] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of idas:animal_den/polar_bear_den
+[18Dec2024 02:05:34.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 3.1564301006731057,0.0,-9.63171416555997
+[18Dec2024 02:05:34.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 3.371332362534872,0.0,-10.67045225514994
+[18Dec2024 02:05:34.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 3.5756883519311486,0.0,-11.71710121236174
+[18Dec2024 02:05:38.351] [pool-6-thread-5/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / idas:bazaar], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / idas:farmhouse], ResourceKey[minecraft:worldgen/structure / idas:castle]] from pos BlockPos{x=939, y=74, z=7989}
+[18Dec2024 02:05:39.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 1.8767850043358294,0.0,-9.831163075918084
+[18Dec2024 02:05:39.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 2.0219541037228055,0.0,-10.844574601030217
+[18Dec2024 02:05:39.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 2.1648054438163626,0.0,-11.86888552837263
+[18Dec2024 02:05:39.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 2.305612520213117,0.0,-12.90280972848177
+[18Dec2024 02:05:39.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 2.4446165560292457,0.0,-13.945212835170423
+[18Dec2024 02:05:39.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 2.5820303100532556,0.0,-14.995094337463343
+[18Dec2024 02:05:39.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 2.8224270068465103,0.0,-16.039722028954202
+[18Dec2024 02:05:39.449] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=940, y=73, z=7989} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[18Dec2024 02:05:39.449] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=940, y=73, z=7989}
+[18Dec2024 02:05:39.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=940, y=74, z=7989} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[18Dec2024 02:05:39.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=940, y=74, z=7989}
+[18Dec2024 02:05:39.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=939, y=74, z=7989} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[18Dec2024 02:05:39.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=939, y=74, z=7989}
+[18Dec2024 02:05:43.189] [Worker-Main-182/DEBUG] [ModernFix/]: Using cached upgraded version of idas:nexus/nexus_blue
+[18Dec2024 02:05:59.369] [Worker-Main-182/DEBUG] [ModernFix/]: Structure idas:sunken_ship/sunken_ship is being run through DFU (hash 7ad75a27ad5f40277d8fbefc0637162b11d9b290fffd964c0f0d5dd2bb713e37), this will cause launch time delays
+[18Dec2024 02:06:09.251] [Worker-Main-67/DEBUG] [ModernFix/]: Structure idas:sunken_ship/sunken_ship_ruins1 is being run through DFU (hash ca5c4d64814be3352630549d7a209a432df9fd39fac08fd2423b771393e75bd9), this will cause launch time delays
+[18Dec2024 02:06:16.357] [Worker-Main-67/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/schematics/cannon/SchematicannonBlockEntity$State
+[18Dec2024 02:06:16.359] [Worker-Main-67/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/schematics/SchematicPrinter$PrintStage
+[18Dec2024 02:06:23.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:06:23.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:06:33.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 5.446884053447548,2.4997534595762687,-9.36946384589919
+[18Dec2024 02:06:33.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 6.379236819505422,2.7621443003532278,-11.09164091326329
+[18Dec2024 02:06:33.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 7.27169420179348,2.9935730219185075,-12.863707092782533
+[18Dec2024 02:06:33.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 8.112251578599853,3.1976931543390776,-14.68382146971544
+[18Dec2024 02:06:33.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 8.888071011291913,3.3777271111340212,-16.549533483158484
+[18Dec2024 02:06:33.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 9.60609249529739,3.536517061027169,-18.45555414424325
+[18Dec2024 02:06:33.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 10.273136188561466,3.676569796832922,-20.39712703254736
+[18Dec2024 02:06:33.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 10.895217470391572,3.800096309813597,-22.370056985258998
+[18Dec2024 02:06:33.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 11.477641905336895,3.909046694262557,-24.370643868778643
+[18Dec2024 02:06:33.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 12.12202222286146,4.005140933346539,-26.36914062187043
+[18Dec2024 02:06:33.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 12.821047628821134,4.089896052218606,-28.36579387992424
+[18Dec2024 02:06:33.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 13.56827000278031,4.164650067063775,-30.36082117535534
+[18Dec2024 02:06:33.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 14.35800210251523,4.230583108157205,-32.35441437175268
+[18Dec2024 02:06:33.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 15.185227780384366,4.28873605040161,-34.346742692801854
+[18Dec2024 02:06:33.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 16.04552279416771,4.340026945461176,-36.3379553937948
+[18Dec2024 02:06:33.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 16.934984962227418,4.385265514903722,-38.32818411789776
+[18Dec2024 02:06:33.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 17.850172560358942,4.425165933152044,-40.317544974383964
+[18Dec2024 02:06:33.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 18.788049987813793,4.460358102047067,-42.306140371631955
+[18Dec2024 02:06:33.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 19.745939844731993,4.491397595012472,-44.29406063383158
+[18Dec2024 02:06:33.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 20.72148066443674,4.518774427807955,-46.28138542691886
+[18Dec2024 02:06:34.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 17.218107521138563,2.340662619084924,-40.572533847565865
+[18Dec2024 02:06:34.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! 18.22294759759575,2.3619597143605233,-42.558870207182736
+[18Dec2024 02:07:02.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -7.279876493272354,0.0,-7.624545039057921
+[18Dec2024 02:07:02.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -8.463433571077871,0.0,-9.131805660158534
+[18Dec2024 02:07:02.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of LastFist) moved too quickly! -9.617136765301552,0.0,-10.699793796386984
+[18Dec2024 02:08:51.213] [Worker-Main-182/DEBUG] [ModernFix/]: Using cached upgraded version of idas:nexus/nexus
+[18Dec2024 02:09:43.729] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[18Dec2024 02:09:43.765] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[18Dec2024 02:10:25.668] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of takesapillage:bastille/center_hut
+[18Dec2024 02:10:34.129] [Worker-Main-67/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[18Dec2024 02:10:45.639] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_3_resistance
+[18Dec2024 02:10:45.640] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_2_wither
+[18Dec2024 02:10:45.640] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_0_speed
+[18Dec2024 02:10:45.642] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_4_haste
+[18Dec2024 02:10:45.643] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_1_regen
+[18Dec2024 02:11:10.791] [pool-6-thread-6/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / idas:castle]] from pos BlockPos{x=-565, y=72, z=8917}
+[18Dec2024 02:11:10.946] [pool-6-thread-6/DEBUG] [ModernFix/]: Using cached upgraded version of idas:castle/castle2
+[18Dec2024 02:11:11.925] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of idas:wizard_tower/redwizardtower1
+[18Dec2024 02:11:11.934] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of idas:wizard_tower/redwizardtower2
+[18Dec2024 02:11:12.838] [Worker-Main-1/DEBUG] [ModernFix/]: Structure idas:wizard_tower/purplewizardtower1 is being run through DFU (hash 516c4778a6c4853a28e249d4086ab22325d7f05759ce153a9c5a01531af5f4bb), this will cause launch time delays
+[18Dec2024 02:11:12.922] [Worker-Main-1/DEBUG] [ModernFix/]: Structure idas:wizard_tower/purplewizardtower2 is being run through DFU (hash 3f6be35a9f11e8e5788896b8cff3e5f3b7e65898d1ffcd16a4e1a23cb980d8c2), this will cause launch time delays
+[18Dec2024 02:11:16.719] [Worker-Main-182/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Dec2024 02:11:17.526] [Worker-Main-182/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-661, y=73, z=8930}
+[18Dec2024 02:11:17.526] [Worker-Main-182/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-662, y=73, z=8930}
+[18Dec2024 02:11:23.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 02:11:23.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 02:11:28.223] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_2
+[18Dec2024 02:11:28.241] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[18Dec2024 02:11:28.254] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_1
+[18Dec2024 02:11:28.260] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_2
+[18Dec2024 02:11:28.267] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_0
+[18Dec2024 02:11:28.273] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_3_stairs
+[18Dec2024 02:11:28.276] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_corridor_terminator
+[18Dec2024 02:11:28.277] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/villager_normal_0
+[18Dec2024 02:11:28.277] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/iron_golem_normal_0
+[18Dec2024 02:11:28.310] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_top_0
+[18Dec2024 02:11:28.319] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_corridor_0
+[18Dec2024 02:11:28.323] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_corridor_crossing
