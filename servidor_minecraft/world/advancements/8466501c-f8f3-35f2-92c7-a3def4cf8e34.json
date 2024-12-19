@@ -1726,9 +1726,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-17 01:22:51 +0000",
+      "minecraft:blaze": "2024-12-19 00:33:59 +0000",
       "minecraft:skeleton": "2024-12-17 00:59:13 +0000",
       "minecraft:ravager": "2024-12-18 01:17:10 +0000",
+      "minecraft:ghast": "2024-12-19 00:35:29 +0000",
       "minecraft:vindicator": "2024-12-17 01:23:06 +0000",
+      "minecraft:magma_cube": "2024-12-19 00:33:04 +0000",
       "minecraft:spider": "2024-12-17 01:18:09 +0000",
       "minecraft:piglin_brute": "2024-12-18 06:00:34 +0000",
       "minecraft:creeper": "2024-12-17 02:23:26 +0000",
@@ -1736,6 +1739,7 @@
       "quark:forgotten": "2024-12-17 02:38:29 +0000",
       "minecraft:phantom": "2024-12-18 02:29:11 +0000",
       "minecraft:witch": "2024-12-17 03:55:37 +0000",
+      "minecraft:wither_skeleton": "2024-12-19 00:31:45 +0000",
       "minecraft:husk": "2024-12-17 03:15:16 +0000",
       "minecraft:cave_spider": "2024-12-17 03:57:16 +0000",
       "minecraft:piglin": "2024-12-18 06:00:28 +0000",
@@ -7314,7 +7318,9 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:weeping_valley": "2024-12-18 05:59:11 +0000",
-      "incendium:infernal_dunes": "2024-12-19 00:31:29 +0000"
+      "incendium:infernal_dunes": "2024-12-19 00:31:29 +0000",
+      "incendium:volcanic_deltas": "2024-12-19 00:35:32 +0000",
+      "incendium:withered_forest": "2024-12-19 00:34:38 +0000"
     },
     "done": false
   },
@@ -7450,6 +7456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:36:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_candle": {
     "criteria": {
       "has_purple_dye": "2024-12-19 00:10:55 +0000"
@@ -7462,9 +7474,45 @@
     },
     "done": true
   },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2024-12-19 00:34:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_purple_dye": "2024-12-19 00:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:36:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:36:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2024-12-19 00:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:36:04 +0000"
     },
     "done": true
   },
@@ -7480,6 +7528,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:36:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-19 00:09:43 +0000"
@@ -7492,9 +7552,27 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2024-12-19 00:39:52 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/small_purple_industrial_lamp": {
     "criteria": {
       "has_small_purple_industrial_lamp": "2024-12-19 00:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:36:04 +0000"
     },
     "done": true
   },
@@ -7504,9 +7582,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2024-12-19 00:37:43 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-19 00:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-19 00:36:01 +0000"
     },
     "done": true
   },
@@ -7546,15 +7636,54 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:36:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2024-12-19 00:09:43 +0000"
     },
     "done": true
   },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2024-12-19 00:34:50 +0000",
+      "office_treasure": "2024-12-19 00:39:08 +0000",
+      "junk": "2024-12-19 00:35:59 +0000",
+      "office": "2024-12-19 00:38:34 +0000"
+    },
+    "done": false
+  },
   "ad_astra:recipes/misc/small_blue_industrial_lamp": {
     "criteria": {
       "has_small_blue_industrial_lamp": "2024-12-19 00:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-19 00:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:36:04 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2024-12-19 00:35:32 +0000"
     },
     "done": true
   },
@@ -7570,6 +7699,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-19 00:36:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:waste": "2024-12-19 00:34:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2024-12-19 00:09:43 +0000"
@@ -7582,9 +7729,27 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-19 00:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:36:04 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_grave_type": {
     "criteria": {
       "coded_trigger": "2024-12-19 00:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:36:04 +0000"
     },
     "done": true
   },
@@ -7603,6 +7768,24 @@
   "supplementaries:recipes/candle_holders/candle_holder_blue_dye": {
     "criteria": {
       "forge:dyes/blue": "2024-12-19 00:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-19 00:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-19 00:36:04 +0000"
     },
     "done": true
   },

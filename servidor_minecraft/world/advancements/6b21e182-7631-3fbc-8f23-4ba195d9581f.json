@@ -846,6 +846,7 @@
       "minecraft:skeleton": "2024-12-17 00:59:38 +0000",
       "minecraft:ravager": "2024-12-18 01:18:41 +0000",
       "minecraft:vindicator": "2024-12-17 06:05:01 +0000",
+      "minecraft:magma_cube": "2024-12-19 00:37:40 +0000",
       "minecraft:spider": "2024-12-17 00:57:23 +0000",
       "minecraft:creeper": "2024-12-17 19:44:00 +0000",
       "minecraft:zombified_piglin": "2024-12-19 00:30:40 +0000",
@@ -6634,7 +6635,9 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:weeping_valley": "2024-12-18 05:59:31 +0000",
-      "incendium:infernal_dunes": "2024-12-19 00:27:20 +0000"
+      "incendium:infernal_dunes": "2024-12-19 00:27:20 +0000",
+      "incendium:volcanic_deltas": "2024-12-19 00:36:52 +0000",
+      "incendium:withered_forest": "2024-12-19 00:34:14 +0000"
     },
     "done": false
   },
@@ -6692,6 +6695,12 @@
     },
     "done": true
   },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2024-12-19 00:34:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2024-12-19 00:27:15 +0000"
@@ -6740,6 +6749,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2024-12-19 00:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2024-12-19 00:16:51 +0000"
@@ -6775,6 +6790,13 @@
       "killed_by": "2024-12-19 00:22:42 +0000"
     },
     "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2024-12-19 00:35:45 +0000",
+      "treasure": "2024-12-19 00:35:19 +0000"
+    },
+    "done": false
   },
   "aether:recipes/misc/ice_pendant_from_freezing": {
     "criteria": {
@@ -6818,6 +6840,12 @@
     },
     "done": true
   },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2024-12-19 00:36:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-12-19 00:27:15 +0000"
@@ -6839,6 +6867,12 @@
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-19 00:24:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:treasure": "2024-12-19 00:35:19 +0000"
     },
     "done": true
   },
