@@ -842,12 +842,15 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-17 02:04:03 +0000",
+      "minecraft:blaze": "2024-12-19 00:29:30 +0000",
       "minecraft:skeleton": "2024-12-17 00:59:38 +0000",
       "minecraft:ravager": "2024-12-18 01:18:41 +0000",
       "minecraft:vindicator": "2024-12-17 06:05:01 +0000",
       "minecraft:spider": "2024-12-17 00:57:23 +0000",
       "minecraft:creeper": "2024-12-17 19:44:00 +0000",
+      "minecraft:zombified_piglin": "2024-12-19 00:30:40 +0000",
       "minecraft:witch": "2024-12-17 03:51:28 +0000",
+      "minecraft:wither_skeleton": "2024-12-19 00:30:07 +0000",
       "minecraft:cave_spider": "2024-12-17 03:10:09 +0000",
       "quark:wraith": "2024-12-18 06:00:28 +0000",
       "minecraft:piglin": "2024-12-19 00:20:55 +0000",
@@ -6630,7 +6633,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:weeping_valley": "2024-12-18 05:59:31 +0000"
+      "incendium:weeping_valley": "2024-12-18 05:59:31 +0000",
+      "incendium:infernal_dunes": "2024-12-19 00:27:20 +0000"
     },
     "done": false
   },
@@ -6676,15 +6680,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-19 00:24:09 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_pendant": "2024-12-19 00:20:56 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-19 00:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-19 00:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-19 00:27:15 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/loot_piglin_village": {
     "criteria": {
       "incendium:medium": "2024-12-19 00:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-19 00:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-19 00:27:15 +0000"
     },
     "done": true
   },
@@ -6706,15 +6746,45 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2024-12-19 00:29:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-19 00:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-19 00:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-19 00:16:52 +0000"
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-19 00:22:42 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/ice_pendant_from_freezing": {
     "criteria": {
       "has_pendant": "2024-12-19 00:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-19 00:24:09 +0000"
     },
     "done": true
   },
@@ -6736,15 +6806,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-19 00:24:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2024-12-19 00:16:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-19 00:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-19 00:27:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-12-19 00:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-19 00:24:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2024-12-19 00:27:20 +0000"
     },
     "done": true
   },

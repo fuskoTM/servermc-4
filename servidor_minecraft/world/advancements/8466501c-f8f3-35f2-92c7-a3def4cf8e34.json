@@ -7313,7 +7313,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:weeping_valley": "2024-12-18 05:59:11 +0000"
+      "incendium:weeping_valley": "2024-12-18 05:59:11 +0000",
+      "incendium:infernal_dunes": "2024-12-19 00:31:29 +0000"
     },
     "done": false
   },
@@ -7521,6 +7522,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-19 00:31:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2024-12-18 23:55:04 +0000"
@@ -7578,6 +7585,12 @@
   "tombstone:adventure/choose_grave_type": {
     "criteria": {
       "coded_trigger": "2024-12-19 00:06:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2024-12-19 00:31:29 +0000"
     },
     "done": true
   },
