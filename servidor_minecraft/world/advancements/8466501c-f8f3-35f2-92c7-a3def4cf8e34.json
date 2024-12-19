@@ -7471,6 +7471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-19 02:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2024-12-19 00:36:04 +0000"
@@ -7558,6 +7564,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-19 01:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-19 02:32:46 +0000"
     },
     "done": true
   },
@@ -7657,6 +7669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-19 02:28:18 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/netherite_pickaxe_repairing": {
     "criteria": {
       "has_netherite_pickaxe": "2024-12-19 01:23:18 +0000"
@@ -7723,6 +7741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-19 02:32:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-19 00:09:43 +0000"
@@ -7732,6 +7756,12 @@
   "cataclysm:kill_ignis": {
     "criteria": {
       "ignis": "2024-12-19 00:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2024-12-19 02:34:11 +0000"
     },
     "done": true
   },
@@ -7768,6 +7798,12 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2024-12-18 23:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-19 02:32:46 +0000"
     },
     "done": true
   },
@@ -7930,6 +7966,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/gray_flag": {
+    "criteria": {
+      "has_gray_flag": "2024-12-19 02:32:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-19 01:11:34 +0000"
@@ -7975,6 +8017,12 @@
   "tombstone:adventure/choose_grave_type": {
     "criteria": {
       "coded_trigger": "2024-12-19 00:06:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-19 02:29:08 +0000"
     },
     "done": true
   },
@@ -8047,6 +8095,12 @@
   "endrem:main/cursed_eye": {
     "criteria": {
       "cursed_eye": "2024-12-19 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/quark/sign_post_blossom": {
+    "criteria": {
+      "has_planks": "2024-12-19 02:36:08 +0000"
     },
     "done": true
   },
