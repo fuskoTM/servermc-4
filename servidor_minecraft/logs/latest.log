@@ -471,3 +471,4 @@
 ]
 [19Dec2024 01:25:12.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
 [19Dec2024 01:25:12.635] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[19Dec2024 01:28:21.566] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityTerrapin['Pelusa'/62683, l='ServerLevel[world]', x=222.38, y=54.36, z=718.15] died: Pelusa was slain by 1N_

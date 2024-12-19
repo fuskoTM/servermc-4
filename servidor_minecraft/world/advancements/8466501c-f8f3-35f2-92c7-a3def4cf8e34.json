@@ -7603,6 +7603,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2024-12-19 01:27:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2024-12-19 01:23:18 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/blue_industrial_lamp": {
     "criteria": {
       "has_blue_industrial_lamp": "2024-12-19 00:09:43 +0000"
@@ -7891,6 +7903,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-19 01:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-19 01:27:01 +0000"
     },
     "done": true
   },

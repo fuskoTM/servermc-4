@@ -12875,3 +12875,10 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 ]
 [19Dec2024 01:25:12.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
 [19Dec2024 01:25:12.635] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[19Dec2024 01:26:57.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 01:26:57.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 01:28:21.566] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityTerrapin['Pelusa'/62683, l='ServerLevel[world]', x=222.38, y=54.36, z=718.15] died: Pelusa was slain by 1N_
+[19Dec2024 01:31:57.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 01:31:57.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 01:34:51.994] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[19Dec2024 01:34:52.477] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:frostmaw_spawn
