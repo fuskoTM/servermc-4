@@ -6712,9 +6712,27 @@
     },
     "done": true
   },
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_blocks": {
+    "criteria": {
+      "has_item": "2024-12-19 01:53:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2024-12-19 00:56:08 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_ingot_from_steel_block": {
+    "criteria": {
+      "has_steel_ingot": "2024-12-19 01:53:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_block": {
+    "criteria": {
+      "has_steel_block": "2024-12-19 01:52:37 +0000"
     },
     "done": true
   },
@@ -6724,9 +6742,21 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/zip_gun": {
+    "criteria": {
+      "has_zip_gun": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/encased_iron_block": {
     "criteria": {
       "has_encased_iron_block": "2024-12-19 01:50:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/nasa_workbench/nasa_workbench/tier_2_rocket_from_nasa_workbench": {
+    "criteria": {
+      "has_item": "2024-12-19 01:55:49 +0000"
     },
     "done": true
   },
@@ -6760,9 +6790,21 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/fan": {
+    "criteria": {
+      "has_fan": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/polished_blackstone_button": {
     "criteria": {
       "has_polished_blackstone": "2024-12-19 00:53:52 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_rod": {
+    "criteria": {
+      "has_steel_rod": "2024-12-19 01:54:12 +0000"
     },
     "done": true
   },
@@ -6790,6 +6832,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_tank": {
+    "criteria": {
+      "has_steel_tank": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2024-12-19 00:56:05 +0000"
@@ -6808,9 +6856,27 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_panel": {
+    "criteria": {
+      "has_steel_panel": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_plateblock": {
+    "criteria": {
+      "has_steel_plateblock": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-12-19 00:27:15 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
+    "criteria": {
+      "has_item": "2024-12-19 01:52:37 +0000"
     },
     "done": true
   },
@@ -6832,6 +6898,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/airlock": {
+    "criteria": {
+      "has_airlock": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
   "incendium:toxic_heap/root": {
     "criteria": {
       "requirement": "2024-12-19 00:48:11 +0000"
@@ -6844,9 +6916,51 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_cable": {
+    "criteria": {
+      "has_steel_cable": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/fuel_refinery": {
+    "criteria": {
+      "has_fuel_refinery": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/nasa_workbench/nasa_workbench/tier_1_rocket_from_nasa_workbench": {
+    "criteria": {
+      "has_item": "2024-12-19 01:55:49 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/nasa_workbench": {
+    "criteria": {
+      "has_nasa_workbench": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/oxygen_loader": {
+    "criteria": {
+      "has_oxygen_loader": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-19 00:16:51 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/vent": {
+    "criteria": {
+      "has_vent": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/ti_69": {
+    "criteria": {
+      "has_ti_69": "2024-12-19 01:54:12 +0000"
     },
     "done": true
   },
@@ -6856,9 +6970,21 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/oxygen_gear": {
+    "criteria": {
+      "has_oxygen_gear": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/propeller": {
     "criteria": {
       "has_item": "2024-12-19 01:50:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/space_suit": {
+    "criteria": {
+      "has_space_suit": "2024-12-19 01:54:12 +0000"
     },
     "done": true
   },
@@ -6874,9 +7000,21 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_trapdoor": {
+    "criteria": {
+      "has_steel_trapdoor": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_ignis": {
     "criteria": {
       "ignis": "2024-12-19 00:54:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/space_pants": {
+    "criteria": {
+      "has_space_pants": "2024-12-19 01:54:12 +0000"
     },
     "done": true
   },
@@ -6901,6 +7039,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-19 00:24:09 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:rocket_science": {
+    "criteria": {
+      "has_nasa_workbench": "2024-12-19 01:55:49 +0000"
     },
     "done": true
   },
@@ -6946,6 +7090,18 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_plating": {
+    "criteria": {
+      "has_steel_plating": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_door": {
+    "criteria": {
+      "has_steel_door": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2024-12-19 00:22:42 +0000"
@@ -6955,6 +7111,24 @@
   "ad_astra:recipes/misc/iron_plateblock": {
     "criteria": {
       "has_iron_plateblock": "2024-12-19 01:50:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/radio": {
+    "criteria": {
+      "has_radio": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/rocket_fin": {
+    "criteria": {
+      "has_rocket_fin": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/reinforced_door": {
+    "criteria": {
+      "has_reinforced_door": "2024-12-19 01:54:12 +0000"
     },
     "done": true
   },
@@ -6995,9 +7169,33 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_nugget": {
+    "criteria": {
+      "has_steel_nugget": "2024-12-19 01:52:37 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/space_boots": {
+    "criteria": {
+      "has_space_boots": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2024-12-19 00:16:51 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/steel_factory_block": {
+    "criteria": {
+      "has_steel_factory_block": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/alloying/alloying/steel_ingot_from_alloying_iron_ingot_and_coals": {
+    "criteria": {
+      "has_item": "2024-12-19 01:52:17 +0000"
     },
     "done": true
   },
@@ -7007,9 +7205,21 @@
     },
     "done": true
   },
+  "ad_astra:recipes/nasa_workbench/nasa_workbench/tier_3_rocket_from_nasa_workbench": {
+    "criteria": {
+      "has_item": "2024-12-19 01:55:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-19 00:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-19 01:53:44 +0000"
     },
     "done": true
   },
@@ -7055,6 +7265,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/encased_steel_block": {
+    "criteria": {
+      "has_encased_steel_block": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-19 00:27:15 +0000"
@@ -7085,6 +7301,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/wheel": {
+    "criteria": {
+      "has_wheel": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
   "incendium:toxic_heap/nuclear_fusion": {
     "criteria": {
       "incendium:treasure": "2024-12-19 00:35:19 +0000"
@@ -7097,15 +7319,39 @@
     },
     "done": true
   },
+  "ad_astra:recipes/nasa_workbench/nasa_workbench/tier_4_rocket_from_nasa_workbench": {
+    "criteria": {
+      "has_item": "2024-12-19 01:55:49 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_revenant": {
     "criteria": {
       "endergolem": "2024-12-19 00:51:57 +0000"
     },
     "done": true
   },
+  "ad_astra:recipes/misc/steel_engine": {
+    "criteria": {
+      "has_steel_engine": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/large_gas_tank": {
+    "criteria": {
+      "has_large_gas_tank": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-19 00:53:52 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/etrionic_capacitor": {
+    "criteria": {
+      "has_etrionic_capacitor": "2024-12-19 01:54:12 +0000"
     },
     "done": true
   },
@@ -7127,6 +7373,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/space_helmet": {
+    "criteria": {
+      "has_space_helmet": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2024-12-19 00:53:52 +0000"
@@ -7145,6 +7397,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/launch_pad": {
+    "criteria": {
+      "has_launch_pad": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-19 00:16:51 +0000"
@@ -7157,11 +7415,35 @@
     },
     "done": true
   },
+  "ad_astra:smart_blasting": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2024-12-19 01:52:17 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2024-12-19 00:49:59 +0000"
     },
     "done": false
+  },
+  "ad_astra:recipes/misc/steel_sliding_door": {
+    "criteria": {
+      "has_steel_sliding_door": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/rocket_nose_cone": {
+    "criteria": {
+      "has_rocket_nose_cone": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/engine_frame": {
+    "criteria": {
+      "has_engine_frame": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/polished_blackstone_wall": {
     "criteria": {
@@ -7178,6 +7460,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-19 00:53:52 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/cable_duct": {
+    "criteria": {
+      "has_cable_duct": "2024-12-19 01:54:12 +0000"
     },
     "done": true
   },
