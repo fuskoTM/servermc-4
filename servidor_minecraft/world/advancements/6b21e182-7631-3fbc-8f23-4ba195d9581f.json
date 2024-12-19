@@ -7355,6 +7355,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2024-12-19 03:42:36 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/wheel": {
     "criteria": {
       "has_wheel": "2024-12-19 01:54:12 +0000"
