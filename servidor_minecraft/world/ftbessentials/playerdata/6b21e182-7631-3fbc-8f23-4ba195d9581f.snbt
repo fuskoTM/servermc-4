@@ -15,7 +15,7 @@
 		{ dim: "minecraft:overworld", x: -569, y: 60, z: 1620, time: 1734576825294L, xRot: 26.250097f, yRot: -54.881653f }
 		{ dim: "ad_astra:moon", x: 235, y: 551, z: 729, time: 1734577753003L }
 		{ dim: "minecraft:overworld", x: 244, y: 64, z: 731, time: 1734578443932L, xRot: 32.55012f, yRot: 100.23981f }
-		{ dim: "ad_astra:moon", x: 224, y: 101, z: 724, time: 1734578492278L }
+		{ dim: "ad_astra:moon", x: 224, y: 101, z: 722, time: 1734578878137L, xRot: -1.2010889f, yRot: 124.808105f }
 	]
 	homes: {
 		home: { dim: "minecraft:overworld", x: 221, y: 54, z: 711, time: 1734401352306L, xRot: 9.149851f, yRot: -88.04672f }

@@ -7205,6 +7205,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2024-12-19 03:34:02 +0000"
+    },
+    "done": false
+  },
   "ad_astra:recipes/misc/space_boots": {
     "criteria": {
       "has_space_boots": "2024-12-19 01:54:12 +0000"
