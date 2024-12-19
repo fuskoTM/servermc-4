@@ -4,6 +4,7 @@
 		nieve: { dim: "minecraft:overworld", x: 1468, y: 71, z: 376, time: 1734471340468L, xRot: 28.499565f, yRot: 179.08728f }
 		xp2: { dim: "minecraft:overworld", x: 1426, y: 43, z: 29, time: 1734495651137L, xRot: 8.700983f, yRot: -0.19013669f }
 		exp: { dim: "minecraft:overworld", x: 315, y: 45, z: 577, time: 1734489920512L, xRot: 51.011307f, yRot: -88.920166f }
+		burningarena: { dim: "minecraft:the_nether", x: -877, y: 65, z: 3898, time: 1734570178992L, xRot: 17.100275f, yRot: 90.89136f }
 	}
 	mute_timeouts: { }
 	kits: { }
