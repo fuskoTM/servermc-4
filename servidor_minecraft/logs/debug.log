@@ -12896,3 +12896,11 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [19Dec2024 01:44:02.769] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting earth/terrarium/adastra/common/blockentities/base/EnergyContainerMachineBlockEntity$ChargeSlotType
 [19Dec2024 01:46:00.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 256 [Coal] to LastFist]
 [19Dec2024 01:46:39.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Carbon Footprint]
+[19Dec2024 01:46:57.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 01:46:57.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 01:50:49.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 128 [Iron Ingot] to LastFist]
+[19Dec2024 01:51:57.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 01:51:57.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 01:52:17.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Smart Blasting]
+[19Dec2024 01:53:05.414] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/86236, l='ServerLevel[world]', x=215.49, y=54.25, z=714.28] died, message: 'Unemployed tried to swim in lava'
+[19Dec2024 01:55:49.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Rocket Science]
