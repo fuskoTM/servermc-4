@@ -472,3 +472,11 @@
 [19Dec2024 01:25:12.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
 [19Dec2024 01:25:12.635] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
 [19Dec2024 01:28:21.566] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityTerrapin['Pelusa'/62683, l='ServerLevel[world]', x=222.38, y=54.36, z=718.15] died: Pelusa was slain by 1N_
+[19Dec2024 01:37:50.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 30 [Ancient Metal Ingot] to LastFist]
+[19Dec2024 01:38:24.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Kobolediator Skull] to LastFist]
+[19Dec2024 01:41:38.493] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[19Dec2024 01:44:01.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Under Pressure]
+[19Dec2024 01:44:02.740] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting earth/terrarium/adastra/common/blockentities/base/sideconfig/ConfigurationType
+[19Dec2024 01:44:02.769] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting earth/terrarium/adastra/common/blockentities/base/EnergyContainerMachineBlockEntity$ChargeSlotType
+[19Dec2024 01:46:00.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 256 [Coal] to LastFist]
+[19Dec2024 01:46:39.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Carbon Footprint]

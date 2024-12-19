@@ -7477,6 +7477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 01:37:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2024-12-19 00:09:43 +0000"
@@ -7504,6 +7510,12 @@
   "minecraft:recipes/redstone/polished_blackstone_button": {
     "criteria": {
       "has_polished_blackstone": "2024-12-19 01:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 01:37:54 +0000"
     },
     "done": true
   },
@@ -7537,6 +7549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 01:37:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/end_stone_lamp": {
     "criteria": {
       "has_shroomlight": "2024-12-19 00:56:46 +0000"
@@ -7567,9 +7585,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 01:37:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-19 00:09:43 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 01:37:54 +0000"
     },
     "done": true
   },
@@ -7585,9 +7615,21 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 01:37:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2024-12-19 00:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-19 01:37:54 +0000"
     },
     "done": true
   },
@@ -7741,6 +7783,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2024-12-19 01:37:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 00:36:04 +0000"
@@ -7780,9 +7828,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 01:37:54 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/small_blue_industrial_lamp": {
     "criteria": {
       "has_small_blue_industrial_lamp": "2024-12-19 00:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 01:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 01:37:54 +0000"
     },
     "done": true
   },
@@ -7819,6 +7885,12 @@
   "minecraft:recipes/building_blocks/dye_purple_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-19 00:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 01:37:54 +0000"
     },
     "done": true
   },
@@ -7969,6 +8041,12 @@
   "endrem:main/cursed_eye": {
     "criteria": {
       "cursed_eye": "2024-12-19 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-19 01:37:54 +0000"
     },
     "done": true
   },
