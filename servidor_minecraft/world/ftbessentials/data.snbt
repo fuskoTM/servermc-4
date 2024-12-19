@@ -1,7 +1,7 @@
 {
 	warps: {
 		nether: { dim: "minecraft:overworld", x: -3314, y: -25, z: -4941, time: 1734501463462L, xRot: 8.990807f, yRot: -174.0509f }
-		moon: { dim: "ad_astra:moon", x: 233, y: 601, z: 727, time: 1734577642365L, xRot: 12.749388f, yRot: -0.45000005f }
+		moon: { dim: "ad_astra:moon", x: 241, y: 101, z: 720, time: 1734580703874L, xRot: 33.60008f, yRot: -13.951752f }
 		nieve: { dim: "minecraft:overworld", x: 1468, y: 71, z: 376, time: 1734471340468L, xRot: 28.499565f, yRot: 179.08728f }
 		xp2: { dim: "minecraft:overworld", x: 1426, y: 43, z: 29, time: 1734495651137L, xRot: 8.700983f, yRot: -0.19013669f }
 		exp: { dim: "minecraft:overworld", x: 315, y: 45, z: 577, time: 1734489920512L, xRot: 51.011307f, yRot: -88.920166f }
