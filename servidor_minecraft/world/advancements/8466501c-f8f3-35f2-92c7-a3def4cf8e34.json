@@ -7456,6 +7456,18 @@
     },
     "done": true
   },
+  "ad_astra:moon_cheese": {
+    "criteria": {
+      "has_moon_cheese": "2024-12-19 03:56:50 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_brick_slab_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_stone_brick_slab": "2024-12-19 03:55:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/zinc_ingot_from_ore": {
     "criteria": {
       "has_item": "2024-12-19 02:17:03 +0000"
@@ -7498,6 +7510,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/moon_pillar": {
+    "criteria": {
+      "has_moon_pillar": "2024-12-19 03:55:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
@@ -7507,6 +7525,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-19 02:28:18 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/polished_moon_stone_slab_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_polished_moon_stone_slab": "2024-12-19 03:55:59 +0000"
     },
     "done": true
   },
@@ -7648,6 +7672,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_brick_stairs_from_moon_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_moon_stone_brick_stairs": "2024-12-19 03:51:18 +0000"
+    },
+    "done": true
+  },
   "takesapillage:bastille": {
     "criteria": {
       "in_bastille": "2024-12-19 03:13:03 +0000"
@@ -7693,6 +7723,36 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-19 03:03:36 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/polished_moon_stone_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_polished_moon_stone": "2024-12-19 03:55:59 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/moon_stone_bricks": {
+    "criteria": {
+      "has_moon_stone_bricks": "2024-12-19 03:55:59 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/blasting/cheese_from_blasting_moon_cheese_ore": {
+    "criteria": {
+      "has_cheese": "2024-12-19 03:53:55 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/moon_stone_brick_slab": {
+    "criteria": {
+      "has_moon_stone_brick_slab": "2024-12-19 03:51:18 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/chiseled_moon_stone_bricks_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_chiseled_moon_stone_bricks": "2024-12-19 03:55:59 +0000"
     },
     "done": true
   },
@@ -7756,6 +7816,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_bricks_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_stone_bricks": "2024-12-19 03:55:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-19 00:09:43 +0000"
@@ -7765,6 +7831,12 @@
   "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/smelting/cheese_from_smelting_moon_cheese_ore": {
+    "criteria": {
+      "has_cheese": "2024-12-19 03:53:55 +0000"
     },
     "done": true
   },
@@ -7816,6 +7888,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/sky_stone": {
+    "criteria": {
+      "has_sky_stone": "2024-12-19 03:55:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_stairs": {
     "criteria": {
       "has_cut_tuff_bricks": "2024-12-19 02:37:17 +0000"
@@ -7840,6 +7918,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_brick_wall_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_stone_brick_wall": "2024-12-19 03:55:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 00:36:04 +0000"
@@ -7861,6 +7945,12 @@
   "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/chiseled_moon_stone_bricks_from_moon_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_chiseled_moon_stone_bricks": "2024-12-19 03:51:18 +0000"
     },
     "done": true
   },
@@ -7948,6 +8038,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_brick_slab_from_moon_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_moon_stone_brick_slab": "2024-12-19 03:51:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2024-12-19 01:16:20 +0000"
@@ -7963,6 +8059,12 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2024-12-18 23:55:04 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/moon_stone_brick_wall": {
+    "criteria": {
+      "has_moon_stone_brick_wall": "2024-12-19 03:51:18 +0000"
     },
     "done": true
   },
@@ -8107,9 +8209,21 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/moon_stone_stairs": {
+    "criteria": {
+      "has_moon_stone_stairs": "2024-12-19 03:55:59 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_leggings": {
     "criteria": {
       "has_item": "2024-12-19 02:42:19 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_stairs_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_stone_stairs": "2024-12-19 03:55:59 +0000"
     },
     "done": true
   },
@@ -8137,6 +8251,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/smelting/cracked_moon_stone_bricks_from_smelting_moon_stone_bricks": {
+    "criteria": {
+      "has_cracked_moon_stone_bricks": "2024-12-19 03:51:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-19 01:37:54 +0000"
@@ -8146,6 +8266,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-19 01:37:54 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/polished_moon_stone_stairs_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_polished_moon_stone_stairs": "2024-12-19 03:55:59 +0000"
     },
     "done": true
   },
@@ -8164,6 +8290,12 @@
   "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_brick_stairs_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_stone_brick_stairs": "2024-12-19 03:55:59 +0000"
     },
     "done": true
   },
@@ -8257,6 +8389,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/stonecutting/moon_pillar_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_pillar": "2024-12-19 03:55:59 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_cracked_stone_bricks": "2024-12-19 03:13:11 +0000"
@@ -8329,6 +8467,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/cheese_block": {
+    "criteria": {
+      "has_cheese_block": "2024-12-19 03:56:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-12-19 00:31:49 +0000"
@@ -8386,6 +8530,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-19 01:11:34 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/moon_stone_brick_stairs": {
+    "criteria": {
+      "has_moon_stone_brick_stairs": "2024-12-19 03:51:18 +0000"
     },
     "done": true
   },
@@ -8461,6 +8611,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_brick_wall_from_moon_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_moon_stone_brick_wall": "2024-12-19 03:51:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-19 03:23:06 +0000"
@@ -8479,6 +8635,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/moon_stone_slab": {
+    "criteria": {
+      "has_moon_stone_slab": "2024-12-19 03:55:59 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_chestplate": {
     "criteria": {
       "has_item": "2024-12-19 02:42:19 +0000"
@@ -8488,6 +8650,12 @@
   "create:recipes/misc/blasting/zinc_ingot_from_ore": {
     "criteria": {
       "has_item": "2024-12-19 02:17:03 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_pillar_from_moon_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_moon_pillar": "2024-12-19 03:51:18 +0000"
     },
     "done": true
   },
@@ -8509,9 +8677,21 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_slab_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_stone_slab": "2024-12-19 03:55:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2024-12-19 00:31:49 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/polished_moon_stone_from_moon_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_moon_stone": "2024-12-19 03:51:18 +0000"
     },
     "done": true
   },

@@ -6712,6 +6712,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/polished_moon_stone": {
+    "criteria": {
+      "has_polished_moon_stone": "2024-12-19 03:52:00 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_pendant": "2024-12-19 00:20:56 +0000"
@@ -6922,6 +6928,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/moon_cobblestone_slab": {
+    "criteria": {
+      "has_moon_cobblestone_slab": "2024-12-19 03:52:00 +0000"
+    },
+    "done": true
+  },
   "incendium:toxic_heap/root": {
     "criteria": {
       "requirement": "2024-12-19 00:48:11 +0000"
@@ -6937,6 +6949,18 @@
   "ad_astra:recipes/misc/steel_cable": {
     "criteria": {
       "has_steel_cable": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_cobblestone_slab_from_moon_cobblestone_stonecutting": {
+    "criteria": {
+      "has_moon_cobblestone_slab": "2024-12-19 03:52:00 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_cobblestone_stairs_from_moon_cobblestone_stonecutting": {
+    "criteria": {
+      "has_moon_cobblestone_stairs": "2024-12-19 03:52:00 +0000"
     },
     "done": true
   },
@@ -7081,6 +7105,12 @@
   "create:recipes/misc/crafting/kinetics/encased_fan": {
     "criteria": {
       "has_item": "2024-12-19 01:50:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/smelting/moon_stone_from_smelting_moon_cobblestone": {
+    "criteria": {
+      "has_moon_stone": "2024-12-19 03:52:00 +0000"
     },
     "done": true
   },
@@ -7328,6 +7358,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-19 00:27:15 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/moon_cobblestone_stairs": {
+    "criteria": {
+      "has_moon_cobblestone_stairs": "2024-12-19 03:52:00 +0000"
     },
     "done": true
   },
