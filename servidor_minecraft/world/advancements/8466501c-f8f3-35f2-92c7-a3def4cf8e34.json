@@ -7459,6 +7459,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_wall": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2024-12-19 02:37:17 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_pendant": "2024-12-19 01:01:32 +0000"
@@ -7681,6 +7687,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_slab": {
+    "criteria": {
+      "has_cut_tuff": "2024-12-19 02:37:17 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/blue_industrial_lamp": {
     "criteria": {
       "has_blue_industrial_lamp": "2024-12-19 00:09:43 +0000"
@@ -7696,6 +7708,12 @@
   "ad_astra:recipes/misc/small_purple_industrial_lamp": {
     "criteria": {
       "has_small_purple_industrial_lamp": "2024-12-19 00:10:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2024-12-19 02:37:17 +0000"
     },
     "done": true
   },
@@ -7870,15 +7888,51 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2024-12-19 02:42:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-19 01:37:54 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2024-12-19 02:42:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs": {
+    "criteria": {
+      "has_cut_tuff": "2024-12-19 02:37:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall": {
+    "criteria": {
+      "has_cut_tuff": "2024-12-19 02:37:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2024-12-19 02:42:19 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/small_blue_industrial_lamp": {
     "criteria": {
       "has_small_blue_industrial_lamp": "2024-12-19 00:09:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-19 02:40:11 +0000"
     },
     "done": true
   },
@@ -8002,6 +8056,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_slab": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2024-12-19 02:37:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-19 01:11:34 +0000"
@@ -8104,6 +8164,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-19 02:42:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/zinc_ingot_from_ore": {
     "criteria": {
       "has_item": "2024-12-19 02:17:03 +0000"
@@ -8113,6 +8179,12 @@
   "aether:recipes/transportation/skyroot_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-19 01:37:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2024-12-19 02:42:19 +0000"
     },
     "done": true
   },

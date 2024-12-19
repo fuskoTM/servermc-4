@@ -495,3 +495,11 @@
 [19Dec2024 02:34:08.339] [Worker-Main-275/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
 [19Dec2024 02:34:45.866] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
 [19Dec2024 02:35:13.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ moved wrongly!
+[19Dec2024 02:38:28.224] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / idas:bazaar], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern]] from pos BlockPos{x=331, y=68, z=1525}
+[19Dec2024 02:38:40.486] [Worker-Main-276/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[19Dec2024 02:38:46.494] [Worker-Main-275/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=547, y=69, z=1630}
+[19Dec2024 02:38:46.495] [Worker-Main-275/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=548, y=69, z=1630}
+[19Dec2024 02:38:57.749] [Worker-Main-274/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 02:39:52.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> encontre 1 dragonsin
+[19Dec2024 02:40:16.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ?
+[19Dec2024 02:45:31.950] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$MovementMode
