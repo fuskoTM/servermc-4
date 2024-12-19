@@ -12382,3 +12382,33 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [19Dec2024 00:41:42.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 20 [Ender Pearl] to LastFist]
 [19Dec2024 00:41:43.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 00:41:43.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:46:43.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:46:43.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:48:11.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Radioactive]
+[19Dec2024 00:48:33.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Radioactive]
+[19Dec2024 00:50:21.054] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/43792, l='ServerLevel[world]', x=-1221.17, y=-20.00, z=363.08] died: Toxic Slime was killed
+[19Dec2024 00:50:29.012] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/chaosthedude/explorerscompass/util/CompassState
+[19Dec2024 00:50:29.016] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ee20c607: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[19Dec2024 00:50:29.116] [Worker-Main-64/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena1 is being run through DFU (hash 1639040beee09f9270c31ac18907488c49bd397a20e3cf2e438ddeeeb2a4b5dc), this will cause launch time delays
+[19Dec2024 00:50:29.357] [Worker-Main-64/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena2 is being run through DFU (hash 3619c39a998b48ce06040cb5b2cd343bf9ebb514c9578b21882ce044438e23c0), this will cause launch time delays
+[19Dec2024 00:50:29.696] [Worker-Main-64/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena3 is being run through DFU (hash 86c0909e2efdb6293e471f96d6a14904efe4cb59b0c7d84784c34ba3ae92ce61), this will cause launch time delays
+[19Dec2024 00:50:29.859] [Worker-Main-64/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena4 is being run through DFU (hash 19fb2fa64aba37fa7dce14e6f4d54e3546f3efb7b8bb2e4fe7f6973f9aebc221), this will cause launch time delays
+[19Dec2024 00:50:30.035] [Worker-Main-64/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena5 is being run through DFU (hash 8fcc215c44a596a3ba2d8c554756d778b07bbbe23d17eccf3248d6e29a726b99), this will cause launch time delays
+[19Dec2024 00:50:30.164] [Worker-Main-64/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena6 is being run through DFU (hash 9384404d650a6664a7cb9870face813a55ea722abd34dd69732d681c50690141), this will cause launch time delays
+[19Dec2024 00:50:30.316] [Worker-Main-64/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena7 is being run through DFU (hash 9870666c6e554ecb0ab1c818a2fe78f966bfcfbb665a5dae552e96f4ec572290), this will cause launch time delays
+[19Dec2024 00:50:30.487] [Worker-Main-64/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena8 is being run through DFU (hash 1ef7866efb08c91acd64618129097e5b9b7ab7232a4984a255eb435ee18b0cda), this will cause launch time delays
+[19Dec2024 00:50:30.597] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ee20c607: RandomSpreadSearchWorker succeeded with 3756 radius, 20 samples
+[19Dec2024 00:50:34.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19Dec2024 00:50:34.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [A Burning Arena]
+[19Dec2024 00:50:41.761] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[19Dec2024 00:50:43.057] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/43866, l='ServerLevel[world]', x=-1210.08, y=-20.00, z=216.08] died: Toxic Slime was killed
+[19Dec2024 00:50:59.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> veni
+[19Dec2024 00:51:11.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [A Burning Arena]
+[19Dec2024 00:51:45.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:51:45.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:51:57.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [The Imperfect thing]
+[19Dec2024 00:52:01.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [The Imperfect thing]
+[19Dec2024 00:52:16.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> at
+[19Dec2024 00:52:44.159] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ignis_Entity$Crackiness
+[19Dec2024 00:53:19.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has completed the challenge [The Extinguished Fire]
+[19Dec2024 00:54:12.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has completed the challenge [The Extinguished Fire]

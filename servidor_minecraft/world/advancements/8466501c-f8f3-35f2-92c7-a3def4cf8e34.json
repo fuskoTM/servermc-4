@@ -7320,6 +7320,7 @@
       "incendium:weeping_valley": "2024-12-18 05:59:11 +0000",
       "incendium:infernal_dunes": "2024-12-19 00:31:29 +0000",
       "incendium:volcanic_deltas": "2024-12-19 00:35:32 +0000",
+      "incendium:toxic_heap": "2024-12-19 00:48:33 +0000",
       "incendium:withered_forest": "2024-12-19 00:34:38 +0000"
     },
     "done": false
@@ -7504,6 +7505,12 @@
     },
     "done": true
   },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2024-12-19 00:51:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
       "has_leather_boots": "2024-12-19 00:37:41 +0000"
@@ -7525,6 +7532,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2024-12-19 00:09:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2024-12-19 00:48:33 +0000"
     },
     "done": true
   },

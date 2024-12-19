@@ -178,3 +178,21 @@
 [19Dec2024 00:39:52.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Straddle My Ol' Saddle]
 [19Dec2024 00:41:35.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gamerule sendCommandFeedback is now set to: false]
 [19Dec2024 00:41:42.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 20 [Ender Pearl] to LastFist]
+[19Dec2024 00:48:11.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Radioactive]
+[19Dec2024 00:48:33.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Radioactive]
+[19Dec2024 00:50:21.054] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/43792, l='ServerLevel[world]', x=-1221.17, y=-20.00, z=363.08] died: Toxic Slime was killed
+[19Dec2024 00:50:29.012] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/chaosthedude/explorerscompass/util/CompassState
+[19Dec2024 00:50:29.016] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ee20c607: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[19Dec2024 00:50:30.597] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ee20c607: RandomSpreadSearchWorker succeeded with 3756 radius, 20 samples
+[19Dec2024 00:50:34.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19Dec2024 00:50:34.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [A Burning Arena]
+[19Dec2024 00:50:41.761] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[19Dec2024 00:50:43.057] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/43866, l='ServerLevel[world]', x=-1210.08, y=-20.00, z=216.08] died: Toxic Slime was killed
+[19Dec2024 00:50:59.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> veni
+[19Dec2024 00:51:11.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [A Burning Arena]
+[19Dec2024 00:51:57.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [The Imperfect thing]
+[19Dec2024 00:52:01.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [The Imperfect thing]
+[19Dec2024 00:52:16.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> at
+[19Dec2024 00:52:44.159] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ignis_Entity$Crackiness
+[19Dec2024 00:53:19.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has completed the challenge [The Extinguished Fire]
+[19Dec2024 00:54:12.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has completed the challenge [The Extinguished Fire]
