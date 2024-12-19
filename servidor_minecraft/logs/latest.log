@@ -1064,3 +1064,23 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [19Dec2024 03:07:05.185] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [19Dec2024 03:07:45.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of 1N_) moved too quickly! -0.06564779647942487,0.0,-10.172980841246044
 [19Dec2024 03:07:45.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of 1N_) moved too quickly! -0.3316556025490627,0.0,-10.736976432938718
+[19Dec2024 03:08:30.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Space Suit] to LastFist]
+[19Dec2024 03:08:33.206] [Worker-Main-274/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=1637, y=85, z=1373}
+[19Dec2024 03:08:33.207] [Worker-Main-274/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=1638, y=85, z=1373}
+[19Dec2024 03:08:33.307] [Worker-Main-275/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/GlobeManager$Model
+[19Dec2024 03:08:33.685] [Worker-Main-274/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 03:08:39.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Space Helmet] to LastFist]
+[19Dec2024 03:08:46.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Space Pants] to LastFist]
+[19Dec2024 03:08:50.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Winter Wagon]
+[19Dec2024 03:08:58.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Astronaut]
+[19Dec2024 03:08:58.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Space Boots] to LastFist]
+[19Dec2024 03:09:10.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist couldn't breathe anymore
+[19Dec2024 03:09:10.142] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[19Dec2024 03:09:10.177] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[19Dec2024 03:12:00.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ou
+[19Dec2024 03:12:02.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> encontre algo chimba
+[19Dec2024 03:12:39.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 54 [Iron Ingot] to LastFist]
+[19Dec2024 03:12:58.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ven
+[19Dec2024 03:13:02.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> voy
+[19Dec2024 03:13:03.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Eh-eh-oh, eh-oh]
+[19Dec2024 03:13:05.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> que casi voy al espacio
