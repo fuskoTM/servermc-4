@@ -7451,6 +7451,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pendant": "2024-12-19 01:01:32 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2024-12-19 00:10:21 +0000"
@@ -7508,6 +7514,18 @@
   "cataclysm:find_burning_arena": {
     "criteria": {
       "arena": "2024-12-19 00:51:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-12-19 00:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2024-12-19 00:54:27 +0000"
     },
     "done": true
   },
@@ -7619,6 +7637,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2024-12-19 00:53:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2024-12-19 00:09:43 +0000"
@@ -7669,6 +7693,12 @@
       "office": "2024-12-19 00:38:34 +0000"
     },
     "done": false
+  },
+  "aether:recipes/misc/ice_pendant_from_freezing": {
+    "criteria": {
+      "has_pendant": "2024-12-19 01:01:32 +0000"
+    },
+    "done": true
   },
   "ad_astra:recipes/misc/small_blue_industrial_lamp": {
     "criteria": {
@@ -7736,9 +7766,21 @@
     },
     "done": true
   },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2024-12-19 00:52:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_purple_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-19 00:10:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2024-12-19 00:56:46 +0000"
     },
     "done": true
   },
@@ -7781,6 +7823,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_blue_dye": {
     "criteria": {
       "forge:dyes/blue": "2024-12-19 00:09:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pendant": "2024-12-19 01:01:32 +0000"
     },
     "done": true
   },

@@ -196,3 +196,14 @@
 [19Dec2024 00:52:44.159] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ignis_Entity$Crackiness
 [19Dec2024 00:53:19.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has completed the challenge [The Extinguished Fire]
 [19Dec2024 00:54:12.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has completed the challenge [The Extinguished Fire]
+[19Dec2024 00:56:08.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Hidden in the Depths]
+[19Dec2024 01:02:56.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Nightmare Fuel]
+[19Dec2024 01:05:36.389] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ee20c607: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[19Dec2024 01:05:36.673] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager ee20c607: RandomSpreadSearchWorker succeeded with 970 radius, 4 samples
+[19Dec2024 01:05:41.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3685ms or 73 ticks behind
+[19Dec2024 01:05:45.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ moved too quickly! -3.4621680188674873,6.452451478075972,-7.0630407992248365
+[19Dec2024 01:05:45.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has completed the challenge [Hot Tourist Destinations]
+[19Dec2024 01:05:45.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [The Soul Forge]
+[19Dec2024 01:05:50.504] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/zeta/api/ICollateralMover$MoveResult
+[19Dec2024 01:05:50.511] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[19Dec2024 01:06:10.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> kike turista caliente
