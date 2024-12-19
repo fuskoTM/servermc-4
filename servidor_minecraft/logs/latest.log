@@ -503,3 +503,35 @@
 [19Dec2024 02:39:52.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> encontre 1 dragonsin
 [19Dec2024 02:40:16.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ?
 [19Dec2024 02:45:31.950] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$MovementMode
+[19Dec2024 02:47:28.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> eu
+[19Dec2024 02:47:29.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> que
+[19Dec2024 02:47:42.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Diamond Backpack] to LastFist]
+[19Dec2024 02:47:45.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> mate un fire de stage4
+[19Dec2024 02:51:07.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [The Lighthouse]
+[19Dec2024 02:52:25.640] [Worker-Main-276/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[19Dec2024 02:52:33.981] [Worker-Main-275/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19Dec2024 02:53:00.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Ocean Cleanup]
+[19Dec2024 02:53:37.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> q tecla es
+[19Dec2024 02:53:40.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> para q el dragon baje
+[19Dec2024 02:53:41.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ?
+[19Dec2024 02:53:47.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> X
+[19Dec2024 02:54:47.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> yo uso la x pal 5
+[19Dec2024 02:54:52.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> a coño
+[19Dec2024 02:54:57.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> yo uso la rueda
+[19Dec2024 02:54:59.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ya bindie
+[19Dec2024 02:55:03.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> melo
+[19Dec2024 02:55:04.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> yo uso x , c v r f
+[19Dec2024 02:55:04.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2345ms or 46 ticks behind
+[19Dec2024 02:55:07.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> para 5 6 7 8 9
+[19Dec2024 02:55:15.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> u
+[19Dec2024 02:55:19.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> q tryhard
+[19Dec2024 02:55:36.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> asi me acostumbre cuando jugaba pot
+[19Dec2024 02:56:07.572] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[19Dec2024 02:56:10.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of 1N_) moved too quickly! 10.1122168534705,3.8704244896026267,-0.9637562229208925
+[19Dec2024 02:56:14.389] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / idas:bazaar], ResourceKey[minecraft:worldgen/structure / idas:farmhouse], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house]] from pos BlockPos{x=1051, y=72, z=2149}
+[19Dec2024 02:56:14.703] [Worker-Main-275/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19Dec2024 02:56:16.930] [Worker-Main-276/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 02:56:18.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> god el dragon volador
+[19Dec2024 02:56:18.876] [Worker-Main-274/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 02:56:18.876] [Worker-Main-274/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 02:56:18.894] [Worker-Main-274/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 

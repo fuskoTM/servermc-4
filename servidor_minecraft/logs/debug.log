@@ -12978,3 +12978,80 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [19Dec2024 02:45:36.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
 [19Dec2024 02:46:57.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 02:46:57.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 02:47:28.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> eu
+[19Dec2024 02:47:29.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> que
+[19Dec2024 02:47:42.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Diamond Backpack] to LastFist]
+[19Dec2024 02:47:45.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> mate un fire de stage4
+[19Dec2024 02:48:42.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:nexus/nexus_white
+[19Dec2024 02:51:07.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [The Lighthouse]
+[19Dec2024 02:51:43.162] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:brickhouse/brickhouse
+[19Dec2024 02:51:43.165] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:brickhouse/brickhouse_path
+[19Dec2024 02:51:44.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_0_speed
+[19Dec2024 02:51:52.969] [Worker-Main-275/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[19Dec2024 02:51:57.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 02:51:57.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 02:52:25.640] [Worker-Main-276/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[19Dec2024 02:52:33.981] [Worker-Main-275/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19Dec2024 02:53:00.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Ocean Cleanup]
+[19Dec2024 02:53:37.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> q tecla es
+[19Dec2024 02:53:40.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> para q el dragon baje
+[19Dec2024 02:53:41.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ?
+[19Dec2024 02:53:46.946] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[19Dec2024 02:53:46.946] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[19Dec2024 02:53:46.946] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[19Dec2024 02:53:46.947] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[19Dec2024 02:53:46.947] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[19Dec2024 02:53:46.947] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[19Dec2024 02:53:46.948] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[19Dec2024 02:53:46.948] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[19Dec2024 02:53:46.948] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[19Dec2024 02:53:47.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> X
+[19Dec2024 02:53:48.196] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:cottage/cottage
+[19Dec2024 02:53:48.827] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:cottage/cottage2
+[19Dec2024 02:54:47.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> yo uso la x pal 5
+[19Dec2024 02:54:52.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> a coño
+[19Dec2024 02:54:57.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> yo uso la rueda
+[19Dec2024 02:54:59.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ya bindie
+[19Dec2024 02:55:03.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> melo
+[19Dec2024 02:55:04.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> yo uso x , c v r f
+[19Dec2024 02:55:04.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2345ms or 46 ticks behind
+[19Dec2024 02:55:07.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> para 5 6 7 8 9
+[19Dec2024 02:55:15.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> u
+[19Dec2024 02:55:19.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> q tryhard
+[19Dec2024 02:55:36.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> asi me acostumbre cuando jugaba pot
+[19Dec2024 02:55:40.735] [Worker-Main-276/DEBUG] [ModernFix/]: Using cached upgraded version of idas:nexus/nexus
+[19Dec2024 02:56:04.546] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_0
+[19Dec2024 02:56:04.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_4
+[19Dec2024 02:56:04.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_5
+[19Dec2024 02:56:04.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_pillager_0
+[19Dec2024 02:56:04.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_illusioner_0
+[19Dec2024 02:56:04.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_4
+[19Dec2024 02:56:04.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_vindicator_0
+[19Dec2024 02:56:04.557] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_3
+[19Dec2024 02:56:04.559] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_8
+[19Dec2024 02:56:04.560] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_7
+[19Dec2024 02:56:04.564] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_1
+[19Dec2024 02:56:04.566] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_0
+[19Dec2024 02:56:04.566] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_evoker_0
+[19Dec2024 02:56:04.568] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_6
+[19Dec2024 02:56:04.570] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_2
+[19Dec2024 02:56:04.571] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_2
+[19Dec2024 02:56:04.573] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_5
+[19Dec2024 02:56:04.574] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_6
+[19Dec2024 02:56:04.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_7
+[19Dec2024 02:56:07.572] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[19Dec2024 02:56:10.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of 1N_) moved too quickly! 10.1122168534705,3.8704244896026267,-0.9637562229208925
+[19Dec2024 02:56:13.596] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[19Dec2024 02:56:13.601] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[19Dec2024 02:56:13.603] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[19Dec2024 02:56:13.616] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_6
+[19Dec2024 02:56:14.389] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / idas:bazaar], ResourceKey[minecraft:worldgen/structure / idas:farmhouse], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house]] from pos BlockPos{x=1051, y=72, z=2149}
+[19Dec2024 02:56:14.703] [Worker-Main-275/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19Dec2024 02:56:15.550] [Worker-Main-275/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[19Dec2024 02:56:16.930] [Worker-Main-276/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 02:56:18.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> god el dragon volador
+[19Dec2024 02:56:18.876] [Worker-Main-274/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 02:56:18.876] [Worker-Main-274/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 02:56:18.894] [Worker-Main-274/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 02:56:59.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 02:56:59.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
