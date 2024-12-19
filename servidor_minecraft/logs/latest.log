@@ -1,3 +1,31 @@
 [19Dec2024 00:00:15.116] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [19Dec2024 00:05:25.830] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
 [19Dec2024 00:05:29.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [Great minds think alike]
+[19Dec2024 00:05:46.420] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[19Dec2024 00:06:34.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [Die Classy]
+[19Dec2024 00:10:21.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Neighborhood Brawl]
+[19Dec2024 00:11:21.273] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[19Dec2024 00:15:23.480] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LastFist[/127.175.198.153:44413] logged in with entity id 16291 at (-189.73773922691345, 111.0, -343.30000001192093)
+[19Dec2024 00:15:23.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist joined the game
+[19Dec2024 00:15:23.580] [Server thread/INFO] [Jade/]: Syncing config to LastFist (6b21e182-7631-3fbc-8f23-4ba195d9581f)
+[19Dec2024 00:15:25.584] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LastFist (18)
+[19Dec2024 00:15:25.585] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LastFist
+[19Dec2024 00:15:27.619] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6b21e182-7631-3fbc-8f23-4ba195d9581f
+[19Dec2024 00:15:28.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6b21e182-7631-3fbc-8f23-4ba195d9581f
+[19Dec2024 00:15:28.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player LastFist (6b21e182-7631-3fbc-8f23-4ba195d9581f) successfully connected to voice chat
+[19Dec2024 00:17:21.605] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/16432, l='ServerLevel[world]', x=-286.50, y=-20.00, z=-370.50] died: Restless Spirit was killed
+[19Dec2024 00:17:59.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> hablalo
+[19Dec2024 00:18:02.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> q dice
+[19Dec2024 00:18:08.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> y la gente
+[19Dec2024 00:18:15.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> ya les digo
+[19Dec2024 00:20:01.109] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[19Dec2024 00:20:01.110] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[19Dec2024 00:20:01.113] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[19Dec2024 00:20:21.266] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[19Dec2024 00:20:48.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [Piglin Pillage]
+[19Dec2024 00:20:55.972] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/18087, l='ServerLevel[world]', x=-572.50, y=58.00, z=-328.48] died: Piglin Civilian was slain by LastFist
+[19Dec2024 00:21:41.226] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/18266, l='ServerLevel[world]', x=-573.01, y=58.00, z=-303.66] died: Piglin Civilian was slain by LastFist
+[19Dec2024 00:22:24.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18381, l='ServerLevel[world]', x=-499.65, y=-20.00, z=-354.46] died: Restless Spirit was killed
+[19Dec2024 00:22:42.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Nightmare Fuel]
+[19Dec2024 00:23:03.605] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19063, l='ServerLevel[world]', x=-506.98, y=-20.00, z=-322.85] died: Restless Spirit was killed
+[19Dec2024 00:25:31.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/23299, l='ServerLevel[world]', x=-530.50, y=-20.00, z=-330.50] died: Restless Spirit was killed
