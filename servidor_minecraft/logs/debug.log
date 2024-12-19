@@ -12915,3 +12915,13 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [19Dec2024 02:11:57.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Dec2024 02:16:57.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 02:16:57.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 02:21:32.619] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[19Dec2024 02:21:32.619] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[19Dec2024 02:21:32.627] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[19Dec2024 02:21:57.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 02:21:57.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 02:26:24.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[19Dec2024 02:26:46.416] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/ContraptionCollider$PlayerType
+[19Dec2024 02:26:50.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Baby's First Rocket]
+[19Dec2024 02:26:57.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 02:26:57.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

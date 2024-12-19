@@ -6736,6 +6736,12 @@
     },
     "done": true
   },
+  "ad_astra:tier_1_rocket": {
+    "criteria": {
+      "has_tier_1_rocket": "2024-12-19 02:26:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2024-12-19 01:50:41 +0000"
