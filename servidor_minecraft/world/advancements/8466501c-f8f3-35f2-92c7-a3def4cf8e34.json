@@ -7461,6 +7461,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_wall": {
     "criteria": {
       "has_cut_tuff_bricks": "2024-12-19 02:37:17 +0000"
@@ -7479,9 +7485,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-19 03:03:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-19 02:28:18 +0000"
+    },
+    "done": true
+  },
+  "quark:crawl_in_hollow_log": {
+    "criteria": {
+      "crawl_in_hollow_log": "2024-12-19 03:06:24 +0000"
     },
     "done": true
   },
@@ -7524,6 +7548,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-19 01:11:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2024-12-19 03:03:36 +0000"
     },
     "done": true
   },
@@ -7593,6 +7623,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2024-12-19 00:54:27 +0000"
@@ -7614,6 +7656,18 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-19 01:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-19 03:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-19 03:03:36 +0000"
     },
     "done": true
   },
@@ -7671,6 +7725,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_snout_armor_trim_smithing_template": "2024-12-19 01:27:01 +0000"
@@ -7725,6 +7785,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-19 01:11:34 +0000"
@@ -7746,6 +7812,12 @@
   "aether:recipes/combat/leather_helmet_repairing": {
     "criteria": {
       "has_leather_helmet": "2024-12-19 00:37:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
     },
     "done": true
   },
@@ -7779,6 +7851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2024-12-19 03:01:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_orange_tulip": "2024-12-19 02:34:11 +0000"
@@ -7794,6 +7872,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2024-12-19 00:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-19 03:03:36 +0000"
     },
     "done": true
   },
@@ -7815,6 +7899,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2024-12-18 23:55:04 +0000"
@@ -7830,6 +7920,12 @@
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2024-12-19 00:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-19 03:03:36 +0000"
     },
     "done": true
   },
@@ -7857,6 +7953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-19 03:03:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2024-12-19 01:19:44 +0000"
@@ -7866,6 +7968,18 @@
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2024-12-19 00:09:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
     },
     "done": true
   },
@@ -7881,6 +7995,18 @@
   "aether:recipes/misc/ice_pendant_from_freezing": {
     "criteria": {
       "has_pendant": "2024-12-19 01:01:32 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2024-12-19 03:05:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-19 03:03:36 +0000"
     },
     "done": true
   },
@@ -7926,6 +8052,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/small_blue_industrial_lamp": {
     "criteria": {
       "has_small_blue_industrial_lamp": "2024-12-19 00:09:43 +0000"
@@ -7962,6 +8094,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-19 03:03:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 00:36:04 +0000"
@@ -7980,6 +8124,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-19 03:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-19 03:03:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2024-12-19 02:52:43 +0000"
@@ -7995,6 +8151,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-19 01:37:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
     },
     "done": true
   },
@@ -8034,6 +8196,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/gray_flag": {
     "criteria": {
       "has_gray_flag": "2024-12-19 02:32:46 +0000"
@@ -8046,6 +8214,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_revenant": {
     "criteria": {
       "endergolem": "2024-12-19 00:52:01 +0000"
@@ -8055,6 +8229,12 @@
   "minecraft:recipes/building_blocks/dye_purple_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-19 00:10:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
     },
     "done": true
   },
@@ -8097,6 +8277,18 @@
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2024-12-19 02:29:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
     },
     "done": true
   },
@@ -8163,6 +8355,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-19 00:36:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-12-19 03:01:13 +0000"
     },
     "done": true
   },
