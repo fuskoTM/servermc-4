@@ -6700,6 +6700,12 @@
     },
     "done": true
   },
+  "ad_astra:moon_cheese": {
+    "criteria": {
+      "has_moon_cheese": "2024-12-19 03:23:28 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/statue": {
     "criteria": {
       "has_smooth_stone_slab": "2024-12-19 01:36:43 +0000"
@@ -6838,6 +6844,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/desh_block": {
+    "criteria": {
+      "has_desh_block": "2024-12-19 03:23:22 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/steel_tank": {
     "criteria": {
       "has_steel_tank": "2024-12-19 01:54:12 +0000"
@@ -6937,6 +6949,12 @@
   "ad_astra:recipes/nasa_workbench/nasa_workbench/tier_1_rocket_from_nasa_workbench": {
     "criteria": {
       "has_item": "2024-12-19 01:55:49 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/desh_plate_from_compressing_desh_ingots": {
+    "criteria": {
+      "has_item": "2024-12-19 03:23:22 +0000"
     },
     "done": true
   },
@@ -7247,6 +7265,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/desh_ingot": {
+    "criteria": {
+      "has_desh_ingot": "2024-12-19 03:23:23 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/gas_tank": {
     "criteria": {
       "has_gas_tank": "2024-12-19 01:50:41 +0000"
@@ -7355,6 +7379,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/cheese_block": {
+    "criteria": {
+      "has_cheese_block": "2024-12-19 03:23:28 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/steel_engine": {
     "criteria": {
       "has_steel_engine": "2024-12-19 01:54:12 +0000"
@@ -7460,6 +7490,12 @@
   "ad_astra:recipes/misc/rocket_nose_cone": {
     "criteria": {
       "has_rocket_nose_cone": "2024-12-19 01:54:12 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_nugget": {
+    "criteria": {
+      "has_desh_nugget": "2024-12-19 03:23:22 +0000"
     },
     "done": true
   },
